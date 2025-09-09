@@ -1,0 +1,10 @@
+<svg id="headset_mic_black_24dp" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34" height="34" viewBox="0 0 34 34">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.061" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#07fae6"/>
+      <stop offset="1" stop-color="#37ff49"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_18814" data-name="Path 18814" d="M0,0H34V34H0Z" fill="none" opacity="0.1"/>
+  <path id="Path_18815" data-name="Path 18815" d="M13.9,1A10.905,10.905,0,0,0,3,11.9v8.481A3.63,3.63,0,0,0,6.635,24.02H10.27V14.327H5.423V11.9a8.481,8.481,0,0,1,16.962,0v2.423H17.539V24.02h4.846v1.212H13.9v2.423h7.27a3.63,3.63,0,0,0,3.635-3.635V11.9A10.905,10.905,0,0,0,13.9,1Z" transform="translate(3.096 2.673)" fill="url(#linear-gradient)"/>
+</svg>

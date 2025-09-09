@@ -1,0 +1,15 @@
+<svg id="ic-telecom-process07" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_12937" data-name="Group 12937">
+    <path id="Path_18602" data-name="Path 18602" d="M0,0H32V32H0Z" fill="none"/>
+  </g>
+  <g id="Group_12939" data-name="Group 12939" transform="translate(2.512 3.878)">
+    <g id="Group_12938" data-name="Group 12938" transform="translate(0)">
+      <rect id="Rectangle_6839" data-name="Rectangle 6839" width="2" height="4" transform="translate(12.488 21.61)" fill="#99f"/>
+      <rect id="Rectangle_6840" data-name="Rectangle 6840" width="4" height="2" transform="translate(0 11.093)" fill="#99f"/>
+      <rect id="Rectangle_6841" data-name="Rectangle 6841" width="4" height="2" transform="translate(22.976 11.093)" fill="#99f"/>
+      <rect id="Rectangle_6842" data-name="Rectangle 6842" width="2.572" height="3.878" transform="translate(19.009 20.109) rotate(-45)" fill="#99f"/>
+      <rect id="Rectangle_6843" data-name="Rectangle 6843" width="3.878" height="2.572" transform="translate(3.414 21.023) rotate(-45)" fill="#99f"/>
+      <path id="Path_18603" data-name="Path 18603" d="M17.341,9.489V3H9.585V9.489a6.463,6.463,0,1,0,7.756,0Zm-5.171-3.9h2.585V8.3a6.528,6.528,0,0,0-2.585,0Z" transform="translate(0.024 -3)" fill="#99f"/>
+    </g>
+  </g>
+</svg>

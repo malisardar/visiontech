@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.042" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#793aff"/>
+      <stop offset="0.521" stop-color="#a01ce7"/>
+      <stop offset="1" stop-color="#f26430"/>
+    </linearGradient>
+  </defs>
+  <g id="ic_content-offer05" transform="translate(-873 -1466)">
+    <rect id="Rectangle_857" data-name="Rectangle 857" width="100" height="100" rx="8" transform="translate(873 1466)" fill="#fff" opacity="0"/>
+    <path id="Union_270" data-name="Union 270" d="M-9399.271-10525l-4.729-4.777v-3.557h26.208l2.063,2.084h9.461l2.063-2.084H-9338v3.557l-4.729,4.777Zm-2.667-5.64,3.521,3.556h54.834l3.521-3.556v-.61h-23.294l-2.062,2.083h-11.166l-2.062-2.083h-23.294Zm57.75-4.777v-27.084h2.063v27.084Zm-55.686,0v-35.415a4.152,4.152,0,0,1,4.124-4.169h41.251v2.083h-41.251a2.074,2.074,0,0,0-2.062,2.086v35.415Zm4.124-2.084v-33.331h41.251v2.081h-39.188v29.167h45.375v-22.917h2.063v25Zm40.219-4.166v-14.584h2.063v14.584Zm-4.124,0v-10.417h2.062v10.417Zm-4.127,0v-6.25h2.064v6.25Zm-4.125,0v-6.25h2.063v6.25Zm-4.124,0v-10.417h2.063v10.417Zm-4.124,0v-10.417h2.063v10.417Zm-4.127,0v-6.25h2.064v6.25Zm-4.124,0v-2.084h2.062v2.084Zm-6.917-1.778,18.26-18.445,8.251,8.336,19.169-19.363h-4.731V-10575h8.249v8.333h-2.062v-4.775l-20.624,20.832-8.251-8.333-16.8,16.972Z" transform="translate(10294 12066)" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

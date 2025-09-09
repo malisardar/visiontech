@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="ic-telecom-process15" transform="translate(7131 -4588)">
+    <g id="Group_12947" data-name="Group 12947" transform="translate(6.084 -46.916)">
+      <g id="more_time_black_24dp" transform="translate(-7134.473 4637.527)">
+        <g id="Group_12944" data-name="Group 12944" transform="translate(0 0)">
+          <rect id="Rectangle_6846" data-name="Rectangle 6846" width="27" height="27" transform="translate(0.389 0.389)" fill="none"/>
+        </g>
+        <g id="Group_12946" data-name="Group 12946" transform="translate(1.731 4.052)">
+          <g id="Group_12945" data-name="Group 12945">
+            <path id="Path_18612" data-name="Path 18612" d="M10,8v6.962l5.453,3.365.928-1.392L11.74,14.149V8Z" transform="translate(-0.718 -3.359)" fill="#99f"/>
+            <path id="Path_18613" data-name="Path 18613" d="M20.471,13.282a7.7,7.7,0,0,1,.093,1.16,8.122,8.122,0,1,1-8.122-8.122,8.015,8.015,0,0,1,2.321.336V4.267A10.163,10.163,0,0,0,12.442,4,10.442,10.442,0,1,0,22.885,14.442a9.586,9.586,0,0,0-.07-1.16Z" transform="translate(-2 -4)" fill="#99f"/>
+          </g>
+        </g>
+      </g>
+      <path id="Path_18616" data-name="Path 18616" d="M11.051,15.323,8.58,12.852l-1.23,1.23,3.69,3.69,3.6-3.6L18,10.81l-1.23-1.23-5.72,5.743Z" transform="translate(-7125.763 4630.352)" fill="#99f"/>
+    </g>
+    <rect id="Rectangle_6847" data-name="Rectangle 6847" width="32" height="32" transform="translate(-7131 4588)" fill="none"/>
+  </g>
+</svg>

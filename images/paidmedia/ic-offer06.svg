@@ -1,0 +1,12 @@
+<svg id="ic-offer06" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_5833" data-name="Group 5833">
+    <rect id="Rectangle_3875" data-name="Rectangle 3875" width="32" height="32" fill="none"/>
+  </g>
+  <g id="Group_5835" data-name="Group 5835" transform="translate(1.333 4)">
+    <g id="Group_5834" data-name="Group 5834">
+      <path id="Path_7495" data-name="Path 7495" d="M27.667,8a2.671,2.671,0,0,0-2.573,3.347L20.36,16.093a2.716,2.716,0,0,0-1.387,0l-3.4-3.4a2.665,2.665,0,1,0-5.147,0L4.347,18.76A2.664,2.664,0,1,0,6.24,20.653l6.067-6.08a2.716,2.716,0,0,0,1.387,0l3.4,3.4a2.665,2.665,0,1,0,5.147,0l4.747-4.733A2.664,2.664,0,1,0,27.667,8Z" transform="translate(-1 -1.333)" fill="#1db954"/>
+      <path id="Path_7496" data-name="Path 7496" d="M16,11l1.253-2.76L20,7,17.253,5.76,16,3,14.773,5.76,12,7l2.773,1.24Z" transform="translate(2.667 -3)" fill="#1db954"/>
+      <path id="Path_7497" data-name="Path 7497" d="M4.333,12.667,5,10l2.667-.667L5,8.667,4.333,6,3.667,8.667,1,9.333,3.667,10Z" transform="translate(-1 -2)" fill="#1db954"/>
+    </g>
+  </g>
+</svg>

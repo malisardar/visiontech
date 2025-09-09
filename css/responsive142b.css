@@ -1,0 +1,2223 @@
+@media screen and (max-width: 1680px) {
+    p, li  {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .ContainerCustom {
+        max-width: 1280px;
+    }
+    .MenuNav li a {
+        font-size: 50px;
+        line-height: 55px;
+    }
+    .MenuNav svg.ArrowMove {
+        left: -35px;
+        width: 22px;
+        height: 36px;
+        top: 8px;
+    }
+    .MenuNav svg.ArrowPosition1 {
+        top: 8px;
+    }
+    .MenuNav svg.ArrowPosition2 {
+        top: 63px;
+    }
+    .MenuNav svg.ArrowPosition3 {
+        top: 119px;
+    }
+    .MenuNav svg.ArrowPosition4 {
+        top: 174px;
+    }
+    .MenuNav svg.ArrowPosition5 {
+        top: 230px;
+    }
+    .HomeHeader p {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .HomeHeader .heading {
+        font-size: 72px;
+        line-height: 85px;
+    }
+    .HomeHeader .heading span {
+        height: 85px;
+    }
+    .homeheaderchange .heading {
+        font-size: 42px;
+        line-height: 50px;
+    }
+    .homeheaderchange .heading span {
+        height: 60px;
+    }
+    .HomeSliderContainer {
+        max-width: 750px;
+    }
+    .BtnWithArrow {
+        height: 58px;
+        border-radius: 40px;
+        line-height: 54px;
+        font-size: 18px;
+    }
+    .BtnWithArrow svg {
+        width: 24px;
+    }
+    .BtnWithIcon {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .BtnWithIcon svg {
+        width: 34px;
+        margin-right: 10px;
+        margin-top: 0px;
+    }
+    .BtnWithIcon:hover svg {
+        width: 26px;
+        margin-top: 5px;
+    }
+    .MainMenu>li>a {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .logo {
+        width: 140px;
+    }
+    .mjunoonLogo {
+        width: 42px;
+    }
+    .expertiseSec {
+        padding-top: 90px;
+    }
+    .howCanHelp {
+        padding-bottom: 50px;
+    }
+    .howCanHelp p {
+        font-size: 38px;
+        line-height: 46px;
+    }
+    .howCanHelp a {
+        font-size: 24px;
+        line-height: 30px;
+        margin-right: 100px;
+    }
+    .howCanHelp a svg {
+        width: 26px;
+    }
+    .expertiseContainer .heading {
+        font-size: 32px;
+        line-height: 40px;
+    }
+    .expertiseBox .subheading {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .expertiseBox p {
+        font-size: 14px;
+        line-height: 20px;
+        height: 80px;
+    }
+    .expertiseBox a {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .TechCompanySec .sec1heading {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .TechCompanySec .sec2heading {
+        font-size: 60px;
+        line-height: 72px;
+    }
+    .toggleBox p strong {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .toggleBox h3 {
+        font-size: 48px;
+        line-height: 60px;
+    }
+    .toggleBox p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .pmdm {
+        max-width: 820px;
+    }
+    .plrg {
+        max-width: 950px;
+    }
+    .psml {
+        max-width: 680px;
+    }
+    .gridTxtContainer h2 {
+        font-size: 48px;
+        line-height: 58px;
+    }
+    .gridTxtContainer h5 {
+        font-size: 32px;
+        line-height: 40px;
+    }
+    .gridTxtContainer p {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .gridTxtContainer a {
+        height: 58px;
+        border-radius: 40px;
+        line-height: 54px;
+        font-size: 18px;
+    }
+    .gridTxtContainer a svg {
+        width: 24px;
+    }
+    .animBoxTxt h3 {
+        width: calc(100% - 150px);
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .animBoxTxt span {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .animBoxTxt p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .animBoxTxt {
+        padding-top: 16px;
+    }
+    .OurCoreProducts h2 {
+        color: #2C2C2C;
+        font-size: 32px;
+        line-height: 40px;
+    }
+    .portHover h4 {
+        font-size: 46px;
+        line-height: 56px;
+    }
+    .portHover p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .ContactForm {
+        width: 500px;
+        min-height: 540px;
+        padding: 70px 44px 40px;
+    }
+    .ContactFld .uk-input {
+        font-size: 16px;
+        height: 50px;
+    }
+    .ContactFld .uk-select:not([multiple]):not([size]) {
+        font-size: 16px;
+        height: 50px;
+    }
+    .ContactFld .submitBtn {
+        height: 60px;
+        border-radius: 30px;
+        font-size: 18px;
+    }
+    .contactTxt {
+        max-width: 430px;
+    }
+    .contactTxt h3,.contactTxt h2 {
+        max-width: 426px;
+        font-size: 64px;
+        line-height: 64px;
+    }
+    .contactTxt p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .ClientSec .OurCoreProductsSlider li a {
+        width: 134px;
+    }
+    .NotableWorkSec h2 {
+        font-size: 32px;
+        line-height: 40px;
+    }
+    .NotableWorktxt h3 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .NotableWorktxt p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .NotableWorktxt p svg {
+        width: 26px;
+    }
+    .SplitBoxInner h4 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+    .SplitBoxInner p {
+       font-size: 18px;
+        line-height: 24px;
+    }
+    .SplitBoxInner p svg {
+        width: 24px;
+    }
+    .ftrCDetails {
+        max-width: 330px;
+    }
+    .ftrCDetails h5 {
+        font-size: 36px;
+        line-height: 44px;
+    }
+    .ftrCDetails p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .ftrCDetails p strong {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .ftrLink li a {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .FtrWABox p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .FtrWABox a {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .ftr_grd address p strong {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .ftr_grd address p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .ftr_grd address p a {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .FtrWABox {
+        max-width: 320px;
+    }
+    .FtrBar p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .FtrBar ul li a {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .HeadingBox .BtnWithIcon {
+        bottom: 46px;
+    }
+    .AboutPage .TechCompanySec .sec1heading {
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .AboutPage .TechCompanySec .sec2heading {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .AboutGameChangeBox h2 {
+        font-size: 48px;
+        line-height: 58px;
+    }
+    .AboutGameChangeBox p {
+        font-size: 24px;
+        line-height: 34px;
+        max-width: 720px;
+    }
+    .OfferServicesSec p {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .OfferServicesSec h2 {
+        font-size: 60px;
+        line-height: 72px;
+    }
+    .OfferServicestxt h3 {
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .OfferServicesSec .OfferServicestxt p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .ServingtelecomBox h2 {
+        font-size: 60px;
+        line-height: 72px;
+    }
+    .ServingtelecomBox p {
+        max-width: 720px;
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .ServingtelecomBox h3 {
+        max-width: 710px;
+        font-size: 48px;
+        line-height: 60px;
+    }
+    .ServingtelecomBox p strong {
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .readmore {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .EntertainmentSec h3 {
+        font-size: 64px;
+        line-height: 64px;
+    }
+    .EntertainmentSec ul li p {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .EntertainmentSec ul li p ~ p {
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .JustStartedTxt h2 {
+        font-size: 64px;
+        line-height: 64px;
+    }
+    .JustStartedTxt p {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .JustStartedTxt p strong {
+        font-size: 34px;
+        line-height: 42px;
+    }
+    .BtnGradiant {
+        height: 58px;
+        border-radius: 40px;
+        line-height: 54px;
+        font-size: 18px;
+    }
+    .BtnGradiant svg {
+        width: 22px;
+    }
+    .TabsSec h2 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+    .aditionBox h3 {
+        font-size: 32px;
+        line-height: 40px;
+    }
+    .aditionBox p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .TabsSec .HelpYouTxtBox h4,.TabsSec .HelpYouTxtBox h3 {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .TabsSec .HelpYouTxtBox p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .TabsSec .HelpYouIconBox {
+        width: 75px;
+        height: 75px;
+    }
+    .HowWeHelpYouSec h2 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+    .FAQSec h2 {
+        font-size: 48px;
+        line-height: 60px;
+    }
+    .FAQBox .uk-accordion-title {
+        font-size: 32px;
+        line-height: 34px;
+    }
+    .FAQBox .uk-accordion-title svg {
+        width: 26px;
+    }
+    .PortfolioHeader h1, .CasestudiesHeader h1 {
+        font-size: 72px;
+        line-height: 78px;
+    }
+    .PortfolioHeader p, .CasestudiesHeader p {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .WhatsappWithWPCont h2 {
+        font-size: 48px;
+        line-height: 58px;
+    }
+    .WhatsappWithWPImg {
+        padding: 30px 0 30px;
+    }
+    .WhatsappWithWPImg svg {
+        width: 100px;
+    }
+    .WhatsappWithWPTxt p {
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .ElevateHead h2 {
+        font-size: 48px;
+        line-height: 58px;
+    }
+    .ElevateHead p {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .ElevateCont ul li a span {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .ContactAddress address p strong {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .OfferServicesHead h2 {
+        font-size: 48px;
+        line-height: 60px;
+    }
+    .JustStartedGrid h6 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .MadvertiserPage .ServingtelecomBox h3 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .MadvertiserPage .ServingtelecomBox h2 {
+        font-size: 60px;
+        line-height: 72px;
+    }
+    .MadvertiserPage .ServingtelecomBox p {
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .ProfileingDHead h2 {
+        font-size: 48px;
+        line-height: 60px;
+    }
+    .ProfileingDHead p {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .ServiciesText h3 {
+        font-size: 48px;
+        line-height: 60px;
+    }
+    .SeoHeader h1 {
+        font-size: 72px;
+        line-height: 85px;
+    }
+    .SeoHeader p strong {
+        font-size: 32px;
+        line-height: 40px;
+    }
+    .SeoHeader p {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .B2bB2cSec h2 {
+        font-size: 48px;
+        line-height: 58px;
+    }
+    .B2bB2cBox {
+        max-width: 900px;
+    }
+    .B2bB2cBoxInner svg {
+        width: 16px;
+    }
+    .B2bB2cBox ul li .B2bB2cBoxInner {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .WhatsappHeader h1 { 
+        font-size: 60px;
+        line-height: 70px;
+    }
+    .WhatsappHeader p {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .CasestudiesInnerHeader h1 {
+        font-size: 72px;
+        line-height: 78px;
+    }
+    .CasestudiesInnerHeader p {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .CasestudiesInnerHeader a {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .BusinessChallenge h3 {
+        font-size: 48px;
+        line-height: 58px;
+    }
+    .BusinessChallenge p {
+        font-size: 18px;
+        line-height: 26px;
+        max-width: 600px;
+    }
+    .CSINumber h4 {
+        font-size: 60px;
+        line-height: 72px;
+    }
+    .CSINumber p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .BusinessChallenge ul li {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .TelecomWithWPBox h4 {
+        font-size: 18px;
+    }
+    .TelecomWithWPBox ul li {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .loader-word {
+        height: 170px;
+    }
+    .loader-word-inside {
+         height: 170px;
+    }
+    .uk-active .SubMenuSec {
+        background-position: 0 65px;
+    }
+    .CallCenterImgBtm .JustStartedimg {
+        bottom: -22px;
+    }
+    .ThankyouModal h2 {
+        font-size: 38px;
+        line-height: 46px;
+    }
+   .slider_cont .SliderHeading {
+        font-size: 48px;
+        line-height: 58px;
+    }
+    .slider_cont .SliderHeading span {
+        height: 70px;
+    }
+    .whatsappbtnapi {
+        font-size: 14px;
+        padding: 7px 10px;
+        line-height: 20px;
+    }
+    .whatsappbtnapi svg {
+        width: 16px;
+    }
+    .SubMenuSec {
+        padding: 120px 120px 0;
+    }
+    .PrivacyPolicySec h1 {
+        font-size: 48px;
+        line-height: 58px;
+    }
+    .PrivacyPolicySec h3 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+}
+    @media screen and (max-width: 1440px) {
+    p, li  {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .ContainerCustom {
+        max-width: 1100px;
+    }
+    .logo {
+        width: 114px;
+    }
+    .MainMenu>li>a {
+        font-size: 12px;
+        padding: 6px 0px;
+    }
+    .mjunoonLogo {
+        width: 36px;
+    }
+    .HomeHeader p {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .HomeHeader .heading {
+        font-size: 62px;
+        line-height: 75px;
+    }
+    .HomeHeader .heading span {
+        height: 75px;
+    }
+    .HomeHeader .heading> span:before {
+        bottom: 5px;
+        height: 3px;
+    }
+    .homeheaderchange .heading {
+        font-size: 38px;
+        line-height: 46px;
+    }
+    .homeheaderchange .heading span {
+        height: 56px;
+    }
+    .HomeSliderContainer {
+        max-width: 650px;
+    }
+    .isoCertified {
+        font-size: 16px;
+        line-height: 20px;
+        max-width: 160px;
+    }
+    .expertiseContainer .heading {
+        font-size: 28px;
+        line-height: 34px;
+    }
+    .expertiseBG {
+        -webkit-clip-path: polygon(92% 0,100% 8%,100% 100%,0 100%,0% 50%,0 0);
+        clip-path: polygon(92% 0,100% 8%,100% 100%,0 100%,0% 50%,0 0);
+    }
+    .expertiseBox .subheading {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .expertiseBox p {
+        font-size: 12px;
+        line-height: 18px;
+        height: 90px;
+    }
+    .BtnWithArrow {
+        height: 50px;
+        border-radius: 25px;
+        line-height: 44px;
+        font-size: 16px;
+    }
+    .BtnWithArrow svg {
+        width: 20px;
+    }
+    .expertiseBox a {
+        font-size: 14px;
+    }
+    .BtnWithIcon {
+        font-size:  22px;
+        line-height: 28px;
+    }
+    .BtnWithIcon svg {
+        width: 28px;
+    }
+    .BtnWithIcon:hover svg {
+        width: 24px;
+        margin-top: 4px;
+    }
+    .BtnWithIcon span:before {
+        bottom: 0px;
+    }
+    .expertiseSec {
+        padding-top: 80px;
+    }
+    .TechCompanySec .sec1heading {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .TechCompanySec .sec2heading {
+        font-size: 52px;
+        line-height: 62px;
+    }
+    .pmdm {
+        max-width: 820px;
+    }
+    .plrg {
+        max-width: 750px;
+    }
+    .psml {
+        max-width: 620px;
+    }
+    .toggleBox h3 {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .toggleBox p strong {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .toggleBox p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .readmore {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .readmore svg {
+        width: 18px;
+    }
+    .gridTxtContainer h2 {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .gridTxtContainer h5 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .gridTxtContainer p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .gridTxtContainer a {
+        height: 50px;
+        border-radius: 25px;
+        line-height: 48px;
+        font-size: 16px;
+    }
+    .gridTxtContainer a svg {
+        width: 20px;
+    }
+    .animBoxTxt {
+        padding-top: 10px;
+    }
+    .animBoxTxt h3 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .animBoxTxt p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .animBoxTxt span {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .OurCoreProducts h2 {
+        font-size: 28px;
+        line-height: 34px;
+    }
+    .portHover h4 {
+        font-size: 42px;
+        line-height: 50px;
+    }
+    .portHover p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .portGridQtr .portHover h4 {
+        font-size: 28px;
+        line-height: 34px;
+    }
+    .contactTxt {
+        max-width: 380px;
+    }
+    .contactTxt h3,.contactTxt h2 {
+        max-width: 370px;
+        font-size: 56px;
+        line-height: 56px;
+    }
+    .contactTxt p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .ContactForm {
+        width: 420px;
+        min-height: 460px;
+    }
+    .ContactFld .uk-input {
+        font-size: 14px;
+        height: 40px;
+    }
+    .ContactFld .uk-select:not([multiple]):not([size]) {
+        font-size: 14px;
+        height: 40px;
+    }
+    .ContactFld .submitBtn {
+        font-size: 16px;
+        height: 50px;
+        border-radius: 25px;
+    }
+    .NotableWorkSec h2 {
+        font-size: 28px;
+        line-height: 32px;
+    }
+    .NotableWorktxt h3 {
+        font-size: 30px;
+        line-height: 38px;
+    }
+    .NotableWorktxt p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .NotableWorktxt {
+        bottom: -55px;
+    }
+    .NotableWorkBox:hover .NotableWorktxt {
+        transform: translateY(-50px);
+    }
+    .SplitBoxInner {
+        max-width: 550px;
+    }
+    .SplitBoxInner h4 {
+        font-size: 32px;
+        line-height: 38px;
+    }
+    .SplitBoxInner p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .SplitBoxInner p svg {
+        width: 20px;
+    }
+    .ftrCDetails {
+        max-width: 260px;
+    }
+    .ftrCDetails h5 {
+        font-size: 32px;
+        line-height: 38px;
+    }
+    .ftrCDetails p strong {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .ftrCDetails p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .ftrLink li a {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .FtrWABox {
+        max-width: 280px;
+    }
+    .FtrWABox p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .FtrWABox a {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .ftr_grd address p strong {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .ftr_grd address p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .ftr_grd address p a {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .FtrBar p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .FtrBar ul li a {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .topSocialIcons p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .topSocialIcons ul {
+        width: 30px;
+        margin-left: 0;
+    }
+    .topSocialIcons ul li {
+        margin-bottom: 15px;
+    }
+    .topSocialIcons ul li a {
+        width: 30px;
+    }
+    .topSocialIcons ul li a svg {
+        width: 20px;
+    }
+    .topSocialIcons ul li a:hover svg {
+        width: 26px;
+        transform: translateY(-3px);
+    }
+    .howCanHelp p {
+        font-size: 32px;
+        line-height: 38px;
+    }
+    .howCanHelp a {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .SubMenuSec .MenuNav {
+        width: 30%;
+    }
+    .SubMenuSec {
+        padding: 80px 50px 0;
+        height: 570px;
+        top: -570px;
+    }
+    .MenuList li p {
+        line-height: 17px; 
+    }
+    .MenuNav li a {
+        font-size: 40px;
+        line-height: 46px;
+    }
+    .MenuNav svg.ArrowMove {
+        width: 20px;
+        height: 29px;
+        left: -25px;	
+    }
+    .MenuNav svg.ArrowPosition2 {
+        top: 54px;
+    }
+    .MenuNav svg.ArrowPosition3 {
+        top: 100px;
+    }
+    .MenuNav svg.ArrowPosition4 {
+        top: 145px;
+    }
+    .MenuNav svg.ArrowPosition5 {
+        top: 192px;
+    }
+    .OfferServicestxt h3 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .OfferServicesSec .OfferServicestxt p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .ClientSec .OurCoreProductsSlider li a {
+        width: 110px;
+    }
+    .HeadingBox .BtnWithIcon {
+        right: 110px;
+        bottom: 44px;
+    }
+    .AboutPage .TechCompanySec .sec1heading {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .AboutPage .TechCompanySec .sec2heading {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .AboutGameChangeBox h2 {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .AboutGameChangeBox p {
+        font-size: 22px;
+        line-height: 28px;
+        max-width: 660px;
+    }
+    .OfferServicesSec p {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .OfferServicesSec h2 {
+        font-size: 52px;
+        line-height: 62px;
+    }
+    .ServingtelecomBox h2 {
+        font-size: 52px;
+        line-height: 62px;
+    }
+    .ServingtelecomBox p {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .ServingtelecomBox h3 {
+        max-width: 620px;
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .ServingtelecomBox p strong {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .EntertainmentSec h3 {
+        font-size: 56px;
+        line-height: 56px;
+    }
+    .EntertainmentBox {
+        max-width: 530px;
+    }
+    .EntertainmentSec ul li p {
+      font-size: 28px;
+      line-height: 32px;
+    }
+    .EntertainmentSec ul li p ~ p {
+      font-size: 20px;
+      line-height: 24px;
+    }
+    .JustStartedTxt h2 {
+        font-size: 56px;
+        line-height: 56px;
+    }
+    .JustStartedTxt p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .JustStartedTxt p strong {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .BtnGradiant {
+        height: 50px;
+        border-radius: 25px;
+        line-height: 48px;
+        font-size: 16px;
+    }
+    .BtnGradiant svg {
+        width: 20px;
+    }
+    .TabsSec h2 {
+        font-size: 32px;
+        line-height: 38px;
+    }
+    .aditionBox h3 {
+        font-size: 28px;
+        line-height: 34px;
+    }
+    .aditionBox p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .TabsSec .HelpYouTxtBox h4,.TabsSec .HelpYouTxtBox h3 {
+        font-size: 14px;
+        line-height: 17px;
+    }
+    .TabsSec .HelpYouTxtBox p {
+        font-size: 14px;
+        line-height: 17px;
+    }
+    .TabsSec .HelpYouIconBox {
+        width: 58px;
+        height: 58px;
+    }
+    .HowWeHelpYouSec h2 {
+        font-size: 32px;
+        line-height: 38px;
+    }
+    .FAQSec h2 {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .FAQBox .uk-accordion-title {
+        font-size: 24px;
+        line-height: 26px;
+    }
+    .FAQBox .uk-accordion-title svg {
+        width: 22px;
+    }
+    .PortfolioHeader h1, .CasestudiesHeader h1 {
+        font-size: 62px;
+        line-height: 68px;
+    }
+    .PortfolioHeader p, .CasestudiesHeader p {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .WhatsappWithWPCont h2 {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .WhatsappWithWPTxt {
+        padding: 0px;
+    }
+    .WhatsappWithWPImg {
+        padding: 20px 0;
+    }
+    .WhatsappWithWPImg svg {
+        width: 85px;
+    }
+    .WhatsappWithWPTxt p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .ElevateHead h2 {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .ElevateHead p {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .ElevateCont ul li a span {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .ContactAddress address p strong {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .OfferServicesHead h2 {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .JustStartedGrid h6 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .MadvertiserPage .ServingtelecomBox h3 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .MadvertiserPage .ServingtelecomBox h2 {
+        font-size: 52px;
+        line-height: 62px;
+    }
+    .MadvertiserPage .ServingtelecomBox p {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .ProfileingDHead h2 {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .ProfileingDHead p {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .ServiciesText h3 {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .SeoHeader h1 {
+        font-size: 62px;
+        line-height: 75px;
+    }
+    .SeoHeader p strong {
+        font-size: 28px;
+        line-height: 32px;
+    }
+    .SeoHeader p {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .B2bB2cSec h2 {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .B2bB2cBox {
+        max-width: 830px;
+    }
+    .B2bB2cBoxInner svg {
+        width: 14px;
+        margin-top: 3px;
+    }
+    .B2bB2cBox ul li .B2bB2cBoxInner {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .WhatsappHeader h1 {
+            font-size: 54px;
+        line-height: 60px;
+    }
+    .WhatsappHeader p {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .FtrWABox a.googleplayIcon img {
+    width: 77px;
+    }
+    .FtrWABox a.appstoreIcon img {
+        width: 68px;
+        margin: 0 4px;
+    }
+    .FtrWABox a.huaweiIcon img {
+        width: 76px;
+    }
+    .CasestudiesInnerHeader h1 {
+        font-size: 62px;
+        line-height: 68px;
+    }
+    .CasestudiesInnerHeader p {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .CasestudiesInnerHeader a {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .CasestudiesInnerHeader a svg {
+        width: 20px;
+    }
+    .BusinessChallenge h3 {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .BusinessChallenge p {
+        font-size: 16px;
+        line-height: 22px;
+        max-width: 530px;
+    }
+    .CSINumber h4 {
+        font-size: 52px;
+        line-height: 62px;
+    }
+    .CSINumber p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .BusinessChallenge ul li {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .TelecomWithWPBox h4 {
+        font-size: 16px;
+    }
+    .TelecomWithWPBox ul li {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .loader-block {
+        height: 500px;
+    }
+    .loader-word {
+        height: 150px;
+    }
+
+    .loader-word-inside {
+        height: 150px;
+    }
+    .CasestudiesInnerHeaderTxt {
+        padding: 150px 0 250px;
+    }
+    .uk-active .SubMenuSec {
+        background-position: 0 58px;
+    }
+    .CallCenterImgBtm .JustStartedimg {
+        bottom: -52px;
+    }
+    .ThankyouModal h2 {
+        font-size: 32px;
+        line-height: 38px;
+    }
+    .slider_cont .SliderHeading {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .slider_cont .SliderHeading span {
+        height: 62px;
+    }
+    .slider_cont .SliderHeading span:before {
+        bottom: 5px;
+        height: 3px;
+    }
+    .whatsappbtnapi {
+        font-size: 12px;
+        padding: 5px 10px;
+        line-height: 20px;
+    }
+    .whatsappbtnapi svg {
+        width: 14px;
+    }
+     .SubMenuSec .ProdMenu {
+       width: 100%;
+    }
+    .SubMenuSec .ProdMenu img {
+        max-width: 200px;
+    }
+    .PrivacyPolicySec h1 {
+        font-size: 42px;
+        line-height: 52px;
+        letter-spacing: 0px;
+    }
+    .PrivacyPolicySec h3 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .MainMenu>li {
+        margin: 0 5px;
+    }
+    .OurCoreProductsSlider .portfolio_items li {
+        width: auto;
+        margin: 20px 35px;
+    }
+    .WhatsappBusinessMain .ContainerCustom {
+        max-width: 850px;
+    }
+    .WhatsappBusinessCard .WhatsappWithWPTxt h6 {
+        color: #fff;
+        font-size: 16px;
+        line-height: 19px;
+        margin-bottom: 12px;
+        font-weight: 500;
+    }
+}
+@media screen and (max-width: 1281px) {
+    p, li  {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    
+    .ContainerCustom {
+        max-width: 1000px;
+    }
+    .HomeHeader p {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .HomeHeader .heading {
+        font-size: 52px;
+        line-height: 65px;
+    }
+    .HomeHeader .heading span {
+        height: 65px;
+    }
+    .homeheaderchange .heading {
+        font-size: 36px;
+        line-height: 44px;
+    }
+    .homeheaderchange .heading span {
+        height: 48px;
+    }
+    .HomeSliderContainer {
+        max-width: 500px;
+    }
+    .HomeHeader .heading> span:before {
+        bottom: 4px;
+        height: 2px;
+    }
+    .isoCertified {
+        font-size: 14px;
+        max-width: 150px;
+    }
+    .googlePartner {
+        width: 130px;
+    }
+    .expertiseContainer .heading {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .expertiseBG {
+        -webkit-clip-path: polygon(92% 0,100% 8%,100% 100%,0 100%,0% 50%,0 0);
+        clip-path: polygon(92% 0,100% 8%,100% 100%,0 100%,0% 50%,0 0);
+    }
+    .expertiseBox .subheading {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .expertiseBox p {
+        font-size: 12px;
+        line-height: 18px;
+        height: 90px;
+    }
+    .BtnWithArrow {
+        font-size: 14px;
+    }
+    .BtnWithArrow svg {
+        width: 20px;
+    }
+    .expertiseBox a {
+        font-size: 13px;
+    }
+    .BtnWithIcon {
+        font-size:  20px;
+        line-height: 28px;
+    }
+    .BtnWithIcon svg {
+        width: 26px;
+    }
+    .BtnWithIcon:hover svg {
+        width: 22px;
+        margin-top: 3px;
+    }
+    .BtnWithIcon span:before {
+        bottom: 0px;
+    }
+    .expertiseSec {
+        padding-top: 70px;
+    }
+    .TechCompanySec .sec1heading {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .TechCompanySec .sec2heading {
+        font-size: 50px;
+        line-height: 60px;
+        margin-bottom: 30px;
+    }
+    .pmdm {
+        max-width: 820px;
+    }
+    .plrg {
+        max-width: 750px;
+        margin-bottom: 30px;
+    }
+    .psml {
+        max-width: 620px;
+        margin-bottom: 30px;
+    }
+    .toggleBox h3 {
+        font-size: 40px;
+        line-height: 48px;
+        margin: 30px 0;
+    }
+    .toggleBox p strong {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .toggleBox p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .readmore {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .readmore svg {
+        width: 18px;
+    }
+    .gridTxtContainer h2 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+    .gridTxtContainer h5 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .gridTxtContainer p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .gridTxtContainer a {
+        height: 50px;
+        border-radius: 25px;
+        line-height: 48px;
+        font-size: 14px;
+    }
+    .gridTxtContainer a svg {
+        width: 20px;
+    }
+    .animBox {
+        margin-bottom: 30px;
+    }
+    .gridTxtContainer {
+        padding-top: 30px;
+        margin-bottom: 90px;
+    }
+    .animBoxTxt {
+        padding-top: 10px;
+    }
+    .animBoxTxt h3 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .animBoxTxt p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .animBoxTxt span {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .OurCoreProducts h2 {
+        font-size: 26px;
+        line-height: 32px;
+        margin-bottom: 30px;
+    }
+    .portHover h4 {
+        font-size: 38px;
+        line-height: 44px;
+    }
+    .portHover p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .portGridQtr .portHover h4 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .contactTxt {
+        max-width: 380px;
+    }
+    .contactTxt h3,.contactTxt h2 {
+        max-width: 330px;
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .contactTxt p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .ContactForm {
+        width: 400px;
+        min-height: 430px;
+        padding: 60px 30px 38px;
+    }
+    .ContactFld .uk-input {
+        font-size: 12px;
+        height: 40px;
+    }
+    .ContactFld .uk-select:not([multiple]):not([size]) {
+        font-size: 12px;
+        height: 40px;
+    }
+    .ContactFld .submitBtn {
+        font-size: 14px;
+        height: 50px;
+        border-radius: 25px;
+    }
+    .NotableWorkSec h2 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .NotableWorktxt h3 {
+        font-size: 24px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+    .NotableWorktxt p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .NotableWorktxt {
+        bottom: -52px;
+    }
+    .NotableWorkBox:hover .NotableWorktxt {
+        transform: translateY(-52px);
+    }
+    .SplitBoxInner {
+        max-width: 500px;
+    }
+    .SplitBoxInner h4 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .SplitBoxInner p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .SplitBoxInner p svg {
+        width: 20px;
+    }
+    .ftrCDetails> img {
+        width: 180px;
+    }
+    .ftrCDetails {
+        max-width: 260px;
+    }
+    .ftrCDetails h5 {
+        font-size: 28px;
+        line-height: 34px;
+        margin-top: 30px;
+    }
+    .ftrCDetails p strong {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .ftrCDetails p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .ftrCDetails a {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    .ftrLink li a {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .FtrWABox {
+        max-width: 250px;
+    }
+    .FtrWABox img {
+        width: 180px;
+    }
+    .FtrWABox p {
+        font-size: 14px;
+        line-height: 20px;
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    .FtrWABox a {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .ftr_grd {
+        padding: 100px 0;
+    }
+    .ftr_grd address p strong {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .ftr_grd address p {
+        font-size: 11px;
+        line-height: 18px;
+    }
+    .ftr_grd address p a {
+        font-size: 11px;
+        line-height: 18px;
+    }
+    .FtrBar {
+        padding-bottom: 30px;
+    }
+    .FtrBar p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .FtrBar ul li a {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .backtotop {
+        bottom: 75px;
+    }
+    .topSocialIcons p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .topSocialIcons ul {
+        width: 30px;
+        margin-left: 0;
+    }
+    .topSocialIcons ul li {
+        margin-bottom: 15px;
+    }
+    .topSocialIcons ul li a {
+        width: 30px;
+    }
+    .topSocialIcons ul li a svg {
+        width: 20px;
+    }
+    .topSocialIcons ul li a:hover svg {
+        width: 26px;
+        transform: translateY(-3px);
+    }
+    .howCanHelp p {
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .howCanHelp a {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .howCanHelp a svg {
+        width: 20px;
+    }
+    .SubMenuSec .MenuNav {
+        width: 30%;
+    }
+    .SubMenuSec {
+        padding: 80px 50px 0;
+        height: 550px;
+        top: -550px;
+    }
+    .MenuList li p {
+        line-height: 17px; 
+    }
+    .MenuNav li a {
+        font-size: 40px;
+        line-height: 46px;
+    }
+    .MenuNav svg.ArrowMove {
+        width: 20px;
+        height: 29px;
+        left: -25px;	
+    }
+    .MenuNav svg.ArrowPosition2 {
+        top: 54px;
+    }
+    .MenuNav svg.ArrowPosition3 {
+        top: 100px;
+    }
+    .MenuNav svg.ArrowPosition4 {
+        top: 145px;
+    }
+    .MenuNav svg.ArrowPosition5 {
+        top: 192px;
+    }
+    .OfferServicestxt h3 {
+        font-size: 18px;
+        line-height: 22px;
+        margin-bottom: 10px;
+    }
+    .OfferServicesSec .OfferServicestxt p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .ClientSec .OurCoreProductsSlider li a {
+        width: 110px;
+    }
+    .HeadingBox .BtnWithIcon {
+        right: 90px;
+        bottom: 38px;
+    }
+    .AboutPage .TechCompanySec .sec1heading {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .AboutPage .TechCompanySec .sec2heading {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .AboutGameChangeBox h2 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+    .AboutGameChangeBox p {
+        font-size: 20px;
+        line-height: 24px;
+        max-width: 660px;
+    }
+    .OfferServicesSec p {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .OfferServicesSec h2 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .ServingtelecomBox h2 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .ServingtelecomBox p {
+        font-size: 20px;
+        line-height: 24px;
+        margin-bottom: 30px;
+    }
+    .ServingtelecomBox h3 {
+        max-width: 620px;
+        font-size: 40px;
+        line-height: 48px;
+        margin-bottom: 30px;
+    }
+    .ServingtelecomBox p strong {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .EntertainmentSec .mjunoonlogo {
+        max-width: 200px;
+    }
+    .EntertainmentSec h3 {
+        font-size: 50px;
+        line-height: 50px;
+        margin-top: 30px;
+    }
+    .EntertainmentBox {
+        max-width: 480px;
+    }
+    .EntertainmentSec ul {
+        margin-bottom: 20px;
+    }
+    .EntertainmentSec ul li p {
+      font-size: 26px;
+      line-height: 30px;
+    }
+    .EntertainmentSec ul li p ~ p {
+      font-size: 18px;
+      line-height: 22px;
+    }
+    .JustStartedTxt h2 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .JustStartedTxt p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .JustStartedTxt p strong {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .BtnGradiant {
+        height: 50px;
+        border-radius: 25px;
+        line-height: 48px;
+        font-size: 14px;
+    }
+    .BtnGradiant svg {
+        width: 20px;
+    }
+    .TabsSec h2 {
+        font-size: 30px;
+        line-height: 34px;
+        margin-bottom: 20px;
+    }
+    .tabsBtnBox {
+        margin-bottom: 40px;
+    }
+    .tabsBtns li a {
+        font-size: 14px;
+        padding: 10px 25px;
+    }
+    .aditionBox h3 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .aditionBox p {
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 30px;
+    }
+    .HowWeHelpYouTxt ul li {
+        margin-bottom: 30px;
+    }
+    .TabsSec .HelpYouTxtBox h4,.TabsSec .HelpYouTxtBox h3 {
+        font-size: 14px;
+        line-height: 17px;
+    }
+    .TabsSec .HelpYouTxtBox p {
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .TabsSec .HelpYouIconBox {
+        width: 58px;
+        height: 58px;
+    }
+    .HowWeHelpYouSec h2 {
+        font-size: 30px;
+        line-height: 34px;
+    }
+    .HelpYouTxtBox h4,.HelpYouTxtBox h3 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .HelpYouIconBox {
+        width: 80px;
+        height: 80px;
+    }
+    .HelpYouTxtBox p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .FAQSec h2 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+    .FAQBox .uk-accordion-title {
+        font-size: 20px;
+        line-height: 22px;
+    }
+    .FAQBox .uk-accordion-title svg {
+        width: 20px;
+    }
+    .PortfolioHeader h1, .CasestudiesHeader h1 {
+        font-size: 52px;
+        line-height: 65px;
+    }
+    .PortfolioHeader p, .CasestudiesHeader p {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .WhatsappWithWPCont h2 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+    .WhatsappWithWPTxt p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .WhatsappWithWPTxt span {
+        font-size: 12px;
+    }
+    .ElevateHead h2 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+    .ElevateHead p {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .ElevateCont ul li a span {
+        font-size: 16px;
+        line-height: 22px;
+        width: calc(100% - 76px);
+        height: 56px;
+    }
+    .ContactAddress address p {
+        font-size: 12px;
+    }
+    .ContactAddress address p strong {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .OfferServicesHead h2 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+    .JustStartedGrid h6 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .MadvertiserPage .ServingtelecomBox h3 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .MadvertiserPage .ServingtelecomBox h2 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .MadvertiserPage .ServingtelecomBox p {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .ProfileingDHead h2 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+    .ProfileingDHead p {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .ServiciesText h3 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+    .SeoHeader h1 {
+        font-size: 52px;
+        line-height: 65px;
+    }
+    .SeoHeader p strong {
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .SeoHeader p {
+        font-size: 20px;
+        line-height: 24px;
+        margin-bottom: 30px;
+    }
+    .B2bB2cSec h2 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+    .B2bB2cBox {
+        max-width: 730px;
+    }
+    .B2bB2cBoxInner svg {
+        width: 12px;
+        margin-top: 4px;
+    }
+    .B2bB2cBox ul li .B2bB2cBoxInner {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .WhatsappHeader h1 {
+        font-size: 46px;
+        line-height: 56px;
+    }
+    .WhatsappHeader p {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .gridSec {
+        padding: 80px 0 40px;
+    }
+    .howCanHelp {
+        padding-bottom: 40px;
+    }
+    .expertiseContainer {
+        padding: 50px 0;
+        margin-bottom: -100px;
+    }
+    .TechCompanySec {
+        padding: 200px 0 50px;
+    }
+    .OurCoreProducts {
+        padding: 70px 0;
+    }
+    .ContactSec {
+        padding: 100px 0;
+    }
+    .NotableWorkSec {
+        padding: 100px 0;
+    }
+    .AboutPage .TechCompanySec {
+        padding: 40px 0;
+    }
+    .AboutGameChangeBox {
+        padding-top: 70px;
+    }
+    .vidImgBox {
+        margin-bottom: -90px;
+    }
+    .OfferServicesSec {
+        padding: 170px 0 100px;
+    }
+    .ServingtelecomSec {
+        padding: 80px 0 80px;
+    }
+    .EntertainmentSec {
+        padding: 80px 0 70px;
+    }
+    .JustStartedSec {
+        padding: 100px 0;
+    }
+    .HowWeHelpYouSec {
+        padding: 80px 0;
+    }
+    .TabsSec {
+        padding: 80px 0;
+    }
+    .OfferServicesSec.noPaddTop {
+        padding-top: 0;
+    }
+    .noPaddTop .borderTop {
+        padding-bottom: 80px;
+    }
+    .OfferServicesHead {
+        margin-bottom: 40px;
+    }
+    .FAQSec {
+        padding: 80px 0;
+    }
+    .ElevateSec {
+        padding: 80px 0;
+    }
+    .MadvertiserPage .ElevateSec .borderTop {
+        padding-top: 80px;
+    }
+    .WhatsappWithWPSec .borderTop {
+        padding-top: 80px;
+    }
+    .ElevateHead {
+        padding-bottom: 50px;
+    }
+    .CasestudiesSec {
+        padding-bottom: 100px;
+    }
+    .ElevateImgBox {
+        width: 56px;
+        height: 56px;
+        line-height: 56px;
+        border-radius: 10px;
+        margin-right: 20px;
+    }
+    .ElevateLeft .ElevateImgBox {
+        margin-left: 20px;
+    }
+    .ProfileingDSec {
+        padding: 100px 0;
+    }
+    .ProfileingDImg {
+        width: 80px;
+        height: 80px;
+        border-radius: 10px;
+        margin-left: 5px;
+    }
+    .ProfileingDBox ul li a span {
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .ServiciesSec {
+        padding: 70px 0;
+    }
+    .ServiciesCLouds ul li {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .SeoFld input {
+        font-size: 14px;
+    }
+    .SeoFld select {
+        font-size: 14px;
+    }
+    .SeoFld .SeoBtn {
+        font-size: 14px;
+    }
+    .B2bB2cSec {
+        padding: 80px 0;
+    }
+    .topSocialIcons {
+        right: 15px;
+    }
+    .positionbox img {
+        max-width: 600px;
+    }
+    .CasestudiesInnerHeader h1 {
+        font-size: 52px;
+        line-height: 65px;
+    }
+    .CasestudiesInnerHeader p {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .CasestudiesInnerHeader a {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .CasestudiesInnerHeader a svg {
+        width: 18px;
+    }
+    .BusinessChallenge h3 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+    .BusinessChallenge p {
+        font-size: 14px;
+        line-height: 20px;
+        max-width: 470px;
+    }
+    .CSINumber h4 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .CSINumber p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .BusinessChallenge ul li {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .uk-active .SubMenuSec {
+        background-position: 0 56px;
+    }
+    .CallCenterImgBtm .JustStartedimg {
+        bottom: -68px;
+    }
+    .ThankyouModal h2 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+     .slider_cont .SliderHeading {
+        font-size: 38px;
+        line-height: 48px;
+    }
+    .slider_cont .SliderHeading span:before {
+        bottom: 4px;
+        height: 2px;
+    }
+    .slider_cont .SliderHeading span {
+        height: 54px;
+    }
+    .MainMenu {
+        margin-right: 0px;
+    }
+    .MenuList li a {
+        margin: 0 0 15px;
+        padding-left: 40px;
+    }
+    .MenuList li img {
+        margin-left: -40px;
+        width: 30px;
+    }
+     .PrivacyPolicySec h1 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+    .PrivacyPolicySec {
+        background: #F5F5F5;
+        padding: 120px 0 50px;
+    }
+    .PrivacyPolicySec h3 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .Header404 h1 {
+        font-size: 200px;
+    }
+    .MainMenu>li {
+        padding: 0 5px;
+    }
+    .ClientSec .OurCoreProductsSlider .portfolio_items li {
+        width: auto;
+        margin: 20px 25px;
+    }
+}
+
+
+

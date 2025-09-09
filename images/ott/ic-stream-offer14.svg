@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="ic-stream-offer14" transform="translate(0.437 0.437)">
+    <g id="Group_12183" data-name="Group 12183">
+      <rect id="Rectangle_6687" data-name="Rectangle 6687" width="32" height="32" transform="translate(-0.437 -0.437)" fill="none"/>
+    </g>
+    <g id="Group_12185" data-name="Group 12185" transform="translate(1.297 3.891)">
+      <g id="Group_12184" data-name="Group 12184">
+        <path id="Path_18046" data-name="Path 18046" d="M26.939,8a2.6,2.6,0,0,0-2.5,3.255l-4.6,4.617a2.642,2.642,0,0,0-1.349,0l-3.307-3.307a2.593,2.593,0,1,0-5.006,0l-5.914,5.9A2.592,2.592,0,1,0,6.1,20.308L12,14.394a2.642,2.642,0,0,0,1.349,0L16.654,17.7a2.593,2.593,0,1,0,5.006,0l4.617-4.6A2.592,2.592,0,1,0,26.939,8Z" transform="translate(-1 -1.515)" fill="#99f"/>
+        <path id="Path_18047" data-name="Path 18047" d="M15.891,10.782,17.11,8.1l2.672-1.206L17.11,5.685,15.891,3,14.7,5.685,12,6.891,14.7,8.1Z" transform="translate(2.267 -3)" fill="#99f"/>
+        <path id="Path_18048" data-name="Path 18048" d="M4.242,12.485l.648-2.594,2.594-.648L4.891,8.594,4.242,6,3.594,8.594,1,9.242l2.594.648Z" transform="translate(-1 -2.109)" fill="#99f"/>
+      </g>
+    </g>
+  </g>
+</svg>

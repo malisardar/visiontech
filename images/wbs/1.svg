@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="46" viewBox="0 0 48 46">
+  <g id="_1" data-name="1" transform="translate(-263 -1059)">
+    <g id="Drawing_Surface" data-name="Drawing Surface" transform="translate(263 1058.758)">
+      <g id="Outline_no_shadow" data-name="Outline no shadow">
+        <rect id="Rectangle_145829" data-name="Rectangle 145829" width="48" height="46" rx="9.914" transform="translate(0 0.242)" fill="none"/>
+      </g>
+    </g>
+    <path id="Apple_Card_-_Apple_-_Opera_2" data-name="Apple Card - Apple - Opera_2" d="M5.4,28.238V6.56a1.552,1.552,0,0,1,.464-1.054A1.362,1.362,0,0,1,6.876,5h21a1.451,1.451,0,0,1,1.033.485A1.492,1.492,0,0,1,29.4,6.56V20.689a1.52,1.52,0,0,1-.485,1.054,1.426,1.426,0,0,1-1.033.506H11.346Zm7.465,1.434a1.426,1.426,0,0,1-1.033-.506,1.52,1.52,0,0,1-.485-1.054V25.032H31.632l.506.506V10.9H35.3a1.362,1.362,0,0,1,1.012.506,1.6,1.6,0,0,1,.464,1.1V35.618l-5.946-5.946ZM27.5,6.9H7.3V23.6l3.247-3.247H27.5ZM7.3,6.9v0Z" transform="translate(265.6 1062)" fill="#fff"/>
+  </g>
+</svg>

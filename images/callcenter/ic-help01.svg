@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.079" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#793aff"/>
+      <stop offset="0.521" stop-color="#a01ce7"/>
+      <stop offset="1" stop-color="#f26430"/>
+    </linearGradient>
+  </defs>
+  <g id="ic-help01" transform="translate(-139 -217)">
+    <rect id="Rectangle_3400" data-name="Rectangle 3400" width="100" height="100" rx="8" transform="translate(139 217)" fill="#fff" opacity="0"/>
+    <path id="Intersection_25" data-name="Intersection 25" d="M187.159-434,182-439.16V-443h28.59l2.251,2.25H223.16l2.25-2.25H254v3.84l-5.16,5.16Zm-2.909-6.091,3.84,3.841h59.819l3.841-3.841v-.659h-25.41l-2.25,2.251H211.91l-2.251-2.251H184.25Zm63-5.159V-474.5h2.25v29.25Zm-60.75,0V-483.5A4.5,4.5,0,0,1,191-488h45v2.25H191a2.253,2.253,0,0,0-2.251,2.25v38.25Zm4.5-2.25v-36h45v2.25h-42.75v31.5h49.5V-474.5H245v27Zm43.875-4.5V-467.75h2.25V-452Zm-4.5,0v-11.25h2.251V-452Zm-4.5,0v-6.749h2.25V-452Zm-4.5,0v-6.749h2.25V-452Zm-4.5,0v-11.25h2.25V-452Zm-4.5,0v-11.25h2.25V-452Zm-4.5,0v-6.749h2.25V-452Zm-4.5,0v-2.25h2.25V-452Zm-7.546-1.92,19.921-19.921,9,9L245.66-485.75H240.5V-488h9v9h-2.25v-5.16l-22.5,22.5-9-9-18.329,18.33Z" transform="translate(-29 728)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

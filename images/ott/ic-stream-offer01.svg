@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="ic-stream-offer01" transform="translate(2 2)">
+    <rect id="Rectangle_6676" data-name="Rectangle 6676" width="32" height="32" transform="translate(-2 -2)" fill="#fff" opacity="0"/>
+    <g id="Group_12111" data-name="Group 12111" transform="translate(3 3)">
+      <path id="Path_17915" data-name="Path 17915" d="M0,0V6.473H22V0ZM2.58,3.881V2.592H3.87V3.881Zm2.58,0V2.592H6.45V3.881Zm8.675,0V2.592H19.42V3.881Zm0,0" fill="#99f"/>
+      <path id="Path_17916" data-name="Path 17916" d="M0,187.156H22v-6.473H0Zm19.42-3.881v1.289H13.834v-1.289Zm-12.97,0v1.289H5.16v-1.289Zm-2.58,0v1.289H2.58v-1.289Zm0,0" transform="translate(0 -172.919)" fill="#99f"/>
+      <path id="Path_17917" data-name="Path 17917" d="M0,367.836H22v-6.473H0Zm19.42-3.881v1.289H13.834v-1.289Zm-12.97,0v1.289H5.16v-1.289Zm-2.58,0v1.289H2.58v-1.289Zm0,0" transform="translate(0 -345.836)" fill="#99f"/>
+    </g>
+  </g>
+</svg>

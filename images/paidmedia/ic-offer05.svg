@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="ic-offer05" transform="translate(-158 -532)">
+    <g id="Group_9057" data-name="Group 9057" transform="translate(158 532)">
+      <rect id="Rectangle_5905" data-name="Rectangle 5905" width="32" height="32" fill="none"/>
+    </g>
+    <path id="Path_10133" data-name="Path 10133" d="M10.2,13.571v-4.8a3.207,3.207,0,0,1,6.415,0v4.8a5.773,5.773,0,1,0-6.415,0Zm12.624,5.94L17,16.612a1.807,1.807,0,0,0-.693-.141h-.975v-7.7a1.924,1.924,0,1,0-3.849,0V22.552c-4.619-.975-4.542-.962-4.708-.962a1.435,1.435,0,0,0-1.014.423L4.75,23.039l6.338,6.338a1.931,1.931,0,0,0,1.36.564h8.711A1.869,1.869,0,0,0,23.006,28.3l.962-6.761a1.844,1.844,0,0,0-1.142-2.027Z" transform="translate(159.25 532)" fill="#1db954"/>
+  </g>
+</svg>

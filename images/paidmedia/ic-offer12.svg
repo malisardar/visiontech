@@ -1,0 +1,12 @@
+<svg id="ic-offer12" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_11043" data-name="Group 11043">
+    <rect id="Rectangle_6189" data-name="Rectangle 6189" width="32" height="32" fill="none"/>
+  </g>
+  <g id="Group_11045" data-name="Group 11045" transform="translate(2.667 2.667)">
+    <g id="Group_11044" data-name="Group 11044">
+      <path id="Path_17060" data-name="Path 17060" d="M10,8v8l6.267,3.867,1.067-1.6L12,15.067V8Z" transform="translate(0.667)" fill="#1db954"/>
+      <path id="Path_17061" data-name="Path 17061" d="M23.227,14.667A8.846,8.846,0,0,1,23.333,16,9.333,9.333,0,1,1,14,6.667a9.211,9.211,0,0,1,2.667.387V4.307A11.678,11.678,0,0,0,14,4,12,12,0,1,0,26,16a11.016,11.016,0,0,0-.08-1.333Z" transform="translate(-2 -1.333)" fill="#1db954"/>
+      <path id="Path_17062" data-name="Path 17062" d="M21.667,6V2H19V6H15V8.667h4v4h2.667v-4h4V6Z" transform="translate(2.333 -2)" fill="#1db954"/>
+    </g>
+  </g>
+</svg>

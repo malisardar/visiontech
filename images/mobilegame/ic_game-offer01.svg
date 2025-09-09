@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.03" y1="0.033" x2="0.774" y2="0.941" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#793aff"/>
+      <stop offset="0.521" stop-color="#a01ce7"/>
+      <stop offset="1" stop-color="#f26430"/>
+    </linearGradient>
+  </defs>
+  <g id="ic_game-offer01" transform="translate(-193 -1466)">
+    <rect id="Rectangle_858" data-name="Rectangle 858" width="100" height="100" transform="translate(193 1466)" fill="none"/>
+    <path id="Union_267" data-name="Union 267" d="M-11138.783-10517.377l-31-39a1,1,0,0,1-.075-1.138l9-15a1,1,0,0,1,.855-.484h28v2h-4.026l9.024,12.307,9.028-12.307H-11122v-2h6a1,1,0,0,1,.857.484l9,15a1,1,0,0,1-.082,1.146l-9,11-1.548-1.264,7.666-9.369h-17.136l-9.452,33.521,12.915-16.146,1.562,1.25-16,20a1,1,0,0,1-.782.373A1,1,0,0,1-11138.783-10517.377Zm.785-4.3,9.675-34.32H-11133v-2h4.024l-9.021-12.306-9.033,12.306h4.031v2h-4.68Zm-2.314-.834-9.444-33.486h-17.172Zm31.547-35.485-7.316-12.19-8.947,12.19Zm-42.208,0-8.943-12.2-7.317,12.2Zm1.972-.692,9.028-12.307h-18.053Zm-11,28.692v-2h-2v-2h2v-2h2v2h2v2h-2v2Zm40-9v-2h-2v-2h2v-2h2v2h2v2h-2v2Zm-19-15v-2h-2v-2h2v-2h2v2h2v2h-2v2Zm11-15v-2h-2v-2h2v-2h2v2h2v2h-2v2Z" transform="translate(11381 12062)" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

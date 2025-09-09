@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="90" viewBox="0 0 90 90">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.077" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#793aff"/>
+      <stop offset="0.521" stop-color="#a01ce7"/>
+      <stop offset="1" stop-color="#f26430"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_173108" data-name="Group 173108" transform="translate(-387 -3973)">
+    <g id="Surfaces" transform="translate(387 3973)">
+      <g id="UI_UX_Surface" data-name="UI UX Surface">
+        <g id="Outline_no_shadow" data-name="Outline no shadow">
+          <g id="Group_175492" data-name="Group 175492">
+            <path id="Path_104683" data-name="Path 104683" d="M19.368,0H70.632A19.622,19.622,0,0,1,90,19.865V70.135A19.622,19.622,0,0,1,70.632,90H19.368A19.622,19.622,0,0,1,0,70.135V19.865A19.622,19.622,0,0,1,19.368,0Z" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="sms_FILL1_wght300_GRAD0_opsz48_1_" data-name="sms_FILL1_wght300_GRAD0_opsz48 (1)" d="M19.766,28.414a2.327,2.327,0,0,0,1.758-.738,2.419,2.419,0,0,0,.7-1.723,2.5,2.5,0,0,0-.7-1.793,2.327,2.327,0,0,0-1.758-.738,2.521,2.521,0,0,0-2.531,2.531,2.361,2.361,0,0,0,.738,1.723A2.441,2.441,0,0,0,19.766,28.414Zm12.094,0a2.441,2.441,0,0,0,1.793-.738,2.361,2.361,0,0,0,.738-1.723,2.521,2.521,0,0,0-2.531-2.531,2.361,2.361,0,0,0-1.723.738,2.441,2.441,0,0,0-.738,1.793,2.523,2.523,0,0,0,2.461,2.461Zm11.813,0a2.523,2.523,0,0,0,2.461-2.461,2.441,2.441,0,0,0-.738-1.793,2.361,2.361,0,0,0-1.723-.738,2.521,2.521,0,0,0-2.531,2.531,2.361,2.361,0,0,0,.738,1.723A2.441,2.441,0,0,0,43.672,28.414ZM5,57.172V9.078A3.965,3.965,0,0,1,6.2,6.23,3.873,3.873,0,0,1,9.078,5H54.359a3.909,3.909,0,0,1,2.848,1.23,3.909,3.909,0,0,1,1.23,2.848V43.109a4.208,4.208,0,0,1-4.078,4.078H14.984Z" transform="translate(400 3986.281)" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

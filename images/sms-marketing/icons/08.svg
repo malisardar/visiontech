@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="90" viewBox="0 0 90 90">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.077" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#793aff"/>
+      <stop offset="0.521" stop-color="#a01ce7"/>
+      <stop offset="1" stop-color="#f26430"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_173107" data-name="Group 173107" transform="translate(-387 -3869)">
+    <g id="Group_173081" data-name="Group 173081" transform="translate(387 3869)">
+      <g id="Group_173090" data-name="Group 173090">
+        <g id="Group_173091" data-name="Group 173091">
+          <g id="Surfaces">
+            <g id="UI_UX_Surface" data-name="UI UX Surface">
+              <g id="Outline_no_shadow" data-name="Outline no shadow">
+                <g id="Group_175492" data-name="Group 175492">
+                  <path id="Path_104683" data-name="Path 104683" d="M19.368,0H70.632A19.622,19.622,0,0,1,90,19.865V70.135A19.622,19.622,0,0,1,70.632,90H19.368A19.622,19.622,0,0,1,0,70.135V19.865A19.622,19.622,0,0,1,19.368,0Z" fill="#470137"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Surfaces-2" data-name="Surfaces">
+            <g id="UI_UX_Surface-2" data-name="UI UX Surface">
+              <g id="Outline_no_shadow-2" data-name="Outline no shadow">
+                <g id="Group_175492-2" data-name="Group 175492">
+                  <path id="Path_104683-2" data-name="Path 104683" d="M19.368,0H70.632A19.622,19.622,0,0,1,90,19.865V70.135A19.622,19.622,0,0,1,70.632,90H19.368A19.622,19.622,0,0,1,0,70.135V19.865A19.622,19.622,0,0,1,19.368,0Z" fill="#fff"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="campaign_FILL1_wght300_GRAD0_opsz48" d="M48.73,31.731V28.5h9.557v3.234Zm3.279,19.406-7.744-5.766,1.953-2.531,7.744,5.766Zm-5.72-33.891-1.953-2.531,7.6-5.766,1.884,2.531ZM13.221,48.325V37.356H8.9a3.883,3.883,0,0,1-2.86-1.2A3.944,3.944,0,0,1,4.85,33.278V26.95a3.944,3.944,0,0,1,1.186-2.883,3.883,3.883,0,0,1,2.86-1.2h11.79l12.487-7.523V44.88L20.686,37.356H16.43V48.325ZM37.01,38.9V21.325a11.533,11.533,0,0,1,2.686,3.8,12.038,12.038,0,0,1,1.012,4.992A12.038,12.038,0,0,1,39.7,35.106,11.533,11.533,0,0,1,37.01,38.9Z" transform="translate(400.15 3884.05)" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

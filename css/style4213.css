@@ -1,0 +1,6817 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&amp;display=swap');
+
+.uk-h1,
+.uk-h2,
+.uk-h3,
+.uk-h4,
+.uk-h5,
+.uk-h6,
+.uk-heading-2xlarge,
+.uk-heading-large,
+.uk-heading-medium,
+.uk-heading-small,
+.uk-heading-xlarge,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: Roboto, sans-serif
+}
+
+.HomeHeader .heading,
+.MenuNav li a {
+	font-weight: 900;
+	text-transform: uppercase
+}
+
+.BtnWithArrow,
+.BtnWithIcon,
+.MainMenu>li>a,
+.MenuList li a,
+.MenuList li p,
+.expertiseBox a,
+.expertiseBox:hover a,
+.gridTxtContainer a,
+.howCanHelp a,
+.howCanHelp a:hover,
+.readmore,
+.readmore:hover,
+a:hover {
+	text-decoration: none
+}
+
+.HomeHeader,
+.animBoxImg,
+.animBoxTxt,
+.expertiseBox p,
+body.HiddenScroll {
+	overflow: hidden
+}
+
+.HomeHeader .heading,
+.HomeHeader p,
+.MainMenu>li>a,
+.MenuList li a strong,
+.MenuList li h4,
+.MenuNav li a,
+.NotableWorkSec h2,
+.OurCoreProducts h2,
+.SplitBoxInner h4,
+.TechCompanySec .sec1heading,
+.TechCompanySec .sec2heading,
+.WhatsappHeader p,
+.animBoxTxt h3,
+.expertiseBox .subheading,
+.expertiseContainer .heading,
+.howCanHelp p,
+.isoCertified,
+.portHover h4,
+.slider_cont p,
+.toggleBox h3 {
+	text-transform: uppercase
+}
+
+.SeoHeader,
+body {
+	overflow-x: hidden
+}
+
+*,
+.heading_anim {
+	letter-spacing: 0
+}
+
+* {
+	box-sizing: border-box;
+	outline: 0 !important
+}
+
+.byd-laptop-img {
+	text-align: center;
+}
+
+.byd-laptop-img img {
+	width: unset !important;
+}
+
+.AudioVideoPage .HowWeHelpYouTxt .readmore:hover svg,
+.AudioVideoPage .HowWeHelpYouTxt ul li a:hover .HelpYouTxtBox h4,
+.HelpYouTxtBox h3,
+.AudioVideoPage .TabsSec .HelpYouIconBox,
+.AudioVideoPage .TabsSec h2,
+.DigitalMarketingPage .HelpYouIconBox,
+.DigitalMarketingPage .HowWeHelpYouTxt .readmore:hover svg,
+.DigitalMarketingPage .HowWeHelpYouTxt ul li a:hover .HelpYouTxtBox h4,
+.HelpYouTxtBox h3,
+.DigitalMarketingPage .TabsSec h2,
+.ElevateCont ul li a:hover,
+.HowWeHelpYouTxt ul li a:hover .HelpYouTxtBox h4,
+.HelpYouTxtBox h3,
+.PaidMediaPage .HelpYouIconBox,
+.PaidMediaPage .HowWeHelpYouSec h2,
+.PaidMediaPage .HowWeHelpYouTxt .readmore:hover svg,
+.PaidMediaPage .HowWeHelpYouTxt ul li a:hover .HelpYouTxtBox h4,
+.HelpYouTxtBox h3,
+.PaidMediaPage .TabsSec h2,
+.Split2 p svg,
+.TagManagerPage .HelpYouIconBox,
+.TagManagerPage .HowWeHelpYouSec h2,
+.TagManagerPage .HowWeHelpYouTxt .readmore:hover svg,
+.TagManagerPage .HowWeHelpYouTxt ul li a:hover .HelpYouTxtBox h4,
+.HelpYouTxtBox h3,
+.WhatsappPage .FAQBox .uk-accordion-title svg,
+.WhatsappPage .HowWeHelpYouBox .readmore:hover svg,
+.animBoxTxt span svg,
+.expertiseBox:hover .subheading,
+.expertiseBox:hover a svg,
+.gridTxtContainer p strong,
+.portfolioTheme .topSocialIcons ul li a,
+.uk-active .MainMenu>li.active>a,
+.uk-active .MainMenu>li:hover>a,
+a,
+a:hover {
+	color: #1487e5
+}
+
+.CallCenterPage .OfferServicesHead,
+.CloudDevopsPage .OfferServicesHead,
+.ContactFld .iti,
+.OTTPage .OfferServicesHead,
+.SeoPage .WhatsappWithWPCont h2,
+img {
+	max-width: 100%
+}
+
+.mdl {
+	display: table;
+	width: 100%;
+	height: 100%
+}
+
+.mdl_inner {
+	display: table-cell;
+	width: 100%;
+	vertical-align: middle
+}
+
+li,
+p {
+	font-size: 22px;
+	line-height: 32px
+}
+
+.custom-cursor,
+.custom-cursor-dot {
+	position: fixed;
+	z-index: 999;
+	top: 0;
+	left: 0;
+	transform: translate(-50%, -50%);
+	pointer-events: none;
+	opacity: 0
+}
+
+.custom-cursor {
+	width: 40px;
+	height: 40px;
+	border: 2px solid #1487e5;
+	border-radius: 100%
+}
+
+.custom-cursor-dot {
+	width: 5px;
+	height: 5px;
+	border-radius: 100%;
+	background-color: #1487e5
+}
+
+body::-webkit-scrollbar {
+	width: 10px;
+	cursor: pointer
+}
+
+body::-webkit-scrollbar-track {
+	background: #fffFFF99
+}
+
+body::-webkit-scrollbar-thumb {
+	background: #18171d
+}
+
+body::-webkit-scrollbar-thumb:hover {
+	background: #18171d7e
+}
+
+.ContainerCustom {
+	max-width: 1480px
+}
+
+.AboutPage,
+.BusinessChallenge,
+.CSINumber,
+.CSIimg,
+.CasestudiesPage,
+.ContactAddress address,
+.ContactFld,
+.ContactFldchat,
+.ElevateCont,
+.EntertainmentBtn,
+.EntertainmentImg,
+.FAQBox .uk-accordion,
+.FadeContainer,
+.HomeHeader .heading strong,
+.HomePage,
+.HowWeHelpYouBox,
+.HowWeHelpYouTxt,
+.JustStartedGrid,
+.JustStartedTxt,
+.MenuListBox,
+.MenuNav li,
+.MjunoonStoreBtns,
+.MobileMenuWrap .uk-nav-default>li,
+.MobileMenuWrap .uk-nav-sub li,
+.NotableWorkSlider,
+.OfferServicestxt,
+.PortfolioGrid li a,
+.PortfolioGrid li a img,
+.PortfolioPage,
+.ProfileingDBox,
+.SeoPage,
+.ServiciesCLouds,
+.TabsBox,
+.TabsBox>li,
+.WhatsappPage,
+.WhatsappWithWPCont,
+.aditionBox,
+.mobFilterBtn ul li,
+.mobTabsBtn ul li,
+.portGrid,
+.portfolioSec,
+.slider_cont .SliderHeading strong,
+.tabsWrap,
+.toggleBtnBox,
+footer,
+header,
+section {
+	float: left;
+	width: 100%
+}
+
+header {
+	width: 100% !important;
+	position: absolute;
+	padding: 15px 0 10px;
+	z-index: 11;
+	transition: .3s
+}
+
+header.HeaderHome {
+	margin-top: 44px
+}
+
+header.uk-active {
+	background: #fff;
+	box-shadow: 0 3px 50px #00000029;
+	border-bottom: 1px solid #fff
+}
+
+header~.uk-sticky-placeholder {
+	display: none !important;
+	height: 0 !important
+}
+
+.logo {
+	float: left;
+	width: 170px;
+	position: relative;
+	z-index: 2
+}
+
+.NotableWorkimg img,
+.OurCoreProductsSlider li a img,
+.animBoxImg img,
+.logo img,
+.mjunoonLogo img,
+.scale-anm a img {
+	width: 100%;
+	transition: .3s
+}
+
+.OurCoreProductsSlider:hover .uk-slidenav,
+.WhatsappWithWPBox:hover .bgHover,
+.beforeContainer:hover .before,
+.colageSliderBox.active,
+.logowhite,
+.portfolioTheme .uk-active .logoblack,
+.uk-active .logoblack {
+	opacity: 1
+}
+
+.logoblack {
+	position: absolute;
+	left: 0;
+	top: 0;
+	opacity: 0
+}
+
+.BgGradiant .bgHover,
+.ColageBtnDesktop:hover .heading_anim,
+.ColageBtnMobile:hover .heading_anim,
+.NotableWorkBox .img_hide,
+.TechCompanySec:hover:before,
+.WhatsappWithWPBox:hover .bgNor,
+.portfolioTheme .logowhite,
+.scale-anm a:hover .videoprodbox,
+.scale-anm a:hover:before,
+.uk-active .logowhite {
+	opacity: 0
+}
+
+.mjunoonLogo {
+	float: right;
+	width: 50px;
+	position: relative;
+	z-index: 2
+}
+
+.MainMenu {
+	float: right;
+	margin: 0 10px 0 0;
+	padding: 0;
+	list-style: none
+}
+
+.MainMenu>li {
+	float: left;
+	margin: 0 5px;
+	padding: 0 5px
+}
+
+.EntertainmentSec ul li:first-child,
+.MenuList li,
+.SeoForm .SeoFld:first-child {
+	padding-left: 0
+}
+
+.MainMenu>li>a {
+	float: left;
+	font-size: 18px;
+	color: #fff;
+	padding: 9px 0;
+	line-height: 28px;
+	position: relative;
+	z-index: 2;
+	transition: .3s
+}
+
+.CreativeDesignPage .HowWeHelpYouTxt .readmore,
+.HowWeHelpYouTxt ul li a:hover .HelpYouTxtBox p,
+.PrivacyPolicySec h3,
+.PrivacyPolicySec ol,
+.PrivacyPolicySec p,
+.PrivacyPolicySec ul,
+.expertiseBox:hover p,
+.portfolioTheme .MainMenu>li>a,
+.portfolioTheme .uk-active .MainMenu>li>a,
+.uk-active .MainMenu>li>a,
+header.uk-active .MobileMenuBtn {
+	color: #000
+}
+
+.MainMenu>li>a svg {
+	width: 20px;
+	transition: .3s
+}
+
+.CenterTop a:hover,
+.FtrBar ul li a:hover,
+.FtrWABox a:hover,
+.MainMenu>li.active>a,
+.MainMenu>li:hover>a,
+.MenuList li a:hover strong,
+.backtotop:hover,
+.ftrLink li a:hover,
+footer .topSocialIcons ul li a:hover {
+	color: #39ff40
+}
+
+.MainMenu>li:hover>a svg,
+.uk-active .MainMenu>li:hover>a svg {
+	transform: rotate(-180deg)
+}
+
+.SubMenuSec {
+	position: absolute;
+	left: 0;
+	top: -600px;
+	width: 100%;
+	background: #12063B ;
+background: linear-gradient(90deg,rgba(18, 6, 59, 1) 0%, rgba(9, 85, 92, 1) 100%);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 600px;
+	padding: 150px 120px 0;
+	transition: .6s
+}
+
+.MainMenu>li:hover .SubMenuSec {
+	top: 0
+}
+
+.uk-active .SubMenuSec {
+	background-position: 0 74px
+}
+
+.SubMenuSec .MenuNav {
+	float: left;
+	width: 41.6666%;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	position: relative
+}
+
+.MenuNav li a {
+	float: left;
+	font-size: 60px;
+	color: #fff;
+	line-height: 65px;
+	transition: .3s
+}
+
+.MenuNav li a.active,
+.MenuNav li a:hover {
+	background: url(../images/textgradiant.png) 0 0/100% 100%;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent
+}
+
+.MenuNav svg.ArrowMove {
+	position: absolute;
+	left: -40px;
+	width: 25px;
+	height: 43px;
+	color: #00e8e7;
+	transition: .3s;
+	top: 10px
+}
+
+.MenuNav svg.ArrowPosition1 {
+	top: 10px
+}
+
+.MenuNav svg.ArrowPosition2 {
+	top: 75px
+}
+
+.MenuNav svg.ArrowPosition3 {
+	top: 140px
+}
+
+.MenuNav svg.ArrowPosition4 {
+	top: 205px
+}
+
+.MenuNav svg.ArrowPosition5 {
+	top: 270px
+}
+
+.ListSecA {
+	float: left;
+	width: 33.3333%;
+	padding-right: 40px
+}
+
+.MenuList,
+.MenuList li,
+.MenuList li a {
+	width: 100%;
+	float: left
+}
+
+.MenuList {
+	margin: 0 0 15px;
+	padding: 0;
+	list-style: none
+}
+
+.MenuList li a {
+	margin: 0 0 20px;
+	color: #fff;
+	font-size: 14px;
+	line-height: 17px;
+	font-weight: 500;
+	padding-left: 50px;
+	transition: .3s
+}
+
+.MenuList li img {
+	float: left;
+	margin-left: -50px;
+	width: 40px;
+	margin-top: 2px
+}
+
+.MenuList li h4 {
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 26px;
+	color: #fff;
+	position: relative;
+	float: left
+}
+
+.MenuList li h4:before {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 1px;
+	background: #fff;
+	content: ''
+}
+
+.MenuList li a strong {
+	float: left;
+	font-size: 14px;
+	line-height: 45px;
+	transition: .3s
+}
+
+.MenuList li a span {
+	float: left;
+	width: 100%;
+	font-size: 12px;
+	line-height: 16px;
+	font-weight: 300
+}
+
+.MenuListLogo li img {
+	margin-left: 0;
+	max-width: 150px
+}
+
+.MenuList li p {
+	float: left;
+	margin: 0 0 1px;
+	color: #fff;
+	font-size: 12px;
+	line-height: 20px
+}
+
+.MenuListImg {
+	float: right;
+	width: 196px;
+	height: 240px;
+	padding: 10px 15px 0 0;
+	margin-right: -60px;
+	background: url(../images/gradient_menu_mobility.png) 0 0/100% 100%
+}
+
+.OttList .MenuListImg {
+	background: url(../images/gradient_menu_ott.png) 0 0/100% 100%
+}
+
+.ProductList .MenuListImg {
+	background: url(../images/gradient_menu_products.jpg) 0 0/100% 100%
+}
+
+.MenuListImg img {
+	width: 210px;
+	float: right;
+	max-width: inherit
+}
+
+.topSocialIcons {
+	position: absolute;
+	right: 35px;
+	top: 50%;
+	transform: translateY(-50%);
+	width: 30px;
+	z-index: 2
+}
+
+.topSocialIcons p {
+	float: left;
+	transform: rotate(90deg);
+	margin: 0;
+	color: #fff;
+	font-size: 18px;
+	line-height: 20px
+}
+
+.topSocialIcons ul {
+	float: left;
+	margin: 0 0 0 10px;
+	padding: 0;
+	list-style: none;
+	width: 40px
+}
+
+.topSocialIcons ul li {
+	float: left;
+	width: 100%;
+	text-align: center;
+	height: 30px;
+	margin-bottom: 30px
+}
+
+.topSocialIcons ul li a {
+	float: left;
+	width: 40px;
+	color: #fff;
+	transition: .3s
+}
+
+.readmore svg,
+.topSocialIcons ul li a svg {
+	width: 26px;
+	transition: .3s
+}
+
+.topSocialIcons ul li a:hover {
+	color: #b7fbca
+}
+
+.topSocialIcons ul li a:hover svg {
+	width: 40px;
+	transform: translateY(-7px)
+}
+
+.HomeHeader {
+	width: 100%;
+	height: 100%;
+	background-color: #000;
+	position: relative;
+	min-height: 650px
+}
+
+@keyframes headerZoom {
+
+	0%,
+	100% {
+		transform: translate(-50%, -50%) scale(1)
+	}
+
+	50% {
+		transform: translate(-50%, -50%) scale(1.3)
+	}
+}
+
+.headerimagezoom {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+.headerimagezoom.nozoom {
+	animation: none;
+	transform: translate(0) scale(1);
+	top: 0;
+	left: 0
+}
+
+.HomeHeader .uk-container,
+.SeoHeader .uk-container,
+.TechCompanySec .ContainerCustom,
+.WhatsappHeader .uk-container,
+.beforeContainer .uk-container,
+.txtchangeonhover {
+	position: relative
+}
+
+.HomeHeader p,
+.WhatsappHeader p,
+.slider_cont p {
+	float: left;
+	width: 100%;
+	margin: 0;
+	color: #fff;
+	font-size: 30px;
+	line-height: 40px
+}
+
+.HomeHeader .heading {
+	float: left;
+	width: 100%;
+	margin: 10px 0 20px;
+	color: #fff;
+	font-size: 80px;
+	line-height: 95px
+}
+
+.HomeHeader .heading span {
+	float: left;
+	height: 105px;
+	position: relative
+}
+
+.HomeHeader .heading>span:before,
+.slider_cont .SliderHeading span:before {
+	position: absolute;
+	left: 0;
+	bottom: 7px;
+	content: '';
+	width: 100%;
+	height: 4px;
+	background: #b7fbca
+}
+
+.BtnWithArrow {
+	float: left;
+	width: auto;
+	height: 66px;
+	border-radius: 40px;
+	text-align: center;
+	line-height: 62px;
+	font-size: 22px;
+	font-weight: 400;
+    background: linear-gradient(to right, #2e7be5, #a663cc);
+	border: 2px solid transparent;
+	color: #2c2c2c;
+	padding: 0 20px 0 30px
+}
+
+.expertiseBG,
+footer {
+	background-color: #18171d
+}
+
+.AudioVideoHeader .BtnWithArrow:hover,
+.BtnWithArrow:hover,
+.CRMHeader .BtnWithArrow:hover,
+.CallCenterHeader .BtnWithArrow:hover,
+.ChatBotHeader .BtnWithArrow:hover,
+.CloudDevopsHeader .BtnWithArrow:hover,
+.ContentManagementHeader .BtnWithArrow:hover,
+.CreativeDesignHeader .BtnWithArrow:hover,
+.DatabaseDevHeader .BtnWithArrow:hover,
+.DigitalMarketingHeader .BtnWithArrow:hover,
+.MadvertiserHeader .BtnWithArrow:hover,
+.MobileGameHeader .BtnWithArrow:hover,
+.MobileWebHeader .BtnWithArrow:hover,
+.OTTHeader .BtnWithArrow:hover,
+.PaidMediaHeader .BtnWithArrow:hover,
+.ProductDevelopmentHeader .BtnWithArrow:hover,
+.TagManagerHeader .BtnWithArrow:hover {
+	background: 0 0;
+	border: 2px solid #fff;
+	color: #fff
+}
+
+.TechCompanySec,
+.expertiseBG .imgNum,
+.expertiseSec {
+	background-repeat: no-repeat
+}
+
+.BtnWithArrow svg,
+.gridTxtContainer a svg {
+	width: 30px;
+	margin-left: 5px
+}
+
+.BtnWithIcon {
+	float: left;
+	font-size: 30px;
+	line-height: 40px;
+	font-weight: 500;
+	color: #fff;
+	margin-top: 10px
+}
+
+.BtnWithIcon svg {
+	width: 42px;
+	margin-right: 15px;
+	transition: .3s;
+	float: left;
+	margin-top: -2px
+}
+
+.BtnWithIcon:hover,
+.homeSlider .BtnWithIcon:hover {
+	text-decoration: none;
+	color: #b7fbca
+}
+
+.BtnWithIcon:hover svg {
+	width: 34px;
+	margin-top: 3px
+}
+
+.BtnWithIcon span {
+	float: left;
+	position: relative
+}
+
+.BtnWithIcon span:before {
+	position: absolute;
+	left: 0;
+	bottom: -2px;
+	content: '';
+	width: 0;
+	height: 2px;
+	background: #b7fbca;
+	transition: .3s
+}
+
+.BtnWithIcon:hover span:before,
+.CSIimg img,
+.CenterTop a:hover:before,
+.HowWeHelpYouimg video,
+.JustStartedimg video,
+.MobileMenuBtn svg,
+.OurPortBox img,
+.ProfileingDImg svg,
+.TabsSec .HelpYouIconBox img,
+.TabsSec .HelpYouIconBox svg,
+.iframebox iframe,
+.iframebox video,
+.portfolioSlider ul li div.uk-panel img,
+.sliderImg img,
+.toggleBtnBox button svg {
+	width: 100%
+}
+
+.CasestudiesInnerPage,
+.HomeBtm,
+.OurCoreProductsSlider,
+.OurPortBox {
+	float: left;
+	width: 100%;
+	position: relative
+}
+
+.isoCertified {
+	position: absolute;
+	left: 0;
+	bottom: 38px;
+	color: #fff;
+	font-size: 18px;
+	line-height: 22px;
+	width: 100%;
+	max-width: 180px
+}
+
+.googlePartner {
+	position: absolute;
+	left: 180px;
+	bottom: 35px;
+	width: 148px
+}
+
+.expertiseSec {
+	padding-top: 110px;
+	background: #12063B ;
+    background: linear-gradient(to right, #2e7be5, #a663cc);
+	background-size: 100% 100%;
+	position: relative;
+	z-index: 1
+}
+
+.howCanHelp {
+	float: left;
+	width: 100%;
+	padding-bottom: 70px
+}
+
+.howCanHelp p {
+	float: left;
+	font-size: 42px;
+	line-height: 48px;
+	color: #fff;
+	font-weight: 700;
+	margin: 0
+}
+
+.toggleBox h3,
+.toggleBox p {
+	font-weight: 100;
+	color: #fff
+}
+
+.howCanHelp a {
+	float: right;
+	font-size: 26px;
+	line-height: 34px;
+	transition: .3s;
+	margin-top: 6px;
+	color: #fff;
+	margin-right: 115px
+}
+
+.howCanHelp a~a {
+	margin-right: 50px
+}
+
+.howCanHelp a:hover {
+	color: #ffe05c
+}
+
+.howCanHelp a svg {
+	margin-right: 5px;
+	width: 30px
+}
+
+.expertiseContainer {
+	float: left;
+	width: 100%;
+	position: relative;
+	min-height: 300px;
+	padding: 70px 0;
+	margin-bottom: -120px
+}
+
+.plrg,
+.psml {
+	margin-bottom: 40px
+}
+
+.expertiseBG {
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+	-webkit-clip-path: polygon(94% 0, 100% 8%, 100% 100%, 0 100%, 0% 50%, 0 0);
+	clip-path: polygon(94% 0, 100% 8%, 100% 100%, 0 100%, 0% 50%, 0 0);
+	box-shadow: 10px 10px 75px #0000001A
+}
+
+.expertiseBox,
+.expertiseWrap {
+	position: relative;
+	width: 100%;
+	float: left
+}
+
+.expertiseBG .imgNum {
+	top: 0;
+	left: 0;
+	opacity: 0;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	-webkit-transform: scale(1.05);
+	-ms-transform: scale(1.05);
+	transform: scale(1.05);
+	background-size: cover;
+	-webkit-transition: .3s ease-in-out;
+	-o-transition: .3s ease-in-out;
+	transition: .3s ease-in-out
+}
+
+.expertiseBG .imgNum.active {
+	opacity: .1;
+	-webkit-transform: scale(1);
+	-ms-transform: scale(1);
+	transform: scale(1)
+}
+
+.expertiseContainer .heading {
+	display: inline-block;
+	width: 100%;
+	color: #fff;
+	font-size: 40px;
+	line-height: 48px
+}
+
+.expertiseWrap {
+	padding-right: 40px
+}
+
+.expertiseBox {
+	padding: 40px 40px 20px 0;
+	border-bottom: 1px solid #2c2c2c;
+	color: #fff;
+	transition: .3s
+}
+
+.expertiseBox:before {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 0;
+	content: '';
+	background: #fff;
+	transition: .3s
+}
+
+.TechCompanySec,
+.customGrid,
+.expertiseBox a,
+.expertiseBox p,
+.gridSec {
+	position: relative
+}
+
+.expertiseBox:hover:before,
+.homeSlider {
+	height: 100%
+}
+
+.expertiseBox:hover {
+	padding: 40px 20px 20px
+}
+
+.expertiseBox .subheading {
+	position: relative;
+	float: left;
+	width: 100%;
+	font-size: 24px;
+	line-height: 28px;
+	color: #fff;
+	transition: .3s
+}
+
+.expertiseBox p {
+	float: left;
+	width: 100%;
+	font-size: 16px;
+	line-height: 22px;
+	color: #fff;
+	transition: .3s;
+	margin-top: 0;
+	height: 90px;
+	margin-bottom: 30px;
+	letter-spacing: .5px
+}
+
+.expertiseBox a {
+	float: left;
+	font-size: 16px;
+	line-height: 20px;
+	color: #fff;
+	transition: .3s
+}
+
+.expertiseBox:hover a {
+	color: #000
+}
+
+.TechCompanySec {
+	padding: 250px 0 70px;
+	background-color: #000;
+	background-size: cover;
+	background-position: center top;
+	background-image: url(../images/Character\ 9.jpg);
+	transition: .3s;
+	height: auto
+}
+
+.TechCompanySec:before {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	content: '';
+	background: #000;
+	opacity: .5;
+	transition: .3s
+}
+
+.gridSec:after,
+.gridSec:before {
+	position: absolute;
+	content: '';
+	background: #e4e4e4;
+	right: 0
+}
+
+.TechCompanySec .sec1heading {
+	font-size: 28px;
+	line-height: 40px;
+	margin: 0 0 10px;
+	float: left;
+	width: 100%;
+	color: #fff
+}
+
+.TechCompanySec .sec2heading {
+	font-size: 70px;
+	line-height: 80px;
+	margin: 0 0 40px;
+	float: left;
+	width: 100%;
+	color: #fff;
+	font-weight: 700;
+	letter-spacing: -1px
+}
+
+.toggleBtnBox button {
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	background: 0 0;
+	border: none;
+	width: 30px;
+	cursor: pointer;
+	color: #fff;
+	transition: .3s
+}
+
+.plrg,
+.pmdm,
+.psml,
+.toggleBox,
+.toggleBox p {
+	width: 100%
+}
+
+.toggleBtnBox button.active {
+	transform: rotate(180deg)
+}
+
+.toggleBox {
+	float: left;
+	display: none;
+	padding-top: 20px
+}
+
+.plrg,
+.pmdm,
+.psml,
+.readmore {
+	display: inline-block
+}
+
+.toggleBox h3 {
+	float: left;
+	width: 100%;
+	margin: 40px 0;
+	font-size: 54px;
+	line-height: 70px
+}
+
+.toggleBox p {
+	float: left;
+	margin: 0;
+	font-size: 22px;
+	line-height: 32px;
+	letter-spacing: 1px
+}
+
+.ContactFld.mb,
+.ContactFldchat.mb,
+.animBoxTxt h3 {
+	margin-bottom: 10px
+}
+
+.toggleBox p strong {
+	font-size: 30px;
+	line-height: 40px;
+	font-weight: 300
+}
+
+.HeadingBox .BtnWithIcon:hover,
+.toggleBox p strong span {
+	color: #3f6
+}
+
+.pmdm {
+	max-width: 1060px
+}
+
+.psml {
+	max-width: 900px
+}
+
+.plrg {
+	max-width: 1130px
+}
+
+.readmore {
+	font-size: 20px;
+	line-height: 26px;
+	color: #fff;
+	transition: .3s
+}
+
+.readmore:hover {
+	color: #fff
+}
+
+.readmore:hover svg {
+	color: #3f6;
+	margin-left: 10px
+}
+
+.gridSec {
+	background: #fafafa;
+	min-height: 500px;
+	padding: 90px 0 50px
+}
+
+.gridSec:before {
+	width: 50%;
+	top: 12%;
+	height: 40%
+}
+
+.gridSec:after {
+	width: 100%;
+	bottom: 0;
+	height: 27%
+}
+
+.customGrid {
+	float: left;
+	width: 100%;
+	z-index: 1
+}
+
+.ColLeft,
+.ColRight {
+	width: 41.66666667%
+}
+
+.ColLeft {
+	float: left
+}
+
+.ColRight {
+	float: right
+}
+
+.animBox,
+.animBoxImg,
+.animBoxTxt,
+.gridTxtContainer,
+.gridTxtContainer h5,
+.gridTxtContainer p {
+	width: 100%;
+	float: left
+}
+
+.gridTxtContainer {
+	padding-top: 40px;
+	margin-bottom: 130px
+}
+
+.JobsList h2,
+.PrivacyPolicySec h1,
+.gridTxtContainer h2 {
+	float: left;
+	width: 100%;
+	font-size: 52px;
+	line-height: 62px;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #1487e5;
+	letter-spacing: -2px
+}
+
+.gridTxtContainer h5 {
+	font-size: 36px;
+	line-height: 46px;
+	color: #2c2c2c;
+	margin-top: 0
+}
+
+.gridTxtContainer p {
+	font-size: 22px;
+	line-height: 32px;
+	color: #9c9d9d;
+	margin-top: 0;
+	letter-spacing: -.5px
+}
+
+.gridTxtContainer a {
+	float: left;
+	width: auto;
+	height: 66px;
+	border: 1px solid #1487e5;
+	border-radius: 40px;
+	text-align: center;
+	line-height: 64px;
+	transition: .3s;
+	font-size: 22px;
+	font-weight: 400;
+	margin-top: 20px;
+    background: linear-gradient(to right, #2e7be5, #a663cc);
+	color: #fff;
+	padding: 0 20px 0 30px
+}
+
+.gridTxtContainer a:hover {
+	background: 0 0;
+	color: #1487e5
+}
+
+.animBox {
+	margin-bottom: 50px;
+	transition: .3s;
+	text-decoration: none !important
+}
+
+.animBoxImg {
+	transition: .3s;
+	background-size: 100% 100%;
+	background-repeat: no-repeat
+}
+
+.animBox:hover .animBoxImg img {
+	transform: scale(1.1)
+}
+
+.animBoxTxt {
+	transition: .3s;
+	padding-top: 20px;
+	min-height: 118px
+}
+
+.animBoxTxt h3 {
+	float: left;
+	width: calc(100% - 150px);
+	color: #2c2c2c;
+	font-size: 30px;
+	line-height: 34px;
+	font-weight: 700
+}
+
+.animBoxTxt span {
+	float: right;
+	color: #2c2c2c;
+	font-size: 22px;
+	line-height: 30px;
+	transform: translate(-10%, 0);
+	opacity: 0;
+	transition: .3s
+}
+
+.AboutPage .TechCompanySec:before,
+.AboutPage .gridSec:after,
+.CasestudiesInnerHeader.HideBefore:after,
+.ContactPage~footer:after,
+.ElevateContMobile,
+.EntertainmentSec ul li:first-child::before,
+.FAQBox .uk-accordion-title svg.MinusIcon,
+.FAQBox .uk-accordion-title:before,
+.FAQBox .uk-open .uk-accordion-title svg.PlusIcon,
+.FixedFormBtn svg.closeicon,
+.MobileMenuBtn svg.MenuClose,
+.MobileMenuBtn.OpenMenuBtn svg.MenuBurger,
+.MobileMenuWrap .uk-nav-sub li a span br,
+.OTTPage .gridSec:after,
+.animBoxTxt span.mobReadmore,
+.fbicon .protSocial li:last-child,
+.filterhide,
+.ftrLink .uk-dropdown li a span br,
+.instaicon .protSocial li:first-child,
+.mobileShow,
+.showcontactform .FixedFormBtn svg.chaticon,
+.spacenull:after {
+	display: none
+}
+
+.animBoxTxt p {
+	float: left;
+	width: 100%;
+	margin: 0;
+	color: #666;
+	font-size: 18px;
+	line-height: 26px;
+	transform: translate(0, -100%);
+	opacity: 0;
+	transition: .3s
+}
+
+.portHover h4,
+.portHover p {
+	text-decoration: none;
+	transform: translate(0, 30%)
+}
+
+.animBox:hover .animBoxTxt p,
+.animBox:hover .animBoxTxt span {
+	transform: translate(0);
+	opacity: 1
+}
+
+.OurCoreProducts {
+	padding: 80px 0;
+	background: #fafafa
+}
+
+.OurCoreProducts h2 {
+	color: #2c2c2c;
+	font-size: 40px;
+	line-height: 48px;
+	float: left;
+	width: 100%;
+	margin-bottom: 40px
+}
+
+.OurCoreProductsSlider li {
+	float: left;
+	width: 16.6667%;
+	padding: 10px 20px
+}
+
+.OurCoreProductsSlider li a {
+	display: inline-block;
+	transition: .3s
+}
+
+.OurCoreProductsSlider li a:hover {
+	transform: scale(1.2)
+}
+
+.portGridHalf,
+.portGridQtr {
+	float: left;
+	width: 50%
+}
+
+.portHover {
+	width: 100%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+	background: url(../images/gradient.png) 0 0/100% 100% no-repeat;
+	opacity: 0;
+	transition: .3s
+}
+
+.portHover h4 {
+	font-size: 52px;
+	line-height: 56px;
+	color: #fff;
+	margin: 0;
+	transition: .3s;
+	font-weight: 700
+}
+
+.portHover p {
+	font-size: 20px;
+	line-height: 26px;
+	color: #fff;
+	margin: 30px 0 0;
+	transition: .3s
+}
+
+.SplitBox,
+.backtotop,
+.ftrCDetails a {
+	text-decoration: none !important;
+	transition: .3s
+}
+
+.portGridQtr .portHover h4 {
+	font-size: 30px;
+	line-height: 38px
+}
+
+.OurPortBox:hover .portHover h4,
+.OurPortBox:hover .portHover p {
+	transform: translate(0)
+}
+
+.ContactSec {
+	padding: 120px 0;
+	position: relative
+}
+
+.contactTxt {
+	float: left;
+	width: 100%;
+	max-width: 520px
+}
+
+.contactTxt h3,
+.contactTxt h2 {
+	float: left;
+	font-size: 78px;
+	line-height: 80px;
+	color: #fff;
+	font-weight: 700;
+	width: 100%
+}
+
+.contactTxt p {
+	float: left;
+	width: 100%;
+	font-size: 22px;
+	line-height: 30px;
+	color: #fff;
+	font-weight: 300;
+	margin: 0
+}
+
+.ContactForm {
+	float: left;
+	width: 600px;
+	min-height: 600px;
+	background-color: #fff;
+	-webkit-clip-path: polygon(90% 0, 100% 8%, 100% 100%, 0 100%, 0% 50%, 0 0);
+	clip-path: polygon(90% 0, 100% 8%, 100% 100%, 0 100%, 0% 50%, 0 0);
+	padding: 60px 54px 40px
+}
+
+.ContactFld .uk-input,
+.ContactFld .uk-select {
+	border: none;
+	border-bottom: 1px solid #cfcfcf;
+	font-size: 18px;
+	color: #86868b;
+	height: 60px
+}
+
+.ContactFld textarea.uk-input {
+	height: 60px;
+	resize: none;
+	line-height: 20px
+}
+
+input::-webkit-inner-spin-button,
+input::-webkit-outer-spin-button {
+	-webkit-appearance: none;
+	margin: 0
+}
+
+input[type=number] {
+	-moz-appearance: textfield
+}
+
+.ContactFld .uk-select:not([multiple]):not([size]) {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	padding-right: 50px;
+	background-image: url(../images/downicon.svg);
+	background-repeat: no-repeat;
+	background-position: 94% 50%;
+	border: none;
+	border-bottom: 1px solid #cfcfcf;
+	font-size: 18px;
+	color: #86868b;
+	height: 60px
+}
+
+.ContactFld .submitBtn {
+	float: left;
+	width: 100%;
+	height: 70px;
+	background-color: #1487e5;
+	border: 1px solid #1487e5;
+	border-radius: 40px;
+	cursor: pointer;
+	transition: .3s;
+	font-size: 22px;
+	font-weight: 700;
+	color: #fff
+}
+
+.ContactFld .submitBtn:hover {
+	background-color: #27dc5d
+}
+
+.ClientSec {
+	padding: 80px 0;
+	background-color: #fafafa
+}
+
+.ClientSec .OurCoreProductsSlider li {
+	width: auto;
+	margin: 0 20px;
+	padding: 0
+}
+
+.ClientSec .OurCoreProductsSlider li a {
+	width: 165px;
+	cursor: inherit
+}
+
+.NotableWorkSec {
+	background-image: url(../images/ourworkbg.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	padding: 120px 0
+}
+
+.NotableWorkSec h2 {
+	float: left;
+	width: 100%;
+	color: #fff;
+	font-size: 40px;
+	line-height: 48px;
+	font-weight: 700
+}
+
+.NotableWorkBox,
+.scale-anm a {
+	float: left;
+	width: 100%;
+	position: relative;
+	overflow: hidden
+}
+
+.NotableWorkbg,
+.NotableWorktxt {
+	position: absolute;
+	left: 0;
+	width: 100%
+}
+
+.NotableWorkBox:before {
+	content: "";
+	padding-top: 150%;
+	display: block
+}
+
+.NotableWorkbg {
+	top: 0;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-size: 100%
+}
+
+.NotableWorkVid,
+.NotableWorkimg,
+.SucBox,
+.vidImgBox video {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%
+}
+
+.NotableWorkBox:hover .NotableWorkimg img {
+	transform: translateY(-35px)
+}
+
+.NotableWorkVid video {
+	width: 100%;
+	height: 100%
+}
+
+.NotableWorktxt {
+	bottom: -70px;
+	padding: 30px;
+	transition: .3s
+}
+
+.SplitBox,
+.SplitBoxInner,
+footer {
+	position: relative
+}
+
+.NotableWorkBox:hover .NotableWorktxt {
+	transform: translateY(-70px)
+}
+
+.NotableWorktxt h3 {
+	float: left;
+	width: 100%;
+	font-size: 32px;
+	line-height: 40px;
+	color: #fff;
+	font-weight: 500;
+	margin-bottom: 40px
+}
+
+.NotableWorktxt p {
+	float: left;
+	width: 100%;
+	font-size: 22px;
+	line-height: 30px;
+	color: #fff;
+	margin: 0
+}
+
+.NotableWorktxt p svg,
+.SplitBoxInner p svg {
+	width: 30px
+}
+
+.SplitSec,
+.bgblack {
+	background: #000
+}
+
+.SplitBox {
+	float: left;
+	width: 100%;
+	padding-top: 20%;
+	padding-bottom: 20%;
+	text-align: center
+}
+
+.SplitBoxInner {
+	float: left;
+	width: 100%;
+	max-width: 640px;
+	text-align: left;
+	z-index: 1
+}
+
+.ElevateCont ul.ElevateLeft li a span,
+.Split1 .SplitBoxInner {
+	float: right
+}
+
+.Split2 .SplitBoxInner {
+	padding-left: 15%
+}
+
+.splitoverlay {
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	transition: .3s
+}
+
+.Split2 .splitoverlay {
+	background-color: #f5f5f5
+}
+
+.SplitBoxInner h4 {
+	font-size: 44px;
+	line-height: 52px;
+	float: left;
+	width: 100%;
+	font-weight: 700;
+	transition: .3s
+}
+
+.SplitBoxInner p {
+	font-size: 22px;
+	line-height: 30px;
+	float: left;
+	width: 100%;
+	margin-bottom: 0
+}
+
+.ContactAddress address p a,
+.ServiciesText .BtnGradiant:hover,
+.Split1 h4,
+.Split1 p {
+	color: #fff
+}
+
+.SplitBox:hover .splitoverlay,
+.videoicon a:first-child:before {
+	opacity: .8
+}
+
+.ContactSec.beforeContainer:hover .before,
+.WhatsappWithWPBox:hover .BgGradiantopacity img,
+.before {
+	opacity: .7
+}
+
+.FtrWABox a svg,
+.SplitBox p svg {
+	transition: .3s
+}
+
+.FtrWABox a:hover svg,
+.SplitBox:hover p svg {
+	margin-left: 10px
+}
+
+.Split2 h4,
+.Split2 p,
+.homeSlider .BtnWithArrow,
+.tabsBtns li.uk-active a {
+	color: #2c2c2c
+}
+
+.ftrCDetails h5,
+.ftrLink li a,
+.ftr_grd address p strong {
+	color: #fff;
+	text-transform: uppercase
+}
+
+.SplitBox:hover h4 {
+	transform: translateY(-20px)
+}
+
+footer:after {
+	bottom: 100%;
+	left: 50%;
+	border: 30px solid rgba(24, 23, 29, 0);
+	content: "";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+	border-bottom-color: #18171d;
+	margin-left: -30px
+}
+
+.ftr_grd {
+	float: left;
+	width: 100%;
+	padding: 120px 0
+}
+
+.ftrCDetails {
+	float: left;
+	width: 100%;
+	max-width: 330px
+}
+
+.ftrCDetails>img {
+	width: 200px
+}
+
+.ftrCDetails h5 {
+	font-size: 40px;
+	line-height: 48px;
+	float: left;
+	width: 100%;
+	font-weight: 700
+}
+
+.ftrCDetails p {
+	font-size: 18px;
+	line-height: 26px;
+	float: left;
+	width: 100%;
+	font-weight: 300;
+	color: #fffFFF99;
+	margin-top: 0
+}
+
+.ftrCDetails p strong {
+	font-size: 30px;
+	line-height: 40px
+}
+
+.ftrCDetails a {
+	font-size: 16px;
+	line-height: 48px;
+	float: left;
+	width: auto;
+	height: 50px;
+	margin-top: 20px;
+	border: 1px solid #000000;
+	border-radius: 25px;
+	text-align: center;
+	background: #12063B ;
+    background: linear-gradient(to right, #2e7be5, #a663cc);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	color: white;
+	padding: 0 20px 0 30px
+}
+
+.FtrWABox a,
+.FtrWABox p,
+.ftrLink li a {
+	font-size: 22px;
+	line-height: 26px
+}
+
+.FtrWABox,
+.ftrLink li,
+.ftr_grd .ftrLink {
+	width: 100%;
+	float: left
+}
+
+.FtrBar ul li a,
+.FtrWABox a,
+.ftrLink li a,
+.ftr_grd address p a {
+	text-decoration: none
+}
+
+.ftrCDetails a svg {
+	width: 22px;
+	margin-left: 5px
+}
+
+.ftrCDetails a:hover {
+	color: #39ff40;
+	background: 0 0
+}
+
+.ftr_grd .ftrLink {
+	margin-bottom: 50px;
+	padding: 0;
+	list-style: none
+}
+
+.ftrLink li {
+	margin-bottom: 10px
+}
+
+.ftrLink li a {
+	float: left;
+	transition: .3s
+}
+
+.FtrWABox a,
+.FtrWABox p,
+footer .topSocialIcons p,
+footer .topSocialIcons ul li a {
+	color: #fffFFF99
+}
+
+.FtrWABox {
+	max-width: 370px
+}
+
+.FtrWABox img {
+	width: 205px
+}
+
+.FtrWABox p {
+	float: left;
+	width: 100%;
+	font-weight: 300;
+	margin-top: 30px
+}
+
+.FtrWABox a {
+	float: left;
+	font-weight: 300;
+	transition: .3s
+}
+
+.ftr_grd address {
+	float: left;
+	width: 100%;
+	padding-bottom: 30px
+}
+
+.ftr_grd address p {
+	float: left;
+	width: 100%;
+	font-size: 16px;
+	line-height: 24px;
+	font-weight: 300;
+	color: #fffFFF99;
+	margin-top: 0;
+	margin-bottom: 15px
+}
+
+.ftr_grd address p strong {
+	float: left;
+	width: 100%;
+	font-size: 30px;
+	line-height: 40px;
+	font-weight: 700
+}
+
+.FtrBar p,
+.FtrBar ul li a,
+.ftr_grd address p a {
+	line-height: 24px;
+	font-size: 16px;
+	float: left;
+	font-weight: 300;
+	color: #fffFFF99
+}
+
+.FtrWABox a.googleplayIcon img {
+	width: 100px
+}
+
+.FtrWABox a.appstoreIcon img {
+	width: 88px;
+	margin: 0 5px
+}
+
+.FtrWABox a.huaweiIcon img {
+	width: 99px
+}
+
+.FtrBar {
+	float: left;
+	width: 100%;
+	padding-bottom: 50px
+}
+
+.FtrBar p {
+	margin: 0
+}
+
+.FtrBar ul {
+	float: left;
+	margin: 0;
+	padding: 0;
+	list-style: none
+}
+
+.FtrBar ul li {
+	float: left;
+	margin-left: 30px
+}
+
+.FtrBar ul li a {
+	transition: .3s
+}
+
+.backtotop {
+	transform: rotate(-90deg);
+	position: absolute;
+	left: -20px;
+	bottom: 90px;
+	color: #fffFFF99;
+	font-size: 14px;
+	line-height: 22px
+}
+
+.BtnGradiant,
+.ElevateImgBox {
+	line-height: 64px;
+	text-align: center
+}
+
+.HeadingBox {
+	float: left;
+	width: auto;
+	position: relative
+}
+
+.HeadingBox .BtnWithIcon {
+	position: absolute;
+	right: 100px;
+	bottom: 52px
+}
+
+.HeadingBox .BtnWithIcon:hover svg {
+	width: 30px;
+	margin-top: 4px
+}
+
+.HeadingBox .BtnWithIcon span:before {
+	background: #3f6
+}
+
+.AboutPage .TechCompanySec,
+.MadvertiserPage .TechCompanySec,
+.SeoPage .TechCompanySec,
+.WhatsappPage .TechCompanySec {
+	background: #18171d;
+	padding: 50px 0
+}
+
+.AboutPage .TechCompanySec .sec1heading {
+	font-size: 26px;
+	line-height: 34px;
+	color: #fffFFF99;
+	font-weight: 300
+}
+
+.AboutPage .TechCompanySec .sec2heading {
+	font-size: 34px;
+	line-height: 42px;
+	text-transform: none;
+	font-weight: 400
+}
+
+.AboutGameChangeSec {
+	background: #18171d;
+	position: relative;
+	z-index: 1
+}
+
+.AboutGameChangeBox {
+	padding-top: 80px;
+	display: inline-block;
+	width: 100%;
+	max-width: 900px
+}
+
+.AboutGameChangeBox h2 {
+	display: inline-block;
+	width: 100%;
+	color: #fff;
+	font-size: 52px;
+	line-height: 62px;
+	text-transform: uppercase;
+	font-weight: 700
+}
+
+.AboutGameChangeBox p,
+.OfferServicesSec p {
+	font-size: 30px;
+	line-height: 40px;
+	display: inline-block
+}
+
+.AboutGameChangeBox p {
+	width: 100%;
+	max-width: 880px;
+	color: #fffFFF99;
+	font-weight: 100;
+	margin: 0 0 40px
+}
+
+.OfferServicesSec h2,
+.OfferServicesSec p {
+	margin-top: 0;
+	width: 100%;
+	color: #fff;
+	text-transform: uppercase
+}
+
+.vidImgBox {
+	float: left;
+	width: 100%;
+	box-shadow: 0 3px 50px #00000029;
+	margin-bottom: -100px;
+	position: relative
+}
+
+.HomeSliderContainer .macbookImg,
+.vidImgBox img {
+	width: 100%;
+	position: relative;
+	z-index: 1
+}
+
+.OfferServicesSec {
+	padding: 220px 0 120px;
+	position: relative;
+	background: #18171d
+}
+
+.before {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	transition: .3s
+}
+
+.beforeContainer {
+	   background: linear-gradient(to right, #2e7be5, #a663cc);
+	position: relative
+}
+
+.ContactSec .before {
+	opacity: .5
+}
+
+.OfferServicesSec p {
+	font-weight: 300;
+	margin-bottom: 0
+}
+
+.OfferServicesSec p~h2 {
+	margin-top: 10px;
+	margin-bottom: 50px
+}
+
+.OfferServicesSec h2~p {
+	text-transform: none
+}
+
+.OfferServicesSec h2 {
+	float: left;
+	font-size: 70px;
+	line-height: 80px;
+	font-weight: 500
+}
+
+.EntertainmentSec ul li p~p,
+.OfferServicestxt h3,
+.ServingtelecomBox p strong {
+	font-size: 28px;
+	line-height: 36px
+}
+
+.OfferServicesBox {
+	display: inline-block;
+	width: 100%;
+	max-width: 270px
+}
+
+.OfferServicesImg {
+	float: left;
+	width: 100%;
+	color: #fff
+}
+
+.OfferServicesImg img {
+	max-width: 88px;
+	width: 100%
+}
+
+.OfferServicestxt h3 {
+	float: left;
+	width: 100%;
+	margin: 0 0 20px;
+	text-transform: uppercase;
+	color: #fff
+}
+
+.OfferServicesSec .OfferServicestxt p {
+	float: left;
+	width: 100%;
+	margin: 0;
+	font-size: 18px;
+	line-height: 22px;
+	color: #fff;
+	text-transform: none
+}
+
+.TabsSec .HelpYouTxtBox h4,
+.HelpYouTxtBox h3,
+.TabsSec .HelpYouTxtBox p {
+	line-height: 26px;
+	font-size: 18px
+}
+
+.ServingtelecomSec {
+	padding: 120px 0 90px;
+	background: #18171d
+}
+
+.ServingtelecomBox {
+	display: inline-block;
+	width: 100%;
+	max-width: 1100px
+}
+
+.ServingtelecomBox h2 {
+	float: left;
+	width: 100%;
+	font-size: 70px;
+	line-height: 80px;
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 500
+}
+
+.ServingtelecomBox h3,
+.ServingtelecomBox p {
+	font-weight: 100;
+	margin-top: 0;
+	margin-bottom: 40px;
+	color: #fff;
+	width: 100%;
+	display: inline-block
+}
+
+.ServingtelecomBox p {
+	max-width: 1000px;
+	font-size: 30px;
+	line-height: 40px
+}
+
+.ServingtelecomBox h3 {
+	max-width: 800px;
+	font-size: 54px;
+	line-height: 70px;
+	text-transform: uppercase
+}
+
+.ServingtelecomImgs {
+	float: left;
+	width: 100%;
+	margin-bottom: 20px
+}
+
+.ServingtelecomImgs ul {
+	float: left;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	list-style: none
+}
+
+.ServingtelecomImgs ul li {
+	display: inline-block;
+	margin: 0 20px
+}
+
+.ServingtelecomImgs ul li .jazzicon {
+	width: 109px
+}
+
+.ServingtelecomImgs ul li .zongicon {
+	width: 167px
+}
+
+.ServingtelecomImgs ul li .telenoricon {
+	width: 168px
+}
+
+.ServingtelecomImgs ul li .ufoneicon {
+	width: 145px
+}
+
+.ServingtelecomBox p strong {
+	font-weight: 300
+}
+
+.EntertainmentSec {
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	padding: 100px 0 80px
+}
+
+.EntertainmentBox {
+	float: left;
+	width: 100%;
+	max-width: 530px
+}
+
+.EntertainmentSec .mjunoonlogo,
+.SubMenuSec .ProdMenu img {
+	width: 100%;
+	max-width: 250px
+}
+
+.EntertainmentSec h3 {
+	display: inline-block;
+	width: 100%;
+	font-size: 78px;
+	line-height: 80px;
+	color: #fff;
+	font-weight: 700;
+	margin-top: 40px;
+	margin-bottom: 20px
+}
+
+.EntertainmentSec ul {
+	display: inline-block;
+	width: 100%;
+	margin: 0 0 30px;
+	padding: 0;
+	list-style: none
+}
+
+.EntertainmentSec ul li {
+	display: inline-block;
+	position: relative;
+	padding: 0 15px;
+	margin-left: 3px
+}
+
+.EntertainmentSec ul li::before {
+	position: absolute;
+	left: -3px;
+	top: 0;
+	width: 3px;
+	height: 100%;
+	content: "";
+	background: #ff11f5;
+	box-shadow: 0 0 10px #b066fe
+}
+
+.EntertainmentSec ul li:last-child {
+	padding-right: 0
+}
+
+.EntertainmentSec ul li p {
+	margin: 0;
+	font-size: 36px;
+	line-height: 44px;
+	color: #fff
+}
+
+.EntertainmentSec ul li:first-child p {
+	text-align: right
+}
+
+.EntertainmentSec ul li:last-child p {
+	text-align: left
+}
+
+.EntertainmentImg img {
+	width: 100%;
+	max-width: 650px
+}
+
+.EntertainmentBtn a,
+.btnsStores,
+.homeSlider .uk-dotnav li,
+.showcontactform .FixedFormBtn svg.closeicon {
+	display: inline-block
+}
+
+.EntertainmentBtn .googleplayIcon {
+	width: 114px
+}
+
+.EntertainmentBtn .appstoreIcon {
+	width: 101px;
+	margin: 0 5px
+}
+
+.EntertainmentBtn .huaweiIcon {
+	width: 113px
+}
+
+.AboutPage .gridSec:before {
+	top: 17%;
+	height: 55%
+}
+
+.AboutPage .contactTxt {
+	max-width: 600px
+}
+
+.JustStartedSec {
+	padding: 120px 0
+}
+
+.JustStartedTxt h2 {
+	float: left;
+	width: 100%;
+	font-size: 74px;
+	line-height: 74px;
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 700
+}
+
+.BtnGradiant,
+.JustStartedTxt p {
+	font-size: 22px;
+	color: #fff;
+	float: left
+}
+
+.JustStartedTxt p {
+	width: 100%;
+	line-height: 32px;
+	margin-top: 0
+}
+
+.JustStartedTxt p strong {
+	font-size: 38px;
+	line-height: 48px;
+	font-weight: 400
+}
+
+.BtnGradiant {
+	text-decoration: none;
+	border-radius: 40px;
+	transition: .3s;
+	font-weight: 500;
+	width: auto;
+	height: 66px;
+	background: url(../images/textgradiant.png) -2px -2px no-repeat;
+	background-size: calc(100% + 4px) calc(100% + 4px);
+	border: 1px solid transparent;
+	padding: 0 20px 0 30px
+}
+
+.BtnGradiant:hover,
+.OrangeClr.BtnGradiant:hover,
+.PurpleClr.BtnGradiant:hover,
+.YellowClr.BtnGradiant:hover {
+	border: 1px solid #fff;
+	color: #fff;
+	background: 0 0
+}
+
+.CasestudiesHeader,
+.PortfolioHeader {
+	position: relative;
+	background-color: #000;
+	overflow: hidden
+}
+
+.BtnGradiant svg {
+	width: 24px;
+	margin-left: 5px
+}
+
+.PortfolioHeader {
+	height: auto;
+	min-height: inherit;
+	padding: 200px 0 150px
+}
+
+.CasestudiesHeader {
+	height: 100%;
+	padding-bottom: 200px;
+	min-height: 650px
+}
+
+.CasestudiesHeader:before,
+.PortfolioHeader:before {
+	background-color: #000;
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	content: '';
+	opacity: .3
+}
+
+.CasestudiesHeader:after,
+.CasestudiesInnerHeader:after,
+.PortfolioHeader:after {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 40%;
+	content: '';
+	background: linear-gradient(180deg, #00000000 0, #00000066 49%, #000 100%)
+}
+
+.CasestudiesHeader .uk-container,
+.ElevateLeft,
+.Elevateright,
+.MobileImgBox .MobileImg,
+.PortfolioHeader .uk-container {
+	position: relative;
+	z-index: 1
+}
+
+.CasestudiesHeader h1,
+.PortfolioHeader h1 {
+	font-size: 90px;
+	line-height: 95px;
+	text-transform: uppercase;
+	float: left;
+	width: 100%;
+	font-weight: 700;
+	color: #fff
+}
+
+.CasestudiesHeader p,
+.PortfolioHeader p {
+	font-size: 30px;
+	line-height: 40px;
+	display: inline-block;
+	width: 100%;
+	max-width: 690px;
+	color: #fff;
+	margin: 0;
+	font-weight: 300
+}
+
+.ElevateHead h2,
+.ElevateHead p {
+	max-width: 900px;
+	display: inline-block
+}
+
+.WhatsappHeader h1,
+.WhatsappWithWPCont h2 {
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #fff
+}
+
+.CasestudiesSec {
+	background: #000;
+	margin-top: -300px;
+	padding-bottom: 120px
+}
+
+.ElevateSec,
+.OurPortSec,
+.WhatsappWithWPSec {
+	background: #18171d
+}
+
+.CasestudiesBox {
+	float: left;
+	width: calc(100% + 40px);
+	margin: 0 0 0 -40px;
+	padding: 0;
+	list-style: none
+}
+
+.CasestudiesBox li {
+	width: 33.3333%;
+	padding-left: 40px;
+	float: left;
+	margin-top: 40px
+}
+
+.ElevateCont ul,
+.HowWeHelpYouTxt ul {
+	padding: 0;
+	list-style: none;
+	float: left
+}
+
+.CasestudiesBox li:nth-child(2) {
+	margin-top: 160px
+}
+
+.CasestudiesBox li:nth-child(3),
+.PortfolioGrid li:nth-child(2) {
+	margin-top: 100px
+}
+
+.CasestudiesPage .Split2 .splitoverlay {
+	background-color: #fafafa
+}
+
+.WhatsappHeader {
+	height: 100%;
+	position: relative;
+	min-height: 650px;
+	overflow: hidden
+}
+
+.SeoHeader:before,
+.WhatsappHeader:before {
+	background-color: #000;
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	content: '';
+	opacity: .3
+}
+
+.WhatsappHeader h1 {
+	font-size: 70px;
+	line-height: 85px;
+	float: left;
+	width: 100%;
+	margin: 10px 0 20px
+}
+
+.SeoPage .TechCompanySec .sec1heading,
+.WhatsappPage .TechCompanySec .sec1heading {
+	color: #fffFFF99;
+	font-weight: 300
+}
+
+.WhatsappWithWPCont h2 {
+	display: inline-block;
+	width: 100%;
+	font-size: 52px;
+	line-height: 62px;
+	margin-bottom: 40px
+}
+
+.WhatsappWithWPBox {
+	float: left;
+	width: 100%;
+	position: relative;
+	border-radius: 6px;
+	padding: 25px 15px;
+	height: 100%;
+	text-decoration: none !important;
+	transition: .3s;
+	cursor: inherit
+}
+
+.ElevateCont ul li a,
+.ViewAllBtn {
+	transition: .3s;
+	text-decoration: none
+}
+
+.BgGradiant,
+.BgGradiantopacity {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	border-radius: 6px;
+	overflow: hidden
+}
+
+.BgGradiant img,
+.BgGradiantopacity img {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	transition: .3s
+}
+
+.WhatsappWithWPBox:before {
+	border: 1px solid #18171d;
+	border-radius: 6px;
+	position: absolute;
+	left: 5px;
+	top: 5px;
+	content: '';
+	width: calc(100% - 12px);
+	height: calc(100% - 12px);
+	background: 0 0;
+	z-index: 1
+}
+
+.WhatsappWithWPImg {
+	float: left;
+	width: 100%;
+	padding: 40px 0 30px;
+	color: #fff;
+	transition: .3s;
+	position: relative
+}
+
+.MobileMenuWrap .uk-nav-sub li a img.menuImg,
+.WhatsappWithWPImg svg,
+.ftrLink .uk-dropdown li a img.menuImg {
+	width: 120px
+}
+
+.WhatsappWithWPTxt {
+	float: left;
+	width: 100%;
+	color: #fff;
+	transition: .3s;
+	position: relative;
+	padding: 0 9px
+}
+
+.WhatsappWithWPTxt p {
+	float: left;
+	width: 100%;
+	margin: 0;
+	font-size: 20px;
+	line-height: 24px
+}
+
+.WhatsappWithWPTxt span {
+	float: left;
+	width: 100%;
+	visibility: hidden;
+	transition: .3s;
+	font-size: 14px;
+	transform: translate(0, 10px);
+	opacity: 0
+}
+
+.WhatsappWithWPBox:hover .WhatsappWithWPImg {
+	transform: translate(0, -15px)
+}
+
+.WhatsappWithWPBox:hover .WhatsappWithWPTxt {
+	transform: translate(0, -25px)
+}
+
+.WhatsappWithWPBox:hover .WhatsappWithWPTxt span {
+	opacity: 0;
+	visibility: visible
+}
+
+.ElevateSec {
+	padding: 90px 0
+}
+
+.ElevateHead,
+.ProfileingDHead {
+	float: left;
+	width: 100%;
+	padding-bottom: 60px
+}
+
+.ElevateHead h2 {
+	width: 100%;
+	color: #fff;
+	font-size: 52px;
+	line-height: 62px;
+	text-transform: uppercase;
+	font-weight: 100
+}
+
+.ElevateHead p {
+	font-size: 30px;
+	line-height: 40px;
+	margin: 0;
+	width: 100%;
+	color: #fff
+}
+
+.ElevateCont ul {
+	width: 100%;
+	margin: 50px 0 0
+}
+
+.ElevateCont ul li,
+.HowWeHelpYouTxt ul li {
+	float: left;
+	width: 100%;
+	margin-bottom: 40px
+}
+
+.ElevateCont ul li a {
+	float: left;
+	color: #fff;
+	cursor: inherit
+}
+
+.ElevateCont ul.ElevateLeft li a {
+	float: right;
+	text-align: right
+}
+
+.ElevateImgBox {
+	float: left;
+	width: 64px;
+	height: 64px;
+	border-radius: 14px;
+	background: #fff;
+	color: #1487e5;
+	margin-right: 30px;
+	transition: .3s
+}
+
+.ElevateLeft .ElevateImgBox {
+	float: right;
+	margin-right: 0;
+	margin-left: 30px
+}
+
+.ElevateCont ul li a span {
+	float: left;
+	font-size: 24px;
+	line-height: 28px;
+	text-transform: capitalize;
+	width: calc(100% - 94px);
+	height: 64px
+}
+
+.B2bB2cSec h2,
+.FAQSec h2,
+.HelpYouTxtBox h4,
+.HelpYouTxtBox h3,
+.HowWeHelpYouSec h2,
+.OfferServicesHead h2,
+.ProfileingDHead h2,
+.SeoFld .SeoBtn,
+.SeoHeader h1,
+.TabsSec h2 {
+	text-transform: uppercase
+}
+
+.ElevateCont ul li a:hover .ElevateImgBox {
+	color: #3f6;
+	background: #013301
+}
+
+.ElevateMiddle,
+.sliderImg {
+	float: left;
+	width: 100%;
+	text-align: center
+}
+
+.ElevateMiddle img {
+	width: 100%;
+	max-width: 540px
+}
+
+.JustStartedSec.BarCodeSec {
+	background: #f5f5f5
+}
+
+.BarCodeSec .JustStartedTxt h2 {
+	color: #1487e5;
+	max-width: 100%
+}
+
+.BarCodeSec .JustStartedTxt p {
+	color: #9c9d9d
+}
+
+.BarCodeSec .JustStartedTxt p strong {
+	color: #18171d
+}
+
+.BarCodeSec .JustStartedimg img {
+	transition: .3s;
+	width: 100%;
+	max-width: 400px;
+	box-shadow: 0 30px 36px #00000029;
+	border-radius: 24px
+}
+
+.BarCodeSec .JustStartedSec:hover .JustStartedimg img {
+	-webkit-transform: scale(1.05);
+	-ms-transform: scale(1.05);
+	transform: scale(1.05)
+}
+
+.FAQSec,
+.HowWeHelpYouSec,
+.TabsSec {
+	padding: 90px 0;
+	background: #fff
+}
+
+.HowWeHelpYouSec h2 {
+	float: left;
+	width: 100%;
+	font-size: 44px;
+	line-height: 52px;
+	color: #1487e5;
+	font-weight: 700;
+	margin-bottom: 30px
+}
+
+.HowWeHelpYouTxt ul {
+	width: 100%;
+	margin: 0
+}
+
+.HowWeHelpYouTxt ul li a {
+	float: left;
+	cursor: auto
+}
+
+.HelpYouIconBox {
+	float: left;
+	width: 100px;
+	height: 100px;
+	line-height: 1;
+	text-align: center;
+	background: #fafafa;
+	border-radius: 8px;
+	color: #1487e5;
+	padding: 5px;
+	transition: .3s
+}
+
+.HelpYouTxtBox {
+	float: left;
+	width: calc(100% - 100px);
+	max-width: 450px;
+	padding-left: 30px;
+	padding-top: 10px
+}
+
+.HelpYouTxtBox h4,
+.HelpYouTxtBox h3 {
+	float: left;
+	width: 100%;
+	margin-bottom: 10px;
+	color: #2c2c2c;
+	font-size: 22px;
+	line-height: 28px;
+	font-weight: 700;
+	transition: .3s
+}
+
+.HelpYouTxtBox p {
+	float: left;
+	width: 100%;
+	margin: 0;
+	color: #00000066;
+	font-size: 14px;
+	line-height: 20px;
+	transition: .3s
+}
+
+.HowWeHelpYouTxt ul li a:hover .HelpYouIconBox {
+	background: #fff;
+	box-shadow: 0 0 25px 0 rgba(0, 0, 0, .3)
+}
+
+.ChatBotPage .HowWeHelpYouSec .readmore,
+.MadvertiserPage .HowWeHelpYouTxt .readmore,
+.PaidMediaPage .HowWeHelpYouTxt .readmore,
+.SeoPage .HowWeHelpYouTxt .readmore,
+.TagManagerPage .HowWeHelpYouTxt .readmore,
+.WhatsappPage .HowWeHelpYouBox .readmore {
+	color: #000;
+	font-size: 14px
+}
+
+.FAQSec h2 {
+	float: left;
+	text-align: center;
+	width: 100%;
+	font-size: 54px;
+	line-height: 70px;
+	color: #2c2c2c;
+	font-weight: 500;
+	margin-bottom: 40px
+}
+
+.FAQBox {
+	display: inline-block;
+	width: 100%;
+	text-align: left
+}
+
+.FAQBox .uk-accordion>li {
+	float: left;
+	width: 100%;
+	border-bottom: 1px solid #ddd;
+	margin: 0
+}
+
+.FAQBox .uk-accordion-title {
+	color: #2c2c2c;
+	font-size: 34px;
+	line-height: 38px;
+	padding: 20px 30px 20px 0;
+	position: relative
+}
+
+.FAQBox .uk-accordion-title svg {
+	float: right;
+	width: 30px;
+	top: 50%;
+	position: absolute;
+	transform: translateY(-50%);
+	right: 0;
+	color: #99f
+}
+
+.FAQBox .uk-accordion-title svg.PlusIcon,
+.FAQBox .uk-open .uk-accordion-title svg.MinusIcon,
+.MobileMenuBtn svg.MenuBurger,
+.MobileMenuBtn.OpenMenuBtn svg.MenuClose,
+.UlFilterBtns.showFilter,
+.UltabsBtns.showMenu,
+.fbicon .protSocial,
+.homeSlider .uk-dotnav>.uk-active>:before,
+.instaicon .protSocial,
+.instaicon.fbicon .protSocial li,
+.showcontactform .FixedFormBox,
+footer:after {
+	display: block
+}
+
+.SeoPage .FAQBox .uk-accordion-title svg,
+.SeoPage .HelpYouIconBox,
+.SeoPage .HowWeHelpYouSec h2 {
+	color: #ea3838
+}
+
+.CRMHeader .BtnWithIcon:hover,
+.CallCenterHeader .BtnWithIcon:hover,
+.CallCenterPage .FAQBox .uk-accordion-title svg,
+.ChatBotHeader .BtnWithIcon:hover,
+.ChatBotPage .ElevateCont ul li a:hover,
+.ChatBotPage .ElevateImgBox,
+.ChatBotPage .FAQBox .uk-accordion-title svg,
+.CloudDevopsHeader .BtnWithIcon:hover,
+.CloudDevopsPage .FAQBox .uk-accordion-title svg,
+.ContentManagementHeader .BtnWithIcon:hover,
+.DatabaseDevHeader .BtnWithIcon:hover,
+.DatabaseDevPage .FAQBox .uk-accordion-title svg,
+.MadvertiserHeader .BtnWithIcon:hover,
+.MadvertiserPage .ElevateCont ul li a:hover,
+.MadvertiserPage .ElevateImgBox,
+.MadvertiserPage .FAQBox .uk-accordion-title svg,
+.MadvertiserPage .ServingtelecomBox .readmore:hover svg,
+.MobileGameHeader .BtnWithIcon:hover,
+.MobileWebHeader .BtnWithIcon:hover,
+.MobileWebPage .FAQBox .uk-accordion-title svg,
+.OTTHeader .BtnWithIcon:hover,
+.OTTPage .FAQBox .uk-accordion-title svg,
+.ProductDevelopmentHeader .BtnWithIcon:hover {
+	color: #99f
+}
+
+.FAQBox .uk-accordion-content {
+	margin-top: 0;
+	margin-bottom: 20px
+}
+
+.SeoHeader {
+	height: 100%;
+	position: relative;
+	min-height: 650px
+}
+
+.SeoHeader h1 {
+	font-size: 90px;
+	line-height: 105px;
+	color: #fff;
+	font-weight: 500;
+	float: left;
+	width: 100%;
+	margin-bottom: 10px
+}
+
+.SeoHeader p strong {
+	font-size: 40px;
+	line-height: 48px;
+	color: #fff;
+	font-weight: 500
+}
+
+.SeoHeader p {
+	font-size: 30px;
+	line-height: 40px;
+	color: #fff;
+	float: left;
+	width: 100%;
+	margin: 0 0 40px
+}
+
+.SeoFld input,
+.SeoFld select {
+	background: #fafafa;
+	padding: 15px;
+	color: #000;
+	height: 50px;
+	font-size: 16px;
+	float: left
+}
+
+.AboutPage .OfferServicesBox:hover .OfferServicesImg,
+.AboutPage .OfferServicesBox:hover .OfferServicestxt h3,
+.AboutPage .OfferServicesBox:hover .OfferServicestxt p,
+.AudioVideoHeader .BtnWithIcon:hover,
+.BusinessChallenge p a,
+.CreativeDesignHeader .BtnWithIcon:hover,
+.DigitalMarketingHeader .BtnWithIcon:hover,
+.PaidMediaHeader .BtnWithIcon:hover,
+.SeoFld .SeoBtn:hover,
+.SeoHeader p a,
+.SeoPage .WhatsappWithWPBox:hover .WhatsappWithWPTxt span svg,
+.TagManagerHeader .BtnWithIcon:hover {
+	color: #ffe05c
+}
+
+.SeoForm {
+	display: inline-block;
+	margin-bottom: 20px
+}
+
+.SeoFld {
+	float: left;
+	padding-left: 10px;
+	margin-bottom: 10px
+}
+
+.SeoFld input {
+	width: 100%;
+	max-width: 220px;
+	border: 1px solid #ddd;
+	border-radius: 6px
+}
+
+.SeoFld.SeoNumber input {
+	max-width: 200px;
+	border-radius: 0 6px 6px 0;
+	border-left: none
+}
+
+.SeoFld select {
+	width: 90px;
+	border: 1px solid #ddd;
+	border-radius: 6px 0 0 6px
+}
+
+.B2bB2cBox ul,
+.ProfileingDBox ul,
+.ServiciesCLouds ul,
+.tabsBtns {
+	padding: 0;
+	list-style: none
+}
+
+.SeoFld .SeoBtn {
+	float: left;
+	width: 160px;
+	height: 50px;
+	text-align: center;
+	border-radius: 6px;
+	font-size: 16px;
+	font-weight: 500;
+	background: #1487e5;
+	border: none;
+	color: #fff;
+	cursor: pointer;
+	transition: .3s
+}
+
+.SeoPage .ElevateHead p {
+	font-weight: 300
+}
+
+.JustStartedSec.CallCenterImgBtm,
+.PaidMediaPage .ElevateHead,
+.SeoPage .ElevateHead {
+	padding-bottom: 0
+}
+
+.CreativeDesignPage .HowWeHelpYouTxt .readmore:hover svg,
+.CreativeDesignPage .HowWeHelpYouTxt ul li a:hover .HelpYouTxtBox h4,
+.CreativeDesignPage .TabsSec .HelpYouIconBox,
+.CreativeDesignPage .TabsSec h2,
+.SeoPage .HowWeHelpYouTxt .readmore:hover svg,
+.SeoPage .HowWeHelpYouTxt ul li a:hover .HelpYouTxtBox h4 {
+	color: #f26430
+}
+
+.tabsBtnBox {
+	float: left;
+	position: relative;
+	margin-bottom: 60px
+}
+
+.tabsBtns {
+	float: left;
+	margin: 0
+}
+
+.tabsBtns li {
+	float: left;
+	margin: 0 10px
+}
+
+.ProfileingDBox ul li:first-child,
+.tabsBtns li:first-child {
+	margin-left: 0
+}
+
+.ProfileingDBox ul li:last-child,
+.tabsBtns li:last-child {
+	margin-right: 0
+}
+
+.tabsBtns li a {
+	float: left;
+	padding: 10px;
+	position: relative;
+	color: #747477;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 20px;
+	transition: .3s
+}
+
+.tabsBtns li a:before {
+	border-bottom: 2px solid #f26430;
+	content: '';
+	width: 0;
+	height: 2px;
+	position: absolute;
+	left: 50%;
+	bottom: 0;
+	transition: .3s
+}
+
+.tabsBtns li.uk-active a:before {
+	width: 100%;
+	left: 0
+}
+
+.tabsBtnBox span {
+	background-color: #e4e4e4;
+	border-radius: 20px;
+	display: block;
+	position: absolute;
+	transition: .3s;
+	transform: translateX(-215px)
+}
+
+.aditionBox h3 {
+	float: left;
+	width: 100%;
+	color: #2c2c2c;
+	font-size: 40px;
+	line-height: 48px;
+	margin-bottom: 10px;
+	font-weight: 500
+}
+
+.aditionBox p {
+	float: left;
+	width: 100%;
+	color: #9c9d9d;
+	font-size: 22px;
+	line-height: 30px;
+	margin: 0 0 50px
+}
+
+.TabsSec .HelpYouIconBox {
+	width: 80px;
+	height: 80px;
+	background: #f5f5f5;
+	border-radius: 5px;
+	padding: 12px
+}
+
+.TabsSec .HowWeHelpYouTxt ul li a:hover .HelpYouIconBox {
+	box-shadow: 0 10px 28px #00000042
+}
+
+.TabsSec .HelpYouTxtBox h4 {
+	margin-bottom: 5px;
+	text-transform: capitalize
+}
+
+.TabsSec .HelpYouTxtBox {
+	padding-left: 20px;
+	padding-top: 0
+}
+
+.TabsSec h2 {
+	float: left;
+	width: 100%;
+	font-size: 44px;
+	line-height: 52px;
+	color: #f26430;
+	font-weight: 700;
+	margin-bottom: 30px
+}
+
+.B2bB2cSec {
+	padding: 90px 0;
+	background: #f5f5f5
+}
+
+.B2bB2cSec h2 {
+	float: left;
+	width: 100%;
+	color: #2c2c2c;
+	font-size: 52px;
+	line-height: 62px;
+	font-weight: 500
+}
+
+.B2bB2cBox {
+	display: inline-block;
+	width: 100%;
+	max-width: 1000px;
+	background: #fff;
+	min-height: 100px;
+	box-shadow: 0 10px 75px #00000029;
+	border: 1px solid #dfdfdf;
+	border-radius: 12px;
+	overflow: hidden
+}
+
+.B2bB2cBox ul {
+	float: left;
+	width: 100%;
+	margin: 0;
+	text-align: left
+}
+
+.B2bB2cBox ul li {
+	float: left;
+	width: 33.3333%;
+	border-left: 2px solid #f5f5f5;
+	border-right: 2px solid #f5f5f5;
+	border-bottom: .5px solid #f5f5f5;
+	border-top: .5px solid #f5f5f5
+}
+
+.B2bB2cBox ul li .B2bB2cBoxInner {
+	float: left;
+	padding: 15px 30px;
+	color: #2c2c2c;
+	font-size: 22px;
+	line-height: 32px;
+	width: 100%
+}
+
+.B2bB2cBoxInner svg {
+	color: #f26430;
+	margin-right: 10px;
+	float: left;
+	width: 20px;
+	margin-top: 5px
+}
+
+.B2bB2cBoxInner span,
+.ftrLink .uk-dropdown li a span {
+	float: left
+}
+
+.ContactPage .ContactFld .submitBtn,
+.MadvertiserPage .ContactFld .submitBtn,
+.SeoPage .ContactFld .submitBtn,
+.WhatsappPage .ContactFld .submitBtn {
+	background-color: #f26430;
+	border: 1px solid #f26430
+}
+
+.MadvertiserPage .TechCompanySec .sec1heading {
+	font-size: 18px;
+	line-height: 22px;
+	color: #fffFFF99;
+	font-weight: 300
+}
+
+.borderTop {
+	border-top: 2px solid #2c2c2c;
+	float: left;
+	width: 100%
+}
+
+.MadvertiserPage .ElevateSec .borderTop,
+.WhatsappWithWPSec .borderTop {
+	padding-top: 90px
+}
+
+.MadvertiserPage .ElevateSec {
+	padding-top: 0;
+	position: relative
+}
+
+.MadvertiserPage .ElevateHead h2 {
+	max-width: 100%;
+	font-weight: 700
+}
+
+.MadvertiserPage .ElevateHead p {
+	max-width: 940px;
+	color: #ddd;
+	font-weight: 300
+}
+
+.ChatBotPage .ElevateCont ul li a:hover .ElevateImgBox,
+.MadvertiserPage .ElevateCont ul li a:hover .ElevateImgBox {
+	color: #99f;
+	background: #470137
+}
+
+.MadvertiserPage .ServingtelecomBox h3 {
+	max-width: 100%;
+	font-size: 30px;
+	line-height: 40px;
+	color: #fff;
+	font-weight: 300;
+	margin-bottom: 10px
+}
+
+.MadvertiserPage .ServingtelecomBox h2 {
+	font-size: 70px;
+	line-height: 80px;
+	font-weight: 700;
+	margin-top: 0
+}
+
+.MadvertiserPage .ServingtelecomBox p {
+	max-width: 100%;
+	font-size: 28px;
+	line-height: 36px;
+	font-weight: 400
+}
+
+.ProfileingDSec {
+	padding: 120px 0;
+	background: #fafafa
+}
+
+.ProfileingDHead h2 {
+	display: inline-block;
+	width: 100%;
+	max-width: 900px;
+	color: #2c2c2c;
+	font-size: 54px;
+	line-height: 70px;
+	font-weight: 700
+}
+
+.ContactAddress address p strong,
+.ProfileingDHead p {
+	font-size: 30px;
+	line-height: 40px
+}
+
+.ProfileingDHead p {
+	margin: 0;
+	display: inline-block;
+	width: 100%;
+	max-width: 940px;
+	color: #2c2c2c
+}
+
+.ProfileingDBox ul {
+	display: inline-block;
+	margin: 0
+}
+
+.ProfileingDBox ul li {
+	float: left;
+	margin: 0 15px
+}
+
+.ProfileingDBox ul li a {
+	float: left;
+	width: 90px;
+	cursor: inherit
+}
+
+.ProfileingDImg {
+	float: left;
+	width: 90px;
+	height: 90px;
+	margin-bottom: 15px;
+	background: #fff;
+	box-shadow: 0 10px 10px #0000004D;
+	line-height: 1;
+	padding: 5px;
+	border-radius: 15px;
+	color: #793aff;
+	transition: .3s
+}
+
+.ProfileingDBox ul li a:hover .ProfileingDImg {
+	box-shadow: 0 10px 28px #0000004D
+}
+
+.ProfileingDBox ul li a span {
+	float: left;
+	width: 100%;
+	font-size: 14px;
+	line-height: 24px;
+	color: #2c2c2c;
+	font-weight: 700;
+	text-transform: uppercase
+}
+
+.CallCenterPage .HelpYouIconBox,
+.CallCenterPage .HowWeHelpYouSec h2,
+.CallCenterPage .HowWeHelpYouTxt .readmore:hover svg,
+.CallCenterPage .HowWeHelpYouTxt ul li a:hover .HelpYouTxtBox h4,
+.ChatBotPage .BarCodeSec .JustStartedTxt h2,
+.ChatBotPage .HelpYouIconBox,
+.ChatBotPage .HowWeHelpYouSec .readmore:hover svg,
+.ChatBotPage .HowWeHelpYouSec h2,
+.ChatBotPage .HowWeHelpYouTxt .readmore:hover svg,
+.ChatBotPage .HowWeHelpYouTxt ul li a:hover .HelpYouTxtBox h4,
+.ChatBotPage .TabsSec h2,
+.CloudDevopsPage .HelpYouIconBox,
+.CloudDevopsPage .HowWeHelpYouTxt .readmore:hover svg,
+.CloudDevopsPage .HowWeHelpYouTxt ul li a:hover .HelpYouTxtBox h4,
+.CloudDevopsPage .TabsSec h2,
+.ContentManagementPage .HowWeHelpYouSec h2,
+.ContentManagementPage .HowWeHelpYouTxt .readmore:hover svg,
+.ContentManagementPage .HowWeHelpYouTxt ul li a:hover .HelpYouTxtBox h4,
+.DatabaseDevPage .HelpYouIconBox,
+.DatabaseDevPage .HowWeHelpYouTxt .readmore:hover svg,
+.DatabaseDevPage .HowWeHelpYouTxt ul li a:hover .HelpYouTxtBox h4,
+.DatabaseDevPage .TabsSec h2,
+.MadvertiserPage .HelpYouIconBox,
+.MadvertiserPage .HowWeHelpYouSec h2,
+.MadvertiserPage .HowWeHelpYouTxt .readmore:hover svg,
+.MadvertiserPage .HowWeHelpYouTxt ul li a:hover .HelpYouTxtBox h4,
+.MadvertiserPage .TabsSec h2,
+.MobileGamePage .HowWeHelpYouSec h2,
+.MobileGamePage .HowWeHelpYouTxt .readmore:hover svg,
+.MobileGamePage .HowWeHelpYouTxt ul li a:hover .HelpYouTxtBox h4,
+.MobileWebPage .HelpYouIconBox,
+.MobileWebPage .HowWeHelpYouTxt .readmore:hover svg,
+.MobileWebPage .HowWeHelpYouTxt ul li a:hover .HelpYouTxtBox h4,
+.MobileWebPage .TabsSec h2,
+.MobileWebPage .animBoxTxt span svg,
+.MobileWebPage .gridTxtContainer h2,
+.MobileWebPage .gridTxtContainer p strong,
+.OTTPage .HelpYouIconBox,
+.OTTPage .HowWeHelpYouTxt .readmore:hover svg,
+.OTTPage .HowWeHelpYouTxt ul li a:hover .HelpYouTxtBox h4,
+.OTTPage .TabsSec h2,
+.OTTPage .animBoxTxt span svg,
+.OTTPage .gridTxtContainer h2,
+.OTTPage .gridTxtContainer p strong,
+.ProductDevelopmentPage .HelpYouIconBox,
+.ProductDevelopmentPage .HowWeHelpYouTxt .readmore:hover svg,
+.ProductDevelopmentPage .HowWeHelpYouTxt ul li a:hover .HelpYouTxtBox h4,
+.ProductDevelopmentPage .TabsSec h2,
+.ProductDevelopmentPage .gridTxtContainer h2,
+.ServiciesText .BtnGradiant {
+	color: #793aff
+}
+
+.callVexLogo {
+	margin-bottom: 20px
+}
+
+.ChatBotPage .ElevateHead {
+	padding-bottom: 60px
+}
+
+.CallCenterPage .OfferServicesSec,
+.noPaddTop .borderTop,
+.portfolioTwomain .paddingbottom {
+	padding-bottom: 90px
+}
+
+.gridbox.FirstMargin,
+.noPaddTop {
+	padding-top: 0
+}
+
+.OfferServicesHead {
+	display: inline-block;
+	width: 100%;
+	max-width: 850px;
+	margin-bottom: 50px
+}
+
+.OfferServicesHead h2 {
+	margin: 0 0 10px;
+	display: inline-block;
+	width: 100%;
+	color: #fff;
+	font-size: 54px;
+	line-height: 70px;
+	font-weight: 700;
+	letter-spacing: -1px
+}
+
+.OfferServicesHead p {
+	font-size: 22px;
+	line-height: 28px;
+	margin: 0;
+	display: inline-block;
+	width: 100%;
+	color: #fff;
+	font-weight: 300
+}
+
+.CasestudiesInnerHeader h1,
+.ContactAddress address p strong,
+.ServiciesText h3 {
+	text-transform: uppercase;
+	font-weight: 700
+}
+
+.CloudDevopsPage .OfferServicesHead p {
+	max-width: 1000px
+}
+
+.JustStartedGridWrap {
+	padding-top: 40px;
+	float: left;
+	width: 100%
+}
+
+.JustStartedGrid h6 {
+	float: left;
+	width: 100%;
+	color: #fff;
+	font-size: 28px;
+	line-height: 36px;
+	text-transform: uppercase;
+	margin: 0
+}
+
+.MobileWebPage .gridTxtContainer a {
+	background: #12063B ;
+background: linear-gradient(90deg,rgba(18, 6, 59, 1) 0%, rgba(9, 85, 92, 1) 100%);
+	border: none
+}
+
+.MobileWebPage .gridTxtContainer a:hover,
+.OTTPage .gridTxtContainer a:hover,
+.ProductDevelopmentPage .gridTxtContainer a:hover,
+.ServiciesSec .PurpleClr.BtnGradiant:hover {
+	border: 1px solid #793aff;
+	color: #793aff;
+	background: 0 0
+}
+
+.ServiciesSec {
+	padding: 80px 0
+}
+
+.ServiciesText {
+	float: left;
+	width: 100%;
+	max-width: 560px
+}
+
+.ServiciesText h3 {
+	float: left;
+	width: 100%;
+	font-size: 54px;
+	line-height: 70px;
+	color: #793aff
+}
+
+.ServiciesText p {
+	float: left;
+	width: 100%;
+	color: #9c9d9d;
+	margin-top: 0
+}
+
+.ServiciesCLouds ul {
+	float: left;
+	margin: 0 0 0 -1px;
+	width: calc(100% + 10px)
+}
+
+.ServiciesCLouds ul li {
+	margin-left: 10px;
+	float: left;
+	font-size: 15px;
+	line-height: 20px;
+	padding: 10px 30px;
+	background: #fff;
+	color: #666;
+	border: 1px solid #ddd;
+	margin-bottom: 10px;
+	border-radius: 20px
+}
+
+.ContactPage .ContactSec {
+	padding: 150px 0 120px
+}
+
+.ContactAddress,
+.gridbox {
+	float: left;
+	width: 100%;
+	padding-top: 40px
+}
+
+.mobFilterBtn ul,
+.mobTabsBtn,
+.mobTabsBtn ul {
+	padding: 0;
+	background-color: #f5f5f5;
+	float: left;
+	width: 100%;
+	display: none;
+	list-style: none
+}
+
+.ContactAddress address p {
+	float: left;
+	width: 100%;
+	font-size: 14px;
+	line-height: 18px;
+	color: #fff;
+	margin-bottom: 15px
+}
+
+.CRMPage .OfferServicesHead {
+	max-width: 730px
+}
+
+.DatabaseDevPage .OfferServicesHead,
+.ProductDevelopmentPage .OfferServicesHead {
+	max-width: 950px
+}
+
+.mobTabsBtn {
+	font-size: 14px;
+	height: 50px;
+	border-radius: 25px;
+	font-weight: 500;
+	border: 1px solid #ddd;
+	background-image: url(../images/downicon.svg);
+	background-repeat: no-repeat;
+	background-position: 98% 50%;
+	margin: 0 0 50px;
+	position: relative
+}
+
+.mobFilterBtn ul,
+.mobTabsBtn ul {
+	margin: 0;
+	position: absolute;
+	z-index: 1;
+	left: 0;
+	top: 50px
+}
+
+.PortfolioHeader .mobFilterBtn p,
+.mobFilterBtn ul li a,
+.mobTabsBtn p,
+.mobTabsBtn ul li a {
+	float: left;
+	padding: 10px 50px 10px 25px;
+	line-height: 30px;
+	color: #666;
+	width: 100%
+}
+
+.mobFilterBtn ul li:hover a,
+.mobTabsBtn ul li:hover a {
+	background: #09f;
+	color: #fff
+}
+
+.ftrLink .uk-dropdown {
+	background: #21242c;
+	max-width: 300px;
+	padding: 15px;
+	box-shadow: 0 0 50px rgb(0 0 0 / 50%)
+}
+
+.ftrLink .uk-dropdown li a {
+	width: 100%;
+	font-size: 14px;
+	line-height: 24px
+}
+
+.ftrLink .uk-dropdown li:last-child {
+	margin-bottom: 0
+}
+
+.ftrLink .uk-dropdown li a img {
+	float: left;
+	width: 24px;
+	margin-right: 6px
+}
+
+.ViewAllBtn {
+	display: none;
+	margin-top: 40px;
+	position: relative;
+	float: left;
+	font-size: 16px;
+	line-height: 20px;
+	color: #fff
+}
+
+.MobileFooter {
+	display: none;
+	padding: 70px 0 50px
+}
+
+header .MobileMenuBtn {
+	float: right;
+	color: #fff;
+	width: 32px;
+	text-align: center;
+	height: 32px;
+	line-height: 32px;
+	display: none
+}
+
+.MobileMenu {
+	position: absolute;
+	left: 0;
+	top: 58px;
+	display: none;
+	max-height: calc(100% - 60px);
+	width: 100%
+}
+
+.MobileMenuWrap {
+	float: left;
+	background-color: #18171d;
+	width: 100%;
+	overflow: auto
+}
+
+.MobileMenuWrap .uk-nav-default {
+	padding: 22px 0;
+	float: left;
+	width: 100%
+}
+
+.MobileMenuWrap .uk-nav-default>li>Strong {
+	color: #808694;
+	font-size: 14px;
+	line-height: 20px;
+	border-top: 2px solid #212125;
+	float: left;
+	width: 100%;
+	padding: 8px 15px;
+	margin-top: 10px
+}
+
+.MobileMenuWrap .uk-nav-default>li>a {
+	font-size: 18px;
+	line-height: 20px;
+	padding: 12px 15px;
+	color: #fff;
+	float: left;
+	width: 100%
+}
+
+.MobileMenuWrap .uk-nav-default>li.uk-parent>a {
+	font-size: 16px;
+	line-height: 20px;
+	color: #fff;
+	background: #21242c;
+	border-radius: 2px;
+	margin-bottom: 10px
+}
+
+.MobileMenuWrap .uk-nav-parent-icon>.uk-parent>a::after {
+	background-image: url(../images/navclose.html)
+}
+
+.MobileMenuWrap .uk-nav-parent-icon>.uk-parent.uk-open>a::after {
+	background-image: url(../images/navopen.html)
+}
+
+.MobileMenuWrap .uk-nav-sub {
+	float: left;
+	width: 100%;
+	padding: 0;
+	margin-bottom: 10px
+}
+
+.MobileMenuWrap .uk-nav-sub li a {
+	float: left;
+	width: 100%;
+	font-size: 14px;
+	line-height: 20px;
+	padding: 12px 15px;
+	color: #3f6
+}
+
+.MobileMenuWrap .uk-nav-sub li a strong {
+	text-transform: uppercase
+}
+
+.MobileMenuWrap .uk-nav-sub li a span {
+	color: #fff;
+	padding-left: 30px;
+	font-size: 12px;
+	float: left
+}
+
+.MobileMenuWrap .uk-nav-sub li a img {
+	float: left;
+	width: 20px;
+	margin-right: 6px
+}
+
+.MobileMenuWrap .uk-nav-sub li.MobileMenuLogo a img {
+	width: 150px
+}
+
+.MobileMenuWrap .uk-nav-sub li p {
+	margin: 0;
+	float: left;
+	padding-left: 46px;
+	font-size: 10px;
+	line-height: 20px;
+	color: #fff
+}
+
+.PortfolioGrid {
+	float: left;
+	position: relative;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	list-style: none
+}
+
+.PortfolioGrid li {
+	float: left;
+	width: 33.3333%
+}
+
+.PortfolioGrid li:first-child,
+.mtimg {
+	margin-top: 50px
+}
+
+.uk-lightbox-items li img,
+.uk-lightbox-items li video {
+	box-shadow: 0 20px 75px 0 rgba(0, 0, 0, .75);
+	max-width: 80vw;
+	max-height: 80vh
+}
+
+.uk-lightbox-toolbar,
+.whatsappbtnapi:hover {
+	background: 0 0;
+	color: #fff
+}
+
+.uk-lightbox-toolbar .uk-close-large {
+	color: #fff;
+	margin-top: 10px;
+	margin-right: 10px
+}
+
+.uk-lightbox {
+	background: rgba(23, 22, 29, .9)
+}
+
+.uk-lightbox-button {
+	background: 0 0
+}
+
+.PurpleClr.BtnGradiant {
+	background-image: url(../images/purplebtn.jpg);
+	color: #fff
+}
+
+.BarCodeSec .JustStartedimg,
+.Header404 {
+	text-align: center
+}
+
+.JustStartedSec .ServiciesCLouds ul li {
+	background: 0 0;
+	color: #fff;
+	border-color: #fff
+}
+
+.JustStartedSec .ServiciesCLouds {
+	max-width: 540px
+}
+
+.positionbox {
+	position: absolute;
+	left: 50%;
+	bottom: -7px;
+	transform: translateX(-50%)
+}
+
+.positionbox img {
+	max-width: 650px
+}
+
+.TelecomPage .ElevateMiddle img {
+	width: 100%;
+	max-width: 280px
+}
+
+.InspireSec .before {
+	position: relative;
+	height: auto
+}
+
+.InspireSecBox {
+	position: absolute;
+	width: 100%;
+	z-index: 1;
+	left: 0;
+	top: 50%;
+	transform: translateY(-50%)
+}
+
+.JustStartedSec.InspireSec {
+	padding: 0
+}
+
+.ChatBotPage .tabsBtns li a:before,
+.CloudDevopsPage .tabsBtns li a:before,
+.DatabaseDevPage .tabsBtns li a:before,
+.ProductDevelopmentPage .tabsBtns li a:before {
+	border-bottom: 2px solid #793aff
+}
+
+.CasestudiesInnerHeader {
+	position: relative;
+	overflow: hidden;
+	background: #000
+}
+
+.CasestudiesInnerHeaderImg {
+	width: 100%;
+	position: absolute;
+	left: 0;
+	top: 0
+}
+
+.CasestudiesInnerHeaderTxt {
+	float: left;
+	width: 100%;
+	z-index: 1;
+	position: relative;
+	padding: 200px 0 300px
+}
+
+.loader,
+.overlay-transition {
+	position: fixed;
+	left: 0;
+	top: 0;
+	background: #000;
+	z-index: 9999;
+	opacity: 1;
+	pointer-events: none;
+	height: 100%
+}
+
+.FirstMargin {
+	margin-top: -200px
+}
+
+.CasestudiesInnerHeader h1 {
+	font-size: 90px;
+	line-height: 95px;
+	float: left;
+	width: 100%;
+	color: #fff;
+	margin: 0
+}
+
+.CasestudiesInnerHeader p {
+	font-size: 30px;
+	line-height: 40px;
+	display: inline-block;
+	width: 100%;
+	color: #fff;
+	margin: 0 0 10px;
+	font-weight: 300
+}
+
+.BusinessChallenge h3,
+.CSINumber h4 {
+	float: left;
+	font-weight: 700;
+	width: 100%;
+	text-transform: uppercase
+}
+
+.CasestudiesInnerHeader a {
+	display: inline-block;
+	margin-top: 30px;
+	color: #fff;
+	font-size: 28px;
+	line-height: 36px;
+	position: relative;
+	z-index: 1
+}
+
+.CasestudiesInnerHeader a svg,
+.ThankyouModal .submitBtn svg {
+	margin-left: 5px
+}
+
+.CSSec {
+	padding: 0 0 150px;
+	background: #000
+}
+
+.iframebox {
+	box-shadow: 0 3px 50px #00000029;
+	float: left;
+	width: 100%
+}
+
+.BusinessChallenge h3 {
+	color: #fff;
+	font-size: 52px;
+	line-height: 62px;
+	margin: 0
+}
+
+.BusinessChallenge p {
+	display: inline-block;
+	width: 100%;
+	color: #ddd;
+	font-size: 22px;
+	line-height: 32px;
+	margin: 10px 0;
+	max-width: 700px
+}
+
+.CSINumber h4 {
+	color: #fff;
+	font-size: 70px;
+	line-height: 80px;
+	margin: 30px 0 0
+}
+
+.CSINumber p {
+	font-size: 18px;
+	line-height: 26px;
+	margin: 0
+}
+
+.BusinessChallenge ul li {
+	color: #fff;
+	font-size: 26px;
+	line-height: 36px
+}
+
+.btnsStores a {
+	display: inline-block;
+	margin: 5px 3px
+}
+
+.btnsStores a img {
+	width: auto;
+	max-width: inherit;
+	height: 44px
+}
+
+.overlay-transition {
+	width: 100%
+}
+
+@keyframes loadOverlay {
+	0% {
+		opacity: 100%
+	}
+
+	100% {
+		opacity: 0
+	}
+}
+
+@-moz-keyframes loadOverlay {
+	0% {
+		opacity: 100%
+	}
+
+	100% {
+		opacity: 0
+	}
+}
+
+@-webkit-keyframes loadOverlay {
+	0% {
+		opacity: 100%
+	}
+
+	100% {
+		opacity: 0
+	}
+}
+
+@-o-keyframes loadOverlay {
+	0% {
+		opacity: 100%
+	}
+
+	100% {
+		opacity: 0
+	}
+}
+
+.loader {
+	width: 100%;
+	-webkit-transition: .5s ease-in-out;
+	-moz-transition: .5s ease-in-out;
+	-ms-transition: .5s ease-in-out;
+	-o-transition: .5s ease-in-out;
+	transition: .5s ease-in-out
+}
+
+body.loaded .loader {
+	opacity: 0;
+	transition-delay: 1.5s;
+	pointer-events: none
+}
+
+@keyframes loadLoader {
+
+	0%,
+	75% {
+		opacity: 100%
+	}
+
+	100% {
+		opacity: 0
+	}
+}
+
+@-moz-keyframes loadLoader {
+
+	0%,
+	75% {
+		opacity: 100%
+	}
+
+	100% {
+		opacity: 0
+	}
+}
+
+@-webkit-keyframes loadLoader {
+
+	0%,
+	75% {
+		opacity: 100%
+	}
+
+	100% {
+		opacity: 0
+	}
+}
+
+@-o-keyframes loadLoader {
+
+	0%,
+	75% {
+		opacity: 100%
+	}
+
+	100% {
+		opacity: 0
+	}
+}
+
+.loader-block {
+	left: 50%;
+	top: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%) scale(.45);
+	width: 100%;
+	height: 900px
+}
+
+.loader-word,
+.loader-word-inside {
+	height: 200px;
+	width: 100%;
+	float: left
+}
+
+body.loaded .loader-block {
+	animation: 2s loadLoaderBlock;
+	-moz-animation: 2s loadLoaderBlock;
+	-webkit-animation: 2s loadLoaderBlock;
+	-o-animation: 2s loadLoaderBlock;
+	transform: translate(-50%, -50%) scale(.3)
+}
+
+@keyframes loadLoaderBlock {
+	0% {
+		transform: translate(-50%, -50%) scale(.45)
+	}
+
+	75% {
+		transform: translate(-50%, -50%) scale(.4)
+	}
+
+	100% {
+		transform: translate(-50%, -50%) scale(.3)
+	}
+}
+
+@-moz-keyframes loadLoaderBlock {
+	0% {
+		transform: translate(-50%, -50%) scale(.45)
+	}
+
+	75% {
+		transform: translate(-50%, -50%) scale(.4)
+	}
+
+	100% {
+		transform: translate(-50%, -50%) scale(.3)
+	}
+}
+
+@-webkit-keyframes loadLoaderBlock {
+	0% {
+		transform: translate(-50%, -50%) scale(.45)
+	}
+
+	75% {
+		transform: translate(-50%, -50%) scale(.4)
+	}
+
+	100% {
+		transform: translate(-50%, -50%) scale(.3)
+	}
+}
+
+@-o-keyframes loadLoaderBlock {
+	0% {
+		transform: translate(-50%, -50%) scale(.45)
+	}
+
+	75% {
+		transform: translate(-50%, -50%) scale(.4)
+	}
+
+	100% {
+		transform: translate(-50%, -50%) scale(.3)
+	}
+}
+
+.loader-word {
+	margin-bottom: 15px;
+	overflow: hidden
+}
+
+.loader-word-inside {
+	position: relative;
+	background-size: auto 90%;
+	background-position: top left;
+	background-repeat: no-repeat
+}
+
+.loader .Transform {
+	background-image: url("../images/loading1.svg");
+	top: 100%
+}
+
+.loaded .Transform {
+	animation: 1s loadTransform;
+	-moz-animation: 1s loadTransform;
+	-webkit-animation: 1s loadTransform;
+	-o-animation: 1s loadTransform;
+	top: 0
+}
+
+@keyframes loadTransform {
+
+	0%,
+	25% {
+		top: 100%
+	}
+
+	50% {
+		top: 0
+	}
+}
+
+@-moz-keyframes loadTransform {
+
+	0%,
+	25% {
+		top: 100%
+	}
+
+	50% {
+		top: 0
+	}
+}
+
+@-webkit-keyframes loadTransform {
+
+	0%,
+	25% {
+		top: 100%
+	}
+
+	50% {
+		top: 0
+	}
+}
+
+@-o-keyframes loadTransform {
+
+	0%,
+	25% {
+		top: 100%
+	}
+
+	50% {
+		top: 0
+	}
+}
+
+.loader .Furture {
+	background-image: url("../images/loading2.svg");
+	top: 100%
+}
+
+.loaded .Furture {
+	animation: 1s loadFurture;
+	-moz-animation: 1s loadFurture;
+	-webkit-animation: 1s loadFurture;
+	-o-animation: 1s loadFurture;
+	top: 0
+}
+
+@keyframes loadFurture {
+
+	0%,
+	50% {
+		top: 100%
+	}
+
+	75% {
+		top: 0
+	}
+}
+
+@-moz-keyframes loadFurture {
+
+	0%,
+	50% {
+		top: 100%
+	}
+
+	75% {
+		top: 0
+	}
+}
+
+@-webkit-keyframes loadFurture {
+
+	0%,
+	50% {
+		top: 100%
+	}
+
+	75% {
+		top: 0
+	}
+}
+
+@-o-keyframes loadFurture {
+
+	0%,
+	50% {
+		top: 100%
+	}
+
+	75% {
+		top: 0
+	}
+}
+
+.loader .Digitally {
+	background-image: url("../images/loading3.svg");
+	top: 100%
+}
+
+.loaded .Digitally {
+	animation: 1s loadDigitally;
+	-moz-animation: 1s loadDigitally;
+	-webkit-animation: 1s loadDigitally;
+	-o-animation: 1s loadDigitally;
+	top: 0
+}
+
+@keyframes loadDigitally {
+
+	0%,
+	75% {
+		top: 100%
+	}
+
+	100% {
+		top: 0
+	}
+}
+
+@-moz-keyframes loadDigitally {
+
+	0%,
+	75% {
+		top: 100%
+	}
+
+	100% {
+		top: 0
+	}
+}
+
+@-webkit-keyframes loadDigitally {
+
+	0%,
+	75% {
+		top: 100%
+	}
+
+	100% {
+		top: 0
+	}
+}
+
+@-o-keyframes loadDigitally {
+
+	0%,
+	75% {
+		top: 100%
+	}
+
+	100% {
+		top: 0
+	}
+}
+
+.AudioVideoHeader .BtnWithArrow,
+.CreativeDesignHeader .BtnWithArrow,
+.DigitalMarketingHeader .BtnWithArrow,
+.PaidMediaHeader .BtnWithArrow,
+.TagManagerHeader .BtnWithArrow {
+	background: url(../images/yellowbtn.jpg) -2px -2px no-repeat;
+	background-size: calc(100% + 4px) calc(100% + 4px)
+}
+
+.AudioVideoHeader .BtnWithIcon span:before,
+.CreativeDesignHeader .BtnWithIcon span:before,
+.DigitalMarketingHeader .BtnWithIcon span:before,
+.PaidMediaHeader .BtnWithIcon span:before,
+.TagManagerHeader .BtnWithIcon span:before {
+	background: #ffe05c
+}
+
+.AudioVideoPage .tabsBtns li a:before {
+	border-bottom: 2px solid #1487e5
+}
+
+.OrangeBtn.BtnGradiant {
+	background-image: url(../images/purplebtn.jpg)
+}
+
+.CRMHeader .BtnWithArrow,
+.CallCenterHeader .BtnWithArrow,
+.ChatBotHeader .BtnWithArrow,
+.CloudDevopsHeader .BtnWithArrow,
+.ContentManagementHeader .BtnWithArrow,
+.DatabaseDevHeader .BtnWithArrow,
+.MadvertiserHeader .BtnWithArrow,
+.MobileGameHeader .BtnWithArrow,
+.MobileWebHeader .BtnWithArrow,
+.OTTHeader .BtnWithArrow,
+.ProductDevelopmentHeader .BtnWithArrow {
+	background: url(../images/purplebtn.jpg) -2px -2px no-repeat;
+	background-size: calc(100% + 4px) calc(100% + 4px);
+	color: #fff
+}
+
+.CRMHeader .BtnWithIcon span:before,
+.CallCenterHeader .BtnWithIcon span:before,
+.ChatBotHeader .BtnWithIcon span:before,
+.CloudDevopsHeader .BtnWithIcon span:before,
+.ContentManagementHeader .BtnWithIcon span:before,
+.DatabaseDevHeader .BtnWithIcon span:before,
+.MadvertiserHeader .BtnWithIcon span:before,
+.MobileGameHeader .BtnWithIcon span:before,
+.MobileWebHeader .BtnWithIcon span:before,
+.OTTHeader .BtnWithIcon span:before,
+.ProductDevelopmentHeader .BtnWithIcon span:before {
+	background: #99f
+}
+
+.ChatBotPage .BarCodeSec .PurpleClr.BtnGradiant:hover {
+	border: 1px solid #793aff;
+	color: #793aff
+}
+
+.colageSliderBox {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100vh;
+	width: 100%;
+	background: #000;
+	opacity: 0
+}
+
+.ColageBtnDesktop,
+.ColageBtnMobile {
+	width: 130px;
+	height: 20px;
+	position: absolute
+}
+
+.colageSliderBox .colageSlide {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	animation: 2s linear infinite ColageSlideAnim;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover
+}
+
+@keyframes ColageSlideAnim {
+	0% {
+		opacity: 1;
+		transform: scale(1)
+	}
+
+	5% {
+		opacity: 1;
+		transform: scale(1.02)
+	}
+
+	6% {
+		opacity: 0;
+		transform: scale(1.02)
+	}
+
+	100% {
+		opacity: 0;
+		transform: scale(1)
+	}
+}
+
+.colageSliderBox .colageSlide:nth-child(2) {
+	animation-delay: .1s
+}
+
+.colageSliderBox .colageSlide:nth-child(3) {
+	animation-delay: .2s
+}
+
+.colageSliderBox .colageSlide:nth-child(4) {
+	animation-delay: .3s
+}
+
+.colageSliderBox .colageSlide:nth-child(5) {
+	animation-delay: .4s
+}
+
+.colageSliderBox .colageSlide:nth-child(6) {
+	animation-delay: .5s
+}
+
+.colageSliderBox .colageSlide:nth-child(7) {
+	animation-delay: .6s
+}
+
+.colageSliderBox .colageSlide:nth-child(8) {
+	animation-delay: .7s
+}
+
+.colageSliderBox .colageSlide:nth-child(9) {
+	animation-delay: .8s
+}
+
+.colageSliderBox .colageSlide:nth-child(10) {
+	animation-delay: .9s
+}
+
+.colageSliderBox .colageSlide:nth-child(11) {
+	animation-delay: 1s
+}
+
+.colageSliderBox .colageSlide:nth-child(12) {
+	animation-delay: 1.1s
+}
+
+.colageSliderBox .colageSlide:nth-child(13) {
+	animation-delay: 1.2s
+}
+
+.colageSliderBox .colageSlide:nth-child(14) {
+	animation-delay: 1.3s
+}
+
+.colageSliderBox .colageSlide:nth-child(15) {
+	animation-delay: 1.4s
+}
+
+.colageSliderBox .colageSlide:nth-child(16) {
+	animation-delay: 1.5s
+}
+
+.colageSliderBox .colageSlide:nth-child(17) {
+	animation-delay: 1.6s
+}
+
+.colageSliderBox .colageSlide:nth-child(18) {
+	animation-delay: 1.7s
+}
+
+.colageSliderBox .colageSlide:nth-child(19) {
+	animation-delay: 1.8s
+}
+
+.colageSliderBox .colageSlide:nth-child(20) {
+	animation-delay: 1.9s
+}
+
+.ColageBtnDesktop {
+	left: 56%;
+	bottom: 60px;
+	transform: translateX(-50%)
+}
+
+.ColageBtnMobile {
+	left: 0;
+	bottom: 100px;
+	transform: none;
+	display: none
+}
+
+.point_anim {
+	position: absolute;
+	top: -6px;
+	left: 6px;
+	width: 30px;
+	height: 30px;
+	background-color: rgba(0, 0, 0, .25);
+	border: 2px solid #fff;
+	border-radius: 50%;
+	-webkit-transition: width .3s cubic-bezier(.65, .05, .36, 1), height .3s cubic-bezier(.65, .05, .36, 1), top .3s cubic-bezier(.65, .05, .36, 1), left .3s cubic-bezier(.65, .05, .36, 1);
+	-moz-transition: width .3s cubic-bezier(.65, .05, .36, 1), height .3s cubic-bezier(.65, .05, .36, 1), top .3s cubic-bezier(.65, .05, .36, 1), left .3s cubic-bezier(.65, .05, .36, 1);
+	transition: width .3s cubic-bezier(.65, .05, .36, 1), height .3s cubic-bezier(.65, .05, .36, 1), top .3s cubic-bezier(.65, .05, .36, 1), left .3s cubic-bezier(.65, .05, .36, 1)
+}
+
+.point_anim:after {
+	content: "";
+	position: absolute;
+	width: 55px;
+	height: 55px;
+	border-radius: 50%;
+	border: 1px solid #fff;
+	opacity: .35;
+	top: -15px;
+	left: -16px;
+	-webkit-animation: 2.5s infinite pulse_anim;
+	-moz-animation: 2.5s infinite pulse_anim;
+	animation: 2.5s infinite pulse_anim;
+	-webkit-transition: width .3s cubic-bezier(.65, .05, .36, 1), height .3s cubic-bezier(.65, .05, .36, 1), top .3s cubic-bezier(.65, .05, .36, 1), left .3s cubic-bezier(.65, .05, .36, 1);
+	-moz-transition: width .3s cubic-bezier(.65, .05, .36, 1), height .3s cubic-bezier(.65, .05, .36, 1), top .3s cubic-bezier(.65, .05, .36, 1), left .3s cubic-bezier(.65, .05, .36, 1);
+	transition: width .3s cubic-bezier(.65, .05, .36, 1), height .3s cubic-bezier(.65, .05, .36, 1), top .3s cubic-bezier(.65, .05, .36, 1), left .3s cubic-bezier(.65, .05, .36, 1)
+}
+
+.heading_anim {
+	text-transform: uppercase;
+	font-size: 10px;
+	color: #fff;
+	line-height: 1.2em;
+	font-weight: 800;
+	position: absolute;
+	left: 50px;
+	opacity: .8;
+	margin-top: 9px;
+	text-shadow: 1px 1px 2px rgba(0, 0, 0, .5);
+	-webkit-transform: translateY(-50%);
+	-moz-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+	-webkit-transition: opacity .15s linear;
+	-moz-transition: opacity .15s linear;
+	transition: opacity .15s linear
+}
+
+.ColageBtnDesktop:hover .point_anim,
+.ColageBtnMobile:hover .point_anim {
+	width: 100px;
+	height: 100px;
+	top: -40px;
+	left: -30px
+}
+
+.ColageBtnDesktop:hover .point_anim:after,
+.ColageBtnMobile:hover .point_anim:after {
+	position: absolute;
+	width: 120px;
+	height: 120px;
+	top: -12px;
+	left: -13px
+}
+
+@-webkit-keyframes pulse_anim {
+	0 {
+		-webkit-transform: scale(.5);
+		transform: scale(.5);
+		opacity: .35
+	}
+
+	100% {
+		-webkit-transform: scale(2);
+		transform: scale(2);
+		opacity: 0
+	}
+}
+
+@-moz-keyframes pulse_anim {
+	0 {
+		-moz-transform: scale(.5);
+		transform: scale(.5);
+		opacity: .35
+	}
+
+	100% {
+		-moz-transform: scale(2);
+		transform: scale(2);
+		opacity: 0
+	}
+}
+
+@keyframes pulse_anim {
+	0 {
+		-webkit-transform: scale(.5);
+		-moz-transform: scale(.5);
+		transform: scale(.5);
+		opacity: .35
+	}
+
+	100% {
+		-webkit-transform: scale(2);
+		-moz-transform: scale(2);
+		transform: scale(2);
+		opacity: 0
+	}
+}
+
+.DigitalMarketingPage .tabsBtns li a:before,
+.PaidMediaPage .tabsBtns li a:before {
+	border-color: #1487e5
+}
+
+.YellowClr.BtnGradiant {
+	background-image: url(../images/yellowbtn.jpg);
+	color: #2c2c2c
+}
+
+.PaidMediaPage .ElevateHead>img {
+	width: 100%;
+	max-width: 1000px
+}
+
+.OrangeClr.BtnGradiant {
+	background-image: url(../images/orangebtn.jpg)
+}
+
+.MadvertiserPage .tabsBtns li a:before,
+.MobileWebPage .tabsBtns li a:before,
+.OTTPage .tabsBtns li a:before {
+	border-color: #793aff
+}
+
+.OTTPage .gridTxtContainer a,
+.ProductDevelopmentPage .gridTxtContainer a {
+	background-image: url(../images/purplebtn.jpg);
+	border: 1px solid #793aff
+}
+
+.SeoHeader .VidSeo {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	min-width: 100vw;
+	min-height: 100vh;
+	width: auto;
+	height: auto;
+	z-index: -100;
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	-moz-transform: translateX(-50%) translateY(-50%);
+	-o-transform: translateX(-50%) translateY(-50%);
+	-ms-transform: translateX(-50%) translateY(-50%);
+	transform: translateX(-50%) translateY(-50%);
+	background-size: cover
+}
+
+.TelecomWithWPBox {
+	float: left;
+	width: 100%;
+	position: relative;
+	border-radius: 6px;
+	padding: 25px 15px;
+	height: 100%;
+	text-decoration: none !important;
+	transition: .3s;
+	border: 1px solid #fff
+}
+
+.TelecomWithWPBox h4 {
+	float: left;
+	width: 100%;
+	font-size: 20px;
+	color: #fff
+}
+
+.TelecomWithWPBox ul {
+	float: left;
+	width: 100%;
+	color: #fff;
+	margin: 0;
+	padding: 0;
+	list-style: none
+}
+
+.TelecomWithWPBox ul li {
+	float: left;
+	width: 100%;
+	font-size: 16px;
+	line-height: 24px
+}
+
+.WhatsappPage .BarCodeSec .BtnGradiant:hover {
+	border: 1px solid #1487e5;
+	color: #1487e5;
+	background: 0 0
+}
+
+.CallCenterImgBtm .JustStartedTxt {
+	margin-bottom: 58px
+}
+
+.CallCenterImgBtm .JustStartedimg {
+	position: relative;
+	bottom: -20px
+}
+
+.borderTop.hidebrd {
+	border: none
+}
+
+.opacitytoggle.active {
+	opacity: 0;
+	visibility: hidden
+}
+
+.TagManagerPage .ContactFld .submitBtn {
+	    background: linear-gradient(to right, #2e7be5, #a663cc);
+	border: 1px solid #1487e5
+}
+
+.OurCoreProductsSlider .uk-slidenav {
+	opacity: 0;
+	transition: .3s;
+	color: #18171d;
+	background: #fafafa;
+	box-shadow: 0 3px 50px #00000029;
+	margin: 0
+}
+
+.uk-position-small[class*=uk-position-center-left],
+.uk-position-small[class*=uk-position-center-right] {
+	transform: translateY(-50%)
+}
+
+.PortfolioPageSec {
+	position: relative;
+	z-index: 1;
+	margin: 0;
+	text-align: center
+}
+
+.filterSec {
+	float: left;
+	width: 100%;
+	margin-top: -60px
+}
+
+.filterGrid {
+	margin: 0;
+	position: relative;
+	z-index: 1
+}
+
+.scale-anm {
+	margin: 0
+}
+
+.scale-anm a:first-child:before {
+	width: 100%;
+	height: 100%;
+	content: '';
+	position: absolute;
+	left: 0;
+	top: 0;
+	background: #000;
+	opacity: .3;
+	transition: .3s
+}
+
+.scale-anm a:hover {
+	z-index: 1
+}
+
+.scale-anm a:hover img {
+	transform: scale(.95)
+}
+
+.FilterBtn {
+	margin-top: 20px;
+	float: left;
+	width: 100%
+}
+
+.FilterBtn button {
+	display: inline-block;
+	padding: 10px 20px;
+	border-radius: 30px;
+	border: 2px solid #fff;
+	margin: 0 5px;
+	background: 0 0;
+	cursor: pointer;
+	color: #fff
+}
+
+.FilterBtn button.active {
+	background: #fff;
+	color: #000
+}
+
+.JobsList {
+	padding: 90px 0
+}
+
+.JobsList h3 {
+	float: left;
+	font-size: 42px;
+	line-height: 48px;
+	color: #000;
+	font-weight: 400;
+	margin: 0
+}
+
+.JobsList table {
+	font-size: 20px;
+	line-height: 24px;
+	color: #9c9d9d
+}
+
+.JobsList .uk-table td {
+	padding: 40px 12px
+}
+
+.JobsList table a {
+	float: right;
+	text-decoration: none;
+	width: auto;
+	height: 50px;
+	border-radius: 40px;
+	text-align: center;
+	line-height: 48px;
+	transition: .3s;
+	font-size: 14px;
+	font-weight: 400;
+	background: #1487e5;
+	border: 1px solid #1487e5;
+	color: #fff;
+	padding: 0 20px 0 30px
+}
+
+.JobsList table a:hover {
+	background: #b7fbca;
+	border: 1px solid #b7fbca;
+	color: #000
+}
+
+.JobsList table a svg {
+	width: 16px;
+	margin-left: 5px
+}
+
+.mobFilterBtn {
+	display: none;
+	float: left;
+	width: 100%;
+	font-size: 14px;
+	height: 50px;
+	border-radius: 25px;
+	font-weight: 500;
+	padding: 0;
+	background-color: #f5f5f5;
+	border: 1px solid #ddd;
+	background-image: url(../images/downicon.svg);
+	background-repeat: no-repeat;
+	background-position: 98% 50%;
+	margin: 30px 0 0;
+	list-style: none;
+	position: relative
+}
+
+.ThankyouModal .uk-modal-dialog {
+	-webkit-clip-path: polygon(90% 0, 100% 15%, 100% 100%, 0 100%, 0% 50%, 0 0);
+	clip-path: polygon(90% 0, 100% 15%, 100% 100%, 0 100%, 0% 50%, 0 0);
+	padding: 60px 54px 40px
+}
+
+.ThankyouModal h2 {
+	font-size: 42px;
+	line-height: 48px;
+	text-transform: uppercase
+}
+
+.ThankyouModal .submitBtn {
+	max-width: 250px;
+	float: none;
+	margin-top: 30px;
+	display: inline-block
+}
+
+.FixedFormContainer {
+	position: fixed;
+	right: 20px;
+	bottom: 20px;
+	z-index: 999;
+	width: 100%;
+	max-width: 330px
+}
+
+.FixedFormContainer.showcontactform {
+	height: calc(100% - 100px);
+	max-height: 730px
+}
+
+.FixedFormBox {
+	float: left;
+	width: 100%;
+	height: calc(100% - 70px);
+	background: #fff;
+	border: 1px solid #d7dde3;
+	border-radius: 11px;
+	margin-bottom: 20px;
+	display: none
+}
+
+.formHead {
+	float: left;
+	background: url(../images/contactpopup.jpg) 0 0/100% 100% no-repeat;
+	width: 100%;
+	height: 230px;
+	border-radius: 11px 11px 0 0
+}
+
+.formbodycontainer {
+	float: left;
+	width: 100%;
+	height: 100%;
+	padding: 20px;
+	overflow-x: hidden;
+	overflow-y: auto;
+	margin-top: -230px
+}
+
+.formbodycontainer::-webkit-scrollbar {
+	width: 5px;
+	cursor: pointer
+}
+
+.formbodycontainer::-webkit-scrollbar-track {
+	background: #ffffff99
+}
+
+.formbodycontainer::-webkit-scrollbar-thumb {
+	background: #18171d
+}
+
+.formbodycontainer::-webkit-scrollbar-thumb:hover {
+	background: #18171d7e
+}
+
+.formbodycontainer img {
+	width: 85px;
+	margin-bottom: 15px
+}
+
+.formbody h4,
+.formbodycontainer p {
+	font-size: 16px;
+	margin: 0 0 5px;
+	line-height: 22px;
+	float: left;
+	width: 100%
+}
+
+.formbodycontainer p strong {
+	font-size: 22px;
+	font-weight: 400
+}
+
+.formbodycontainer p {
+	color: #fff
+}
+
+.formbody {
+	float: left;
+	width: 100%;
+	background: #fff;
+	box-shadow: 0 -3px 10px #00000029;
+	border-radius: 5px;
+	padding: 20px;
+	margin-top: 20px
+}
+
+.formbody h4 {
+	color: #202124
+}
+
+.formbody p {
+	color: #9aa0a6;
+	font-size: 12px;
+	line-height: 22px;
+	margin: 0 0 15px;
+	float: left;
+	width: 100%
+}
+
+.FixedFormContainer .FixedFormBtn {
+	float: right;
+	width: 50px;
+	height: 50px;
+	border-radius: 100%;
+	background: url(../images/contactpopup.jpg) 0 0/100% 100% no-repeat;
+	color: #fff;
+	line-height: 50px;
+	text-align: center;
+	box-shadow: rgb(0 0 0 / 15%) 0 4px 12px 0
+}
+
+.ContactFldchat .uk-input {
+	font-size: 12px;
+	color: #9aa0a6;
+	height: 40px;
+	background: #fafafa;
+	border: 1px solid #d7dde3;
+	border-radius: 5px
+}
+
+.ContactFldchat textarea.uk-input {
+	height: 80px;
+	resize: none
+}
+
+.ContactFldchat .uk-select:not([multiple]):not([size]) {
+	font-size: 12px;
+	color: #9aa0a6;
+	height: 40px;
+	background-color: #fafafa;
+	border: 1px solid #d7dde3;
+	border-radius: 5px
+}
+
+.submitBtnchat {
+	float: left;
+	width: 100%;
+	height: 40px;
+	background: #1487e5;
+	border-radius: 20px;
+	color: #fff;
+	font-size: 14px;
+	border: 1px solid #1487e5;
+	cursor: pointer
+}
+
+.numbchatbox.ContactFldchat .uk-input {
+	border-left: 0;
+	border-radius: 0 5px 5px 0
+}
+
+.numbchatbox .iti__flag-container {
+	font-size: 12px;
+	color: #9aa0a6;
+	height: 40px;
+	background: #fafafa;
+	border: 1px solid #d7dde3;
+	float: left;
+	border-right: 0;
+	border-radius: 5px 0 0 5px
+}
+
+.CenterTop a,
+.iti__country-list .iti__country {
+	font-size: 14px
+}
+
+.topbar {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	background-color: #18171d;
+	z-index: 1000;
+	padding: 8px 0;
+	height: 44px;
+	overflow: hidden
+}
+
+.CenterTop a,
+.WAApiSpan {
+	position: relative;
+	transition: .3s;
+	display: inline-block
+}
+
+.CenterTop,
+.LeftTop {
+	width: 33.33333%;
+	float: left
+}
+
+.CenterTop {
+	text-align: center
+}
+
+.WAApiSpan {
+	font-size: 12px;
+	text-align: center;
+	line-height: 12px;
+	padding: 8px 24px;
+	color: #18171d;
+	background-color: #fff;
+	border-radius: 4px
+}
+
+.WAApiSpan:after {
+	content: "";
+	position: absolute;
+	top: 100%;
+	margin-top: -1px;
+	left: 10px;
+	display: inline-block;
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 5px 8px 0 0;
+	border-color: #fff transparent transparent
+}
+
+.WAApiSpan:hover {
+	color: #18171d;
+	background: #39ff40
+}
+
+.WAApiSpan:hover:after {
+	border-color: #39ff40 transparent transparent
+}
+
+.CenterTop a {
+	white-space: nowrap;
+	color: #fff
+}
+
+.CenterTop a:before {
+	width: 0;
+	height: 1px;
+	bottom: -2px;
+	content: '';
+	background: #39ff40;
+	transition: .3s;
+	position: absolute;
+	left: 0
+}
+
+.ContactFld .submitBtn.DangerBtn {
+	background-color: #f0506e;
+	border: 1px solid #f0506e
+}
+
+.ContactFld .submitBtn.DangerBtn:hover {
+	background-color: #ee395b
+}
+
+.CaptchaStyle {
+	float: left;
+	width: 100%;
+	transform: scale(.8);
+	transform-origin: 0 0
+}
+
+.SeoFld .iti__flag-container {
+	float: left;
+	height: 50px;
+	background: #fafafa;
+	border: 1px solid #ddd;
+	border-radius: 6px 0 0 6px;
+	padding: 0;
+	color: #000;
+	font-size: 16px;
+	border-right: none
+}
+
+.slider_cont {
+	position: absolute;
+	left: 0;
+	width: 100%;
+	top: 0;
+	height: 100%
+}
+
+.slider_cont .SliderHeading {
+	float: left;
+	width: 100%;
+	margin: 10px 0 20px;
+	color: #fff;
+	font-size: 56px;
+	line-height: 66px;
+	text-transform: uppercase;
+	font-weight: 900
+}
+
+.slider_cont .SliderHeading span {
+	float: left;
+	height: 74px;
+	position: relative
+}
+
+.slider_cont .uk-overlay {
+	position: relative !important;
+	padding: 0
+}
+
+.homeSlider .uk-slideshow-items {
+	height: 100%;
+	min-height: 100% !important
+}
+
+.homeSlider .uk-dotnav {
+	position: absolute;
+	left: 0;
+	bottom: 35px;
+	z-index: 1;
+	width: 100%;
+	text-align: center;
+	display: block;
+	flex-wrap: inherit
+}
+
+.homeSlider .uk-dotnav>*>* {
+	float: left;
+	width: auto;
+	height: auto;
+	border-radius: 0;
+	background: 0 0;
+	text-indent: inherit;
+	white-space: nowrap;
+	border: none;
+	font-size: 16px;
+	line-height: 20px;
+	position: relative;
+	padding-bottom: 3px;
+	margin: 0
+}
+
+.homeSlider .uk-dotnav>*>:before {
+	content: '';
+	position: absolute;
+	left: 0;
+	height: 1px;
+	bottom: 0;
+	background: #b7fbca;
+	width: 100%;
+	display: none
+}
+
+.homeSlider .uk-dotnav>.uk-active>*,
+.uk-light .uk-dotnav>li:hover>* {
+	background: 0 0;
+	border: none;
+	color: #b7fbca
+}
+
+.whatsappbtnapi {
+	float: right;
+	font-size: 16px;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #fff;
+	padding: 9px 10px;
+	line-height: 20px;
+	position: relative;
+	z-index: 2;
+	transition: .3s;
+	background: #31ba45;
+	border-radius: 4px;
+	margin-right: 20px;
+	border: 1px solid #31ba45
+}
+
+.whatsappbtnapi svg {
+	margin-right: 5px
+}
+
+.uk-active .whatsappbtnapi:hover {
+	background: 0 0;
+	color: #31ba45
+}
+
+.SubMenuSec .ProdMenu {
+	float: left;
+	width: calc(100% - 80px);
+	color: #fff;
+	border: 1px solid transparent;
+	transition: .3s;
+	padding: 10px
+}
+
+.SubMenuSec .ProdMenu:hover {
+	border: 1px solid #fff
+}
+
+.SubMenuSec .ProdMenu p {
+	float: left;
+	margin: 10px 0 0;
+	font-size: 12px;
+	line-height: 16px;
+	font-weight: 300
+}
+
+.productsmenu .MenuList li h4 {
+	margin-bottom: -20px
+}
+
+.txtchangeonhover .txtchangeonhoverinner {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	width: 230px;
+	color: #fff
+}
+
+.txtchangeonhoverinner h5 {
+	float: left;
+	width: 100%;
+	font-size: 30px;
+	line-height: 30px;
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: 700;
+	margin: 0 0 20px
+}
+
+.txtchangeonhoverinner p {
+	float: left;
+	width: 100%;
+	font-size: 20px;
+	line-height: 24px;
+	color: #fff;
+	margin: 0
+}
+
+.PrivacyPolicySec {
+	background: #f5f5f5;
+	padding: 180px 0 80px
+}
+
+.PrivacyPolicySec h3 {
+	float: left;
+	width: 100%;
+	margin-top: 10px;
+	font-size: 24px;
+	line-height: 34px
+}
+
+.SucSec {
+	background: #000;
+	position: relative
+}
+
+.sucimg {
+	width: 100%;
+	opacity: 25%
+}
+
+.homeheaderchange .heading {
+	font-size: 55px;
+	line-height: 70px
+}
+
+.homeheaderchange .heading span {
+	height: 75px
+}
+
+.homeheaderchange .uk-container.norelative {
+	position: inherit
+}
+
+.HomeSliderContainer {
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 100%;
+	transform: translateY(-50%);
+	max-width: 900px
+}
+
+.HomeMacbookSlider {
+	position: absolute;
+	right: 0;
+	top: 12.5%;
+	width: 81%
+}
+
+.HomeSliderContainer .MobileImgBox {
+	position: absolute;
+	left: 7%;
+	bottom: 0;
+	width: 27%;
+	z-index: 1
+}
+
+.HomeMobileSlider {
+	position: absolute;
+	left: 4%;
+	top: 2%;
+	width: 93%;
+	border-radius: 20px;
+	overflow: hidden;
+	height: 96%
+}
+
+.homeheaderchange .googlePartner {
+	left: 200px
+}
+
+.uk-lightbox-caption a {
+	font-size: 20px;
+	color: #fff
+}
+
+.Header404 h1 {
+	float: left;
+	width: 100%;
+	font-size: 250px;
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: 900
+}
+
+.Header404 p {
+	margin-bottom: 40px
+}
+
+.scale-anm .protSocial {
+	position: absolute;
+	right: 20px;
+	top: 20px;
+	display: none;
+	padding: 0;
+	margin: 0;
+	list-style: none
+}
+
+.protSocial li {
+	float: left;
+	margin-left: 10px
+}
+
+.protSocial li span {
+	color: #000;
+	background: #fff
+}
+
+.videoprodbox {
+	position: absolute;
+	width: 100%;
+	left: 0;
+	top: 50%;
+	transform: translateY(-50%);
+	color: #fff;
+	transition: .3s
+}
+
+.videoprodbox span {
+	float: left;
+	width: 100%;
+	margin-top: 10px
+}
+
+.videoprodbox svg {
+	width: 60px;
+	margin-top: -10px
+}
+
+.videoprodbox h5 {
+	float: left;
+	width: 100%;
+	margin: 0;
+	color: #fff;
+	font-size: 30px;
+	padding: 0 30px
+}
+
+.portfolioTheme .HeadingBox.text-center {
+	text-align: center;
+	width: 100%;
+	padding-top: 10%
+}
+
+.portfolioTheme .HomeHeader {
+	background-color: #fff
+}
+
+.portfoliocontent h3 img {
+	margin-top: -10px
+}
+
+.portfolioTheme .logoblack {
+	position: absolute;
+	left: 0;
+	top: 0;
+	opacity: 1
+}
+
+.portfolioTheme .SubMenuSec {
+	background-position: 0 60px
+}
+
+.portfolioTheme .HeadingBox h1 {
+	color: #000;
+	margin-top: 30px;
+	margin-bottom: 5px
+}
+
+.portfolioTheme .HeadingBox p {
+	color: #000;
+	margin-bottom: 30px;
+	text-transform: capitalize
+}
+
+.portfolioTheme ul.portfolioSocial,
+ul.portfolio_premiun {
+	list-style: none;
+	padding: 0
+}
+
+.portfolioTheme ul.portfolioSocial li {
+	display: inline-block;
+	padding: 15px
+}
+
+section.portfolioTwomain {
+	background-color: #000;
+	width: 100%;
+	height: 100%;
+	position: relative;
+	display: block;
+	overflow: hidden;
+	padding: 90px 0 0
+}
+
+.portfoliocontent {
+	text-align: center;
+	margin-bottom: 30px
+}
+
+.portfoliocontent h3 {
+	font-size: 42px;
+	color: #fff;
+	font-weight: 700;
+	line-height: 51px
+}
+
+.portfoliocontent p {
+	color: #ddd
+}
+
+#dvc,
+#facebook,
+#instagram,
+#paidmedia,
+#webdevelop {
+	position: relative;
+	display: block;
+	float: left;
+	width: 100%
+}
+
+.portfoliocontent h3 span {
+	margin-left: 15px
+}
+
+#dvc [class*=uk-position-center-left],
+#facebook [class*=uk-position-center-left],
+#instagram [class*=uk-position-center-left],
+#paidmedia [class*=uk-position-center-left] {
+	transform: translate(-70px, 0) !important
+}
+
+#dvc [class*=uk-position-center-right],
+#facebook [class*=uk-position-center-right],
+#instagram [class*=uk-position-center-right],
+#paidmedia [class*=uk-position-center-right] {
+	transform: translate(60px, 0) !important
+}
+
+#webdevelop .portfolioSlider li div.uk-panel {
+	margin: 0 auto;
+	text-align: center
+}
+
+.OurCoreProductsSlider.AnimFade .portfolio_items {
+	list-style: none;
+	text-align: center
+}
+
+.ClientSec .OurCoreProductsSlider .portfolio_items li {
+	width: auto;
+	margin: 15px 40px;
+	padding: 0;
+	display: inline-block;
+	float: none
+}
+
+ul.portfolio_premiun li {
+	width: 170px;
+	float: left
+}
+
+.portfolioTheme .whatsappbtnapi:hover {
+	background: 0 0;
+	color: #000
+}
+
+ul.portfolio_items li a img {
+	cursor: pointer
+}
+
+.uk-panel-lead {
+	font-size: 1.25rem;
+	font-weight: 300
+}
+
+@media screen and (max-width: 540px) {
+	.meta {
+		left: 144px !important;
+		bottom: 29px !important;
+		width: 100px !important;
+	}
+
+	.mob {
+		bottom: 89px !important;
+	}
+
+	.googlePartner {
+		left: 0 !important;
+		bottom: 33px !important;
+	}
+	
+
+	.HomeHeader.whatsapp_bussiness .heading {
+		font-family: 'Roboto', sans-serif;
+		font-size: 45px;
+		line-height: 54px;
+		font-weight: 300;
+		text-transform: none;
+	}
+
+	.HomeHeader.whatsapp_bussiness .sub_heading {
+		font-family: 'Roboto', sans-serif;
+		font-weight: 300;
+		float: left;
+		width: 100%;
+		display: inline-block;
+		color: white;
+		margin-bottom: 0px;
+	}
+
+	.HomeHeader.whatsapp_bussiness .BtnWithArrow:hover {
+		border: 1px solid white;
+	}
+
+	.BtnWithArrow.green_btn {
+		border: 1px solid transparent;
+		line-height: 48px;
+		padding: 0 20px 0 20px;
+	}
+
+	#contactform .BtnWithArrow {
+		border: 1px solid white;
+		cursor: pointer;
+	}
+
+	.banner_buttons {
+		display: inline-block;
+		float: left;
+		width: 100%;
+		margin-top: 32px;
+	}
+
+	.HomeHeader.whatsapp_bussiness p {
+		padding-right: 130px;
+		font-family: 'Roboto', sans-serif;
+		font-weight: 300;
+		font-size: 22px;
+		line-height: 27px;
+		text-transform: none;
+	}
+
+	.intergation_tools li a {
+		width: 100%;
+		display: block;
+		text-align: center;
+	}
+
+	.OurCoreProducts.wbs h2 {
+		font-family: 'Roboto', sans-serif;
+		text-transform: none;
+		font-weight: 300;
+		font-size: 24px;
+		color: black;
+	}
+
+	.white_bg {
+		background: white;
+	}
+
+	.wbs_screen {
+		padding-bottom: 60px;
+	}
+
+	.wbs_screen h2 {
+		font-size: 45px;
+		line-height: 52px;
+		font-family: 'Roboto', sans-serif;
+		font-weight: 500;
+		color: #000000;
+	}
+
+	.wbs_screen p {
+		font-family: 'Roboto', sans-serif;
+		font-size: 16px;
+		font-weight: 400;
+		color: #000000;
+	}
+
+	.without_bg {
+		background: transparent;
+		border: 1px solid #FFFFFF;
+		color: white;
+		line-height: 48px;
+	}
+
+	.sticky_form {
+		padding: 13px 0px;
+	}
+
+	.sticky_form input {
+		border: 1px solid #E4E4E4;
+		border-radius: 4px;
+	}
+
+	section.fifth {
+		padding: 100px 0px;
+	}
+
+	.stats h4 {
+		font-family: 'Roboto', sans-serif;
+		font-size: 24px;
+		line-height: 29px;
+		font-weight: 300;
+	}
+
+	.counts {
+		background: #E6F3EE;
+		padding: 33px 15px 25px 15px;
+		border-radius: 4px;
+		margin-top: 32px;
+	}
+
+	.counts .inner p {
+		font-family: 'Roboto', sans-serif;
+		font-weight: 300;
+		font-size: 14px;
+		color: #000000;
+		margin-bottom: 0px;
+		margin-top: 10px;
+	}
+
+	.SeoPage.wbs .FAQBox .uk-accordion-title svg {
+		color: #1487e5;
+	}
+
+	.wbs_cards {
+		margin-top: 30px;
+	}
+
+	.wbs_cards a {
+		padding: 26px 24px;
+		display: inline-block;
+		width: 100%;
+		box-shadow: 0px 10px 20px #0000000F;
+		border: 1px solid #E6E6E6;
+		border-radius: 4px;
+	}
+
+	.wbs_cards a:hover {
+		background-image: url('../images/wbs/card-hover.jpg');
+		background-size: cover;
+		background-position: center;
+		background-repeat: no-repeat;
+	}
+
+	.wbs_cards a .icon {
+		display: inline-block;
+		height: 46px;
+		width: 48px;
+		background-size: cover;
+		background-position: center;
+	}
+
+	.wbs_cards a.i .icon {
+		background: url('../images/wbs/icon-01.png');
+	}
+
+	.wbs_cards a.i:hover .icon {
+		background: url('../images/wbs/1.svg');
+	}
+
+	.wbs_cards a.ii .icon {
+		background: url('../images/wbs/icon-02.png');
+	}
+
+	.wbs_cards a.ii:hover .icon {
+		background: url('../images/wbs/2.svg');
+	}
+
+	.wbs_cards a.iii .icon {
+		background: url('../images/wbs/icon-03.png');
+	}
+
+	.wbs_cards a.iii:hover .icon {
+		background: url('../images/wbs/3.svg');
+	}
+
+	.wbs_cards a.iv .icon {
+		background: url('../images/wbs/icon-04.png');
+	}
+
+	.wbs_cards a.iv:hover .icon {
+		background: url('../images/wbs/4.svg');
+	}
+
+	.wbs_cards a.v .icon {
+		background: url('../images/wbs/icon-05.png');
+	}
+
+	.wbs_cards a.v:hover .icon {
+		background: url('../images/wbs/5.svg');
+	}
+
+	.wbs_cards a.vi .icon {
+		background: url('../images/wbs/icon-06.png');
+	}
+
+	.wbs_cards a.vi:hover .icon {
+		background: url('../images/wbs/6.svg');
+	}
+
+	.wbs_cards a .Txt h6 {
+		font-family: 'Roboto', sans-serif;
+		color: black;
+		font-size: 16px;
+		font-weight: bold;
+		margin-top: 15px;
+		margin-bottom: 10px;
+	}
+
+	.wbs_cards a .Txt p {
+		font-family: 'Roboto', sans-serif;
+		color: #6E6E6E;
+		font-size: 14px;
+		line-height: 20px;
+		margin-top: 0px;
+	}
+
+	.wbs_cards a:hover .Txt h6,
+	.wbs_cards a:hover .Txt p {
+		color: white;
+	}
+
+	.WhatsappBusinessCard .BgGradiant {
+		position: absolute;
+		left: 0;
+		top: 0;
+		width: 100%;
+		height: 100%;
+		border-radius: 6px;
+		overflow: hidden;
+		background-color: #009735;
+	}
+
+	.TabsSec.wbs {
+		background-image: url('../images/wbs/tab-bg.jpg');
+		background-size: cover;
+		background-position: center;
+		background-repeat: no-repeat;
+	}
+
+	.TabsSec.wbs .tabsBtnBox {
+		width: 100%;
+	}
+
+	.TabsSec.wbs h2 {
+		font-family: 'Roboto', sans-serif;
+		color: white;
+		font-size: 45px;
+		font-weight: 300;
+		line-height: 52px;
+		text-transform: none;
+	}
+
+	.TabsSec.wbs .tabsBtns li {
+		margin: 0 0px;
+	}
+
+	.TabsSec.wbs .tabsBtns li a {
+		font-family: 'Roboto', sans-serif;
+		padding: 10px;
+		color: #fff;
+		font-size: 16px;
+		font-weight: 300;
+		line-height: 19px;
+		display: inline-block;
+		float: none;
+	}
+
+	.TabsSec.wbs .aditionBox h3 {
+		font-family: 'Roboto', sans-serif;
+		font-size: 36px;
+		font-weight: 300;
+		line-height: 43px;
+		color: white;
+	}
+
+	.TabsSec.wbs .aditionBox p {
+		font-family: 'Roboto', sans-serif;
+		font-weight: 300;
+		line-height: 22px;
+		color: white;
+		margin-top: 16px;
+	}
+
+	.TabsSec.wbs .aditionBox p {
+		margin-bottom: 13px;
+	}
+
+	.TabsSec.wbs .tabsBtns {
+		position: relative;
+		width: 100%;
+	}
+
+	.TabsSec.wbs .tabsBtns:before {
+		position: absolute;
+		content: '';
+		height: 1px;
+		width: 100%;
+		background: #666666;
+		bottom: -2px;
+		left: 0px;
+	}
+
+	.TabsSec.wbs .tabsBtns li {
+		width: 16.66%;
+		text-align: center;
+	}
+
+	.TabsSec.wbs .tabsBtns li a:before {
+		border-bottom: 2px solid #fff;
+		bottom: -2px;
+	}
+
+	.TabsSec.wbs .tabsBtns li a:before {
+		border-color: #fff;
+	}
+
+	.cs_bg {
+		background: url('../images/wbs/cs_bg.png');
+		background-size: cover;
+		background-position: center;
+		background-repeat: no-repeat;
+		margin-top: -155px;
+	}
+
+	.connect-bg {
+		background: url('../images/wbs/connect-bg.png');
+		background-size: cover;
+		background-position: center;
+		background-repeat: no-repeat;
+	}
+
+	.connect-bg h3,
+	.connect-bg h4,
+	.connect-bg p {
+		color: white;
+	}
+
+	.wbs_customer_support {
+		padding: 100px 0px;
+	}
+
+	.cs_bg .wbs_sec_txt h3,
+	.cs_bg .wbs_sec_txt h4,
+	.cs_bg .wbs_sec_txt p {
+		color: white;
+	}
+
+	.wbs_customer_support.cs_bg .wbs_sec_txt {
+		padding-bottom: 0px;
+	}
+
+	.wbs_customer_support h2 {
+		font-family: 'Roboto', sans-serif;
+		font-size: 45px;
+		font-weight: 300;
+		line-height: 52px;
+	}
+
+	.wbs_customer_support .wbs_sec_txt {
+		padding-bottom: 80px;
+	}
+
+	.wbs_customer_support .wbs_sec_txt h3 {
+		font-family: 'Roboto', sans-serif;
+		font-size: 36px;
+		font-weight: 300;
+		line-height: 43px;
+	}
+
+	.wbs_customer_support .wbs_sec_txt h4 {
+		font-family: 'Roboto', sans-serif;
+		font-size: 22px;
+		font-weight: 300;
+		line-height: 26px;
+		margin: 30px 0px;
+	}
+
+	.wbs_customer_support .wbs_sec_txt p {
+		font-family: 'Roboto', sans-serif;
+		font-weight: 300;
+		margin: 16px 0px;
+	}
+
+	.wbs.ContactSec .contactTxt h3 {
+		width: 100%;
+		font-family: 'Roboto', sans-serif;
+		font-weight: 300;
+		font-size: 45px;
+		line-height: 52px;
+	}
+
+	.wbs.ContactSec .contactTxt p {
+		font-family: 'Roboto', sans-serif;
+		font-weight: 300;
+	}
+
+	.FAQSec.wbs.FAQBox .uk-accordion-title svg {
+		color: #31ba45;
+	}
+
+	.npr {
+		position: unset !important;
+	}
+
+	.HomeHeader.whatsapp_bussiness .image img {
+		position: absolute;
+		bottom: 0px;
+		left: 50%;
+		transform: translateX(-50%);
+	}
+
+	.WhatsappBusinessMain .ContainerCustom {
+		max-width: 1000px;
+	}
+
+	.WhatsappBusinessCard .WhatsappWithWPTxt h6 {
+		color: #fff;
+		font-size: 20px;
+		line-height: 26px;
+		margin-bottom: 15px;
+		font-weight: 500;
+	}
+
+	.WhatsappBusinessCard.WhatsappWithWPBox:before {
+		border: 1px solid #FFFFFF;
+		border-radius: 6px;
+		position: absolute;
+		left: 5px;
+		top: 5px;
+		content: '';
+		width: calc(100% - 12px);
+		height: calc(100% - 12px);
+		background: 0 0;
+		z-index: 1;
+	}
+
+	.whatsappbusinesssolution .WhatsappHeaderTxt p {
+		text-transform: none;
+	}
+
+	.whatsappbusinesssolution .WhatsappHeaderTxt p {
+		text-transform: none;
+	}
+
+	.WhatsappWithWPSec.WhatsappBusinessMain {
+		padding-bottom: 110px;
+	}
+
+	.contactTxt.whatsappbussinessTxt p {
+		width: 75%;
+	}
+
+	.whatsappbusinesssolution .mobilehide img {
+		margin-top: 23%;
+	}
+
+	.whatsappbusinesssolution .WhatsappHeaderImg {
+		margin: 0px auto;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.WhatsappHeader.customersupport {
+		height: 100%;
+		position: relative;
+		min-height: 700px;
+		overflow: hidden;
+	}
+
+	.sticky_form input#phonenumber {
+		border-left: none;
+	}
+
+	.FAQSec.wbs h2 {
+		text-transform: none;
+		color: #000000;
+		font-weight: 500;
+	}
+
+	.FAQBox.wbs .uk-accordion-title {
+		font-size: 22px;
+		line-height: 26px;
+		padding: 32px 30px 32px 0;
+		color: #2C2C2C;
+	}
+
+	.FAQBox.wbs .uk-accordion-content p {
+		max-width: 990px;
+	}
+
+	.FAQBox.wbs .uk-accordion-content p,
+	.FAQBox.wbs .uk-accordion-content li {
+		list-style: none;
+		font-size: 16px;
+		font-weight: 300;
+		color: #000000;
+	}
+
+	.FAQBox.wbs .uk-accordion-content ul {
+		padding-left: 0px;
+	}
+
+	.FAQBox.wbs .uk-accordion-content li {
+		margin-bottom: 5px;
+	}
+
+	.FAQBox.wbs .uk-accordion-content p b {
+		font-weight: 400;
+		color: black;
+	}
+
+	.FAQBox.wbs .uk-accordion-title {
+		font-weight: 300;
+	}
+
+	.ms-options ul {
+		list-style: none;
+		padding: 0;
+	}
+
+	.ms-options-wrap>.ms-options>ul input[type="checkbox"] {
+		margin-right: 5px;
+		position: absolute;
+		left: 4px;
+		top: 14px !important;
+	}
+
+	.ms-options label {
+		color: #86868b;
+		font-size: 18px;
+		padding-left: 28px !important;
+	}
+
+	.ms-options-wrap>button:focus,
+	.ms-options-wrap>button {
+		position: relative;
+		width: 100%;
+		text-align: left;
+		border: 1px solid #aaa;
+		background-color: #fff;
+		padding: 5px 20px 5px 10px !important;
+		margin-top: 1px;
+		font-size: 18px !important;
+		color: #86868b;
+		outline: none;
+		white-space: nowrap;
+		line-height: 50px;
+		border-top: none !important;
+		border-left: none !important;
+		border-right: none !important;
+		border-bottom: 1px solid #cfcfcf !important;
+	}
+
+	.ms-options-wrap>.ms-options>.ms-search input {
+		width: 100%;
+		padding: 4px 10px;
+		border: none;
+		border-bottom: 1px groove;
+		outline: none;
+		font-size: 18px;
+		color: #86868b;
+	}
+
+	
+
+	label.error {
+		display: none !important;
+	}
+
+	.ContactFld .uk-input.error {
+		border-bottom: 1px solid red !important;
+	}
+
+	#interestedin {
+		width: 100%;
+	}
+
+	.scrollbar {
+		/* margin-left: 30px; */
+		float: left;
+		/* height: 300px; */
+		/* width: 65px; */
+		background: #F5F5F5;
+		/* overflow-y: scroll; */
+		width: 100%;
+		/* margin-bottom: 25px; */
+	}
+
+	#interestedin::-webkit-scrollbar-track {
+		-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+		background-color: #F5F5F5;
+	}
+
+	#interestedin::-webkit-scrollbar {
+		width: 10px;
+		background-color: #F5F5F5;
+	}
+
+	#interestedin::-webkit-scrollbar-thumb {
+		background-color: #000000;
+		border: 2px solid #555555;
+	}
+}
+
+	@media screen and (min-width: 1681px) {
+		.HomeHeader.whatsapp_bussiness .BtnWithArrow {
+			line-height: 63px;
+		}
+	}
+
+	@media screen and (min-width: 1441px) {
+		.HomeHeader.whatsapp_bussiness .BtnWithArrow {
+			line-height: 59px;
+		}
+	}
+
+	@media screen and (max-width: 1440px) {
+		.HomeHeader.whatsapp_bussiness .BtnWithArrow {
+			line-height: 48px;
+		}
+
+		#contactform .BtnWithArrow {
+			height: 44px;
+		}
+
+		.ms-options label {
+			color: #86868b;
+			font-size: 14px;
+			padding-left: 28px !important;
+		}
+
+		.ms-options-wrap>button:focus,
+		.ms-options-wrap>button {
+			font-size: 14px !important;
+		}
+
+		.ms-options-wrap>.ms-options>ul input[type="checkbox"] {
+			margin-right: 5px;
+			position: absolute;
+			left: 4px;
+			top: 10px !important;
+		}
+
+		.ms-options-wrap>.ms-options>.ms-search input {
+			font-size: 14px;
+		}
+	}
+
+	@media screen and (min-width: 1440px) {
+		.without_bg {
+			line-height: 61px;
+		}
+
+		.sticky_form .without_bg {
+			line-height: 42px;
+			height: auto;
+			font-size: 16px;
+		}
+	}
+
+	.whatsapp_me_button {
+			position: fixed;
+			bottom: 40px;
+			right: 20px;
+			width: 70px;
+			height: 70px;
+			background-size: 70px 70px;
+			z-index: 1000;
+			background-image: url(images/logo-whatsapp-png-46044.png);
+		}
+
+		
+
+.sectionClass {
+  padding: 20px 0px 50px 0px;
+  position: relative;
+  display: block;
+}
+
+.fullWidth {
+  width: 100% !important;
+  display: table;
+  float: none;
+  padding: 0;
+  min-height: 1px;
+  height: 100%;
+  position: relative;
+}
+
+
+.sectiontitle {
+  background-position: center;
+  margin: 30px 0 0px;
+  text-align: center;
+  min-height: 20px;
+}
+
+.sectiontitle h2 {
+  font-size: 30px;
+  color: #222;
+  margin-bottom: 0px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+
+.headerLine {
+  width: 160px;
+  height: 2px;
+  display: inline-block;
+  background: #101F2E;
+}
+
+
+.projectFactsWrap{
+    display: flex;
+  margin-top: 30px;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+
+#projectFacts .fullWidth{
+  padding: 0;
+}
+
+.projectFactsWrap .item{
+  width: 25%;
+  height: 100%;
+  padding: 50px 0px;
+  text-align: center;
+}
+
+.projectFactsWrap .item:nth-child(1){
+     background: linear-gradient(to right, #2e7be5, #2e7be5);
+}
+
+.projectFactsWrap .item:nth-child(2){
+   background: linear-gradient(to right, #2e7be5, #2e7be5);
+}
+.projectFactsWrap .item:nth-child(3){
+   background: linear-gradient(to right, #2e7be5, #2e7be5);
+}
+
+.projectFactsWrap .item:nth-child(4){
+     background: linear-gradient(to right, #2e7be5, #2e7be5);
+}
+
+.projectFactsWrap .item p.number{
+  font-size: 40px;
+  padding: 20px;
+  font-weight: bold;
+}
+
+.projectFactsWrap .item p{
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 18px;
+  margin: 0;
+  padding: 10px;
+  font-family: 'Open Sans';
+}
+
+
+.projectFactsWrap .item span{
+  width: 60px;
+  background: rgba(255, 255, 255, 0.8);
+  height: 2px;
+  display: block;
+  margin: 0 auto;
+}
+
+
+.projectFactsWrap .item i{
+  vertical-align: middle;
+  font-size: 50px;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+
+.projectFactsWrap .item:hover i, .projectFactsWrap .item:hover p{
+  color: white;
+}
+
+.projectFactsWrap .item:hover span{
+  background: white;
+}
+
+@media (max-width: 786px){
+  .projectFactsWrap .item {
+     flex: 0 0 50%;
+  }
+}
+
+/* AUTHOR LINK */
+
+
+.about-me-img {
+  width: 120px;
+  height: 120px;
+  left: 10px;
+  /* bottom: 30px; */
+  position: relative;
+  border-radius: 100px;
+}
+
+
+.about-me-img img {
+}
+
+
+.authorWindow{
+  width: 600px;
+  background: #75439a;
+  padding: 22px 20px 22px 20px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.authorWindowWrapper{
+  display: none;
+  left: 110px;
+  top: 0;
+  padding-left: 25px;
+  position: absolute;
+}
+
+
+
+
+
+.trans{
+  opacity: 1;
+  -webkit-transform: translateX(0px);
+  transform: translateX(0px);
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  transition: all 500ms ease;
+}
+
+@media screen and (max-width: 768px) {
+    .authorWindow{
+         width: 210px;
+    }
+
+    .authorWindowWrapper{
+             bottom: -170px;
+  margin-bottom: 20px;
+    }
+
+   
+}
+
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.marquee{
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+padding: 20px;
+
+  .marqq{
+    text-transform: uppercase;
+    will-change: transform;
+    transform: translateX(0);
+    white-space: nowrap;
+    animation: marquee 24s linear infinite;
+    font-size: 150px;
+    font-family: 'Gravitas One', Helvetica, Arial, sans-serif;
+    font-weight: 900;
+            color: #0a4f5a;
+  }
+}
+
+
+    .whatsapp_me_button {
+    position: fixed;
+    bottom: 40px;
+    right: 20px;
+    width: 70px;
+    height: 70px;
+    background-size: 70px 70px;
+    z-index: 1000;
+    background-image: url(images/logo-whatsapp-png-46044.png);
+}

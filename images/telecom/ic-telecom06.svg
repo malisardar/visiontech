@@ -1,0 +1,17 @@
+<svg id="ic-telecom06" xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+  <g id="Group_12072" data-name="Group 12072">
+    <path id="Path_17863" data-name="Path 17863" d="M0,0H35.236V35.276H0Z" fill="none"/>
+  </g>
+  <g id="Group_12075" data-name="Group 12075" transform="translate(0 0.035)">
+    <g id="Group_12074" data-name="Group 12074">
+      <path id="Path_17864" data-name="Path 17864" d="M13.02,21.337v3.775a18.593,18.593,0,0,0,9.942-4.13L20.308,18.31A14.841,14.841,0,0,1,13.02,21.337Z" transform="translate(8.071 12.853)" fill="#99f"/>
+      <path id="Path_17865" data-name="Path 17865" d="M5.768,21.033A15.189,15.189,0,0,1,18.756,5.9V2.05A18.965,18.965,0,0,0,2.03,21.033,18.965,18.965,0,0,0,18.756,40.015V36.161A15.189,15.189,0,0,1,5.768,21.033Z" transform="translate(-2.03 -2.05)" fill="#99f"/>
+      <path id="Path_17866" data-name="Path 17866" d="M21.357,15.622h3.775A18.593,18.593,0,0,0,21,5.68L18.33,8.352A14.7,14.7,0,0,1,21.357,15.622Z" transform="translate(12.867 1.297)" fill="#99f"/>
+      <path id="Path_17867" data-name="Path 17867" d="M22.962,6.18A18.653,18.653,0,0,0,13.02,2.05V5.825a14.841,14.841,0,0,1,7.288,3.027Z" transform="translate(8.071 -2.05)" fill="#99f"/>
+      <path id="Path_17868" data-name="Path 17868" d="M18.33,20.288,21,22.942A18.593,18.593,0,0,0,25.133,13H21.357A14.841,14.841,0,0,1,18.33,20.288Z" transform="translate(12.867 8.046)" fill="#99f"/>
+      <g id="Group_12073" data-name="Group 12073" transform="translate(11.525 9.638)">
+        <path id="Path_17869" data-name="Path 17869" d="M22.951,14.662A7.478,7.478,0,1,0,8,14.662q0,4.653,7.475,11.026Q22.96,19.325,22.951,14.662Zm-7.475,1.682a2,2,0,1,1,2-2A2,2,0,0,1,15.475,16.344Z" transform="translate(-8 -7)" fill="#99f"/>
+      </g>
+    </g>
+  </g>
+</svg>

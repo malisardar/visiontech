@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.025" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#793aff"/>
+      <stop offset="0.521" stop-color="#a01ce7"/>
+      <stop offset="1" stop-color="#f26430"/>
+    </linearGradient>
+  </defs>
+  <g id="ic-content-offer03" transform="translate(-533 -1466)">
+    <rect id="Rectangle_856" data-name="Rectangle 856" width="100" height="100" transform="translate(533 1466)" fill="none"/>
+    <path id="Intersection_10" data-name="Intersection 10" d="M-16423.793-2330a2.14,2.14,0,0,1-2.137-2.141v-23.573a2.143,2.143,0,0,1,2.137-2.141h12.8a2.14,2.14,0,0,1,2.137,2.141v23.573a2.138,2.138,0,0,1-2.137,2.141Zm0-2.141h12.8v-2.024h-12.8Zm0-4.524h12.8l0-15h-12.8Zm0-16.667h12.8v-2.383h-12.8ZM-16451.3-2330v-2.5h1.662v-5.834h-1.662v-2.5h23.238v2.5h-6.641v5.834h2.49v2.5Zm4.15-2.5h10.789v-5.834h-10.789Zm-27.859,2.5a2.14,2.14,0,0,1-2.135-2.141v-32.145a2.142,2.142,0,0,1,2.135-2.141h19.2a2.143,2.143,0,0,1,2.137,2.141v32.145a2.14,2.14,0,0,1-2.137,2.141Zm0-2.141h19.209v-6.192h-19.209Zm0-8.692h19.2v-23.452h-19.2Zm6.283,6.668v-2.5h6.639v2.5Zm47.063-4.406v-2.141h8.537v2.141ZM-16443-2342.5v-2.5h2.49v2.5Zm21.338-.359V-2345h8.537v2.141Zm0-4.286v-2.141h8.537v2.141Zm-29.637-.355v-1.669h23.238v1.669Zm40.309-12.5v-27.855h-64.018v19.284h-2.135v-19.284a2.143,2.143,0,0,1,2.135-2.145h64.018a2.14,2.14,0,0,1,2.133,2.145V-2360Zm-4.268,0v-23.57h-55.482v15h-2.135v-17.143h59.75V-2360Z" transform="translate(17026 3876)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

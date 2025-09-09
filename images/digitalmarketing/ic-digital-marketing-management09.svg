@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="ic-digital-marketing-management09" transform="translate(0 -0.229)">
+    <g id="Group_12065" data-name="Group 12065">
+      <rect id="Rectangle_6670" data-name="Rectangle 6670" width="32" height="32" transform="translate(0 0.229)" fill="none"/>
+    </g>
+    <g id="Group_12067" data-name="Group 12067" transform="translate(2.686 5.371)">
+      <g id="Group_12066" data-name="Group 12066">
+        <circle id="Ellipse_654" data-name="Ellipse 654" cx="5.5" cy="5.5" r="5.5" transform="translate(5.314 -0.143)" fill="#1db954"/>
+        <path id="Path_17854" data-name="Path 17854" d="M13.213,14.012C9.547,13.877,2,15.7,2,19.37v2.686H14.811A7.989,7.989,0,0,1,13.213,14.012Z" transform="translate(-2 -0.57)" fill="#1db954"/>
+        <path id="Path_17855" data-name="Path 17855" d="M21.977,20.084a5.189,5.189,0,0,0,.765-2.713,5.371,5.371,0,1,0-5.371,5.371,5.316,5.316,0,0,0,2.713-.765l3.451,3.451,1.893-1.893Zm-4.606-.027a2.686,2.686,0,1,1,2.686-2.686A2.694,2.694,0,0,1,17.371,20.057Z" transform="translate(1.429 -1.257)" fill="#1db954"/>
+      </g>
+    </g>
+  </g>
+</svg>

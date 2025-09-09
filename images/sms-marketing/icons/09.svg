@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="90" viewBox="0 0 90 90">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.077" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#793aff"/>
+      <stop offset="0.521" stop-color="#a01ce7"/>
+      <stop offset="1" stop-color="#f26430"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_173153" data-name="Group 173153" transform="translate(-866 -3888)">
+    <g id="Group_173109" data-name="Group 173109" transform="translate(479 -189)">
+      <g id="Surfaces" transform="translate(387 4077)">
+        <g id="UI_UX_Surface" data-name="UI UX Surface">
+          <g id="Outline_no_shadow" data-name="Outline no shadow">
+            <g id="Group_175492" data-name="Group 175492">
+              <path id="Path_104683" data-name="Path 104683" d="M19.368,0H70.632A19.622,19.622,0,0,1,90,19.865V70.135A19.622,19.622,0,0,1,70.632,90H19.368A19.622,19.622,0,0,1,0,70.135V19.865A19.622,19.622,0,0,1,19.368,0Z" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="desktop_windows_FILL1_wght300_GRAD0_opsz48" d="M26.1,67V63.029h7.074V54.647H9.85a4.509,4.509,0,0,1-3.368-1.5A5.051,5.051,0,0,1,5.05,49.529V12.118A5.051,5.051,0,0,1,6.482,8.5,4.509,4.509,0,0,1,9.85,7H64.166a4.643,4.643,0,0,1,3.411,1.5,4.975,4.975,0,0,1,1.474,3.618V49.529a4.975,4.975,0,0,1-1.474,3.618,4.643,4.643,0,0,1-3.411,1.5H40.839v8.382h7.074V67Z" transform="translate(873.95 3896)" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

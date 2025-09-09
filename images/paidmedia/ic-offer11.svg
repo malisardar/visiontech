@@ -1,0 +1,15 @@
+<svg id="ic-offer11" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_11040" data-name="Group 11040" transform="translate(0.375)">
+    <rect id="Rectangle_6187" data-name="Rectangle 6187" width="32" height="32" transform="translate(-0.375)" fill="none"/>
+    <rect id="Rectangle_6188" data-name="Rectangle 6188" width="32" height="32" transform="translate(-0.375)" fill="none"/>
+  </g>
+  <g id="Group_11042" data-name="Group 11042" transform="translate(0 5.333)">
+    <g id="Group_11041" data-name="Group 11041">
+      <path id="Path_17055" data-name="Path 17055" d="M23.333,9.667V7H20.667V9.667H18v2.667h2.667V15h2.667V12.333H26V9.667Z" transform="translate(6 -3)" fill="#1db954"/>
+      <path id="Path_17056" data-name="Path 17056" d="M9.333,14.667A5.333,5.333,0,1,0,4,9.333,5.332,5.332,0,0,0,9.333,14.667Z" transform="translate(1.333 -4)" fill="#1db954"/>
+      <path id="Path_17057" data-name="Path 17057" d="M10.667,13C7.107,13,0,14.787,0,18.333v4H21.333v-4C21.333,14.787,14.227,13,10.667,13Z" transform="translate(0 -1)" fill="#1db954"/>
+      <path id="Path_17058" data-name="Path 17058" d="M12.51,4.05a7.974,7.974,0,0,1,0,10.533,5.307,5.307,0,0,0,0-10.533Z" transform="translate(4.17 -3.983)" fill="#1db954"/>
+      <path id="Path_17059" data-name="Path 17059" d="M16.53,13.83a5.65,5.65,0,0,1,1.96,4.227v4h2.667v-4C21.157,16.123,19.037,14.71,16.53,13.83Z" transform="translate(5.51 -0.723)" fill="#1db954"/>
+    </g>
+  </g>
+</svg>

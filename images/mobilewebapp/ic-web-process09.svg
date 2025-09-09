@@ -1,0 +1,12 @@
+<svg id="ic-web-process09" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_12131" data-name="Group 12131">
+    <rect id="Rectangle_6680" data-name="Rectangle 6680" width="32" height="32" fill="none"/>
+  </g>
+  <g id="Group_12133" data-name="Group 12133" transform="translate(2.609 5.437)">
+    <g id="Group_12132" data-name="Group 12132" transform="translate(0 0)">
+      <circle id="Ellipse_657" data-name="Ellipse 657" cx="5" cy="5" r="5" transform="translate(5.391 -0.437)" fill="#99f"/>
+      <path id="Path_17961" data-name="Path 17961" d="M12.895,14.012C9.333,13.881,2,15.656,2,19.217v2.609H14.447A7.763,7.763,0,0,1,12.895,14.012Z" transform="translate(-2 -1.169)" fill="#99f"/>
+      <path id="Path_17962" data-name="Path 17962" d="M21.694,19.854a5.041,5.041,0,0,0,.744-2.636,5.219,5.219,0,1,0-5.219,5.219,5.165,5.165,0,0,0,2.636-.744l3.353,3.353,1.84-1.84Zm-4.475-.026a2.609,2.609,0,1,1,2.609-2.609A2.617,2.617,0,0,1,17.219,19.828Z" transform="translate(1.047 -1.78)" fill="#99f"/>
+    </g>
+  </g>
+</svg>

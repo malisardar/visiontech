@@ -1,0 +1,1632 @@
+@media screen and (max-width: 1200px) {
+    .MainMenu {
+        display: none;
+    }
+    .mjunoonLogo {
+        display: none;
+    }
+    header .MobileMenuBtn {
+        display: block;
+    }
+     .whatsappbtnapi {
+        display: none;
+    }
+    .ClientSec .OurCoreProductsSlider .portfolio_items li {
+        width: auto;
+        margin: 20px;
+    }
+}
+@media screen and (max-width: 959px) {
+    p, li {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .expertiseBG {
+        width: 100% !important;
+        -webkit-clip-path: none;
+        clip-path: none;
+        overflow: hidden;
+    }
+    .expertiseBox {
+        padding: 30px 20px 20px 0;
+    }
+    .expertiseBox:hover {
+        padding: 30px 20px 20px 20px;
+    }
+    .expertiseBox p {
+        height: auto;
+    }
+    .howCanHelp a {
+        margin-right: 0;
+    }
+    .OurCoreProductsSlider li {
+        width: 180px;
+    }
+    .portGridHalf {
+        width: 100%;
+    }
+    .HomeHeader .heading {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .HomeHeader .heading span {
+        height: 52px;
+    }
+    .HomeHeader p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .homeheaderchange .heading {
+        font-size: 32px;
+        line-height: 40px;
+    }
+    .homeheaderchange .heading span {
+        height: 40px;
+    }
+    .TechCompanySec .sec2heading {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .howCanHelp p {
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .howCanHelp a {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .howCanHelp a svg {
+        width: 18px;
+    }
+    .expertiseContainer .heading {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .HideonMob {
+        display: none;
+    }
+    .TechCompanySec .sec1heading {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .toggleBox p strong {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .toggleBox h3 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .gridTxtContainer h2 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .gridTxtContainer h5 {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .animBoxTxt h3 {
+        font-size: 18px;
+        line-height: 22px;
+        width:100%;
+    }
+    .animBoxTxt span {
+        display: none;
+        transform: translate(0);
+        opacity: 1;
+    }
+    .animBoxTxt span.mobReadmore {
+        display: block;
+    }
+    .animBoxTxt p {
+        transform: translate(0);
+        opacity: 1;
+        margin-bottom: 10px;
+    }
+    .ContactForm {
+        width: 320px;
+    }
+    .contactTxt {
+        max-width: 270px;
+    }
+    .contactTxt h3,.contactTxt h2 {
+        font-size: 40px;
+        line-height: 44px
+    }
+    .OurCoreProducts h2 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .NotableWorkSec h2 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .NotableWorkSlider .uk-width-1-3 {
+        width: 310px;
+    }
+    .NotableWorkBox:hover .NotableWorkimg img {
+        transform: translate(0);
+    }
+    .NotableWorkBox .NotableWorktxt {
+        transform: translateY(-52px);
+    }
+    .SplitBoxInner {
+        padding: 0;
+        max-width: 100%;
+    }
+    .Split2 .SplitBoxInner {
+        padding-left: 0;
+    }
+    .SplitBoxInner h4 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .SplitBoxInner p {
+        margin-top: 0;
+    }
+    .wbs_screen h2{
+        font-size: 28px;
+        line-height: 32px;
+    }
+    .stats h4 {
+        font-size: 20px;
+    }
+    .TabsSec.wbs h2 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .TabsSec.wbs .aditionBox h3 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .wbs_customer_support h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .wbs_customer_support .wbs_sec_txt h3 {
+        font-size: 30px;
+        line-height: 38px;
+    }
+    .wbs.ContactSec .contactTxt h3, .wbs.ContactSec .contactTxt h2 {
+        font-weight: 300;
+        font-size: 32px;
+        line-height: 44px;
+    }
+    .counts .inner{
+        margin: 20px 0px;
+    }
+    .sticky_form {
+        padding: 35px 0px;
+    }
+    .sticky_form .BtnWithArrow {
+      display: inline-block;
+      float: none;
+    }
+    footer:after {
+        display: none !important;
+    }
+    .SplitBox {
+        padding: 15% 10%;
+    }
+    .HeadingBox .BtnWithIcon {
+        position: relative;
+        right: inherit;
+        bottom: inherit;
+        margin-top: 0;
+    }
+    .AboutGameChangeBox h2 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .AboutGameChangeBox p {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .OfferServicesSec p {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .OfferServicesSec h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .OfferServicesHead h2 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .OfferServicesBox {
+        max-width: 210px;
+    }
+    .ServingtelecomBox h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .ServingtelecomBox p {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .ServingtelecomBox h3 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .ServingtelecomBox p strong {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .EntertainmentBox {
+        float: none;
+        display: inline-block;
+    }
+    .JustStartedTxt h2 {
+        font-size: 40px;
+        line-height: 44px
+    }
+    .JustStartedTxt h2 br {
+        display: none;
+    }
+    .JustStartedTxt p strong {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .EntertainmentSec h3 {
+        font-size: 40px;
+        line-height: 40px;
+    }
+    .TabsSec h2 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .mobTabsBtn {
+        display: block;
+    }
+    .tabsBtnBox {
+        display: none;
+    }
+    .tabsBtnBox {
+        width: 100%;
+    }
+    .HowWeHelpYouTxt ul li a {
+        width: 100%;
+    }
+    .HowWeHelpYouSec h2 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .FAQSec h2 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .FAQBox .uk-accordion-title {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .CasestudiesBox li {
+        width: 50%;
+    }
+    .CasestudiesBox li:nth-child(3) {
+        margin-top: 40px;
+    }
+    .PortfolioHeader h1, .CasestudiesHeader h1 {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .PortfolioHeader p, .CasestudiesHeader p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .WhatsappWithWPCont h2 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .WhatsappWithWPTxt {
+        float: none;
+        display: inline-block;
+        max-width: 200px;
+    }
+    .TelecomWithWPBox .WhatsappWithWPTxt {
+        max-width: 100%;
+        width: 100%;
+    }
+    .ElevateHead h2 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .ElevateHead p {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .ElevateCont ul li a span {
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .BarCodeSec .JustStartedimg {
+        text-align: center;
+    }
+    .JustStartedGrid h6 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .MadvertiserPage .ServingtelecomBox h3 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .MadvertiserPage .ServingtelecomBox h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .MadvertiserPage .ServingtelecomBox p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .ProfileingDHead h2 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .ProfileingDHead p {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .ProfileingDBox ul {
+        max-width: 480px;
+    }
+    .ProfileingDBox ul li {
+        margin-bottom: 30px;
+    }
+    .ProfileingDBox ul li:first-child {
+        margin-left: 15px;
+    }
+    .ServiciesText h3 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .SeoHeader h1 {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .SeoHeader p strong {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .SeoFld {
+        width: 25%;
+    }
+    .SeoFldBtn {
+        width: 170px;
+    }
+    .SeoNumber {
+        width: calc(50% - 170px);
+    }
+    .SeoFld select {
+        width: 70px;
+        padding: 15px 10px;
+    }
+    .SeoFld.SeoNumber input {
+        width: calc(100% - 70px);
+    }
+    .SeoHeader p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .B2bB2cSec h2 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .WhatsappHeader p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .WhatsappHeader h1 {
+        font-size: 34px;
+        line-height: 44px;
+    }
+    .BtnWithIcon {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .MjunoonStoreBtns {
+        text-align: center;
+    }
+    .MjunoonStoreBtns a {
+        float: none;
+        display: inline-block;
+        margin-bottom: 5px;
+    }
+    .ViewAllBtn {
+        display: block;
+    }
+    .ServingtelecomImgs ul li {
+        margin: 0 10px;
+    }
+    .ServingtelecomImgs ul li:first-child {
+        margin-left: 0;
+    }
+    .ServingtelecomImgs ul li:last-child {
+        margin-right: 0;
+    }
+    .ServingtelecomImgs ul li .jazzicon {
+        width: 90px;
+    }
+    .ServingtelecomImgs ul li .zongicon {
+        width: 140px;
+    }
+    .ServingtelecomImgs ul li .telenoricon {
+        width: 141px;
+    }
+    .ServingtelecomImgs ul li .ufoneicon {
+        width: 120px;
+    }
+    .OurCoreProductsSlider .uk-slidenav-previous, .OurCoreProductsSlider .uk-slidenav-next {
+        display: none !important;
+    }
+    .howCanHelp a~ a {
+        margin-right: 30px;
+    }
+    .BusinessChallenge {
+        text-align: center;
+    }
+    .CasestudiesInnerHeader h1 {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .BusinessChallenge h3 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .CSINumber h4 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .loader-block {
+        height: 350px;
+    }
+    .loader-word {
+        height: 90px;
+    }
+
+    .loader-word-inside {
+        height: 90px;
+    }
+    .CasestudiesInnerHeaderTxt {
+        padding: 100px 0 250px;
+    }
+    .ColageBtnDesktop {
+        display: none;
+    }
+    .ColageBtnMobile {
+        display: none;
+    }
+    .CallCenterImgBtm .JustStartedimg {
+        bottom: -4%;
+    }
+    .mobileShow {
+        display: block;
+    }
+    .headerimagezoom {
+        animation: none;
+        transform: translate(0) scale(1);
+        top: 0;
+        left: 0;
+    }
+    .JustStartedSec.clouddev {
+        padding-bottom: 0;
+    }
+    .clouddev .mobileShow {
+        width: calc(100% + 60px);
+        margin-left: -30px;
+    }
+    .filterGrid {  
+        /*-webkit-column-count: 2; 
+        -moz-column-count: 2;
+        column-count: 2;
+        -webkit-column-width: 50%;
+        -moz-column-width: 50%;
+        column-width: 50%;*/
+    }
+    .mobFilterBtn {
+        display: block;
+    }
+    .FilterBtn {
+        display: none;
+    }
+    .PortfolioHeader {
+        overflow: initial;
+        padding: 140px 0px 150px;
+    }
+    .PortfolioHeader .uk-container {
+        z-index: 2;
+    }
+    .ThankyouModal h2 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .ContactCaptchaStyle {
+        transform: scale(0.85);
+        transform-origin: 0 0;
+    }
+    .CenterTop {
+        width: 66.6667%;
+        text-align: right;
+    }
+    .slider_cont .SliderHeading {
+        font-size: 38px;
+        line-height: 48px;
+    }
+    .slider_cont .SliderHeading span:before {
+        bottom: 4px;
+        height: 2px;
+    }
+    .slider_cont .SliderHeading span {
+        height: 54px;
+    }
+    .sliderImg img {
+       max-width: 300px;
+    }
+       .whatsappbtnapi {
+        
+    }
+    .txtchangeonhover .txtchangeonhoverinner {
+        width: 170px;
+    }
+    .txtchangeonhoverinner h5 {
+        font-size: 22px;
+        line-height: 22px;
+    }
+    .txtchangeonhoverinner p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .PrivacyPolicySec h1 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .PrivacyPolicySec h3 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .HomeSliderContainer .macbookImg {
+        display: none;
+    }
+    .HomeSliderContainer {
+        text-align: center;
+        max-width: 50%;
+    }
+    .HomeMacbookSlider {
+        display: none;
+    }
+    .HomeSliderContainer .MobileImgBox {
+        position: relative;
+        display: inline-block;
+        left: inherit;
+        bottom: inherit;
+        width: 170px;
+        margin-right: 60px;
+    }
+    .Header404 h1 {
+        font-size: 150px;
+    }
+    #facebook [class*=uk-position-center-right], 
+    #instagram [class*=uk-position-center-right], 
+    #paidmedia [class*=uk-position-center-right], 
+    #dvc [class*=uk-position-center-right]
+    {
+        display: none;
+    }
+    #facebook [class*=uk-position-center-left], 
+    #instagram [class*=uk-position-center-left], 
+    #paidmedia [class*=uk-position-center-left], 
+    #dvc [class*=uk-position-center-left] {
+        display: none;
+    }
+    .portfolioSlider ul li div.uk-panel img {
+        width: 100%;
+        min-width: 100%;
+    }
+    ul.portfolio_premiun li {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+/*    .MobileMenuBtn svg{
+        color: #000;
+    }*/
+    .ClientSec .OurCoreProductsSlider li a {
+        width: 130px;
+    }
+    /* ul.portfolio_premiun{
+        display: block;
+    } */
+
+    
+}
+
+@media screen and (max-width: 767px){
+    .DesktopFooter {
+        display: none;
+    }
+    .MobileFooter {
+        display: block;
+    }
+    .tmTull {
+        width: 100%;
+    }
+    .ContactSec {
+        padding: 100px 0 0;
+    }
+    .contactTxt {
+        max-width: 100%;
+        text-align: center;
+    }
+    .contactTxt h3,.contactTxt h2 {
+        max-width: 100%;
+    }
+    .ContactForm {
+        width: calc(100% + 60px);
+        margin-left: -30px;
+        -webkit-clip-path: none;
+        clip-path: none;
+    }
+    .topSocialIcons {
+        display: none;
+    }
+    footer .topSocialIcons {
+        display: block;
+    }
+    .ColLeft {
+        width: 100%;
+    }
+    .ColRight {
+        width: 100%;
+    }
+    .ElevateCont {
+        display: none;
+    }
+    .ElevateContMobile {
+        display: block;
+        float: left;
+        width: 100%;
+    }
+    .ElevateLeft {
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        text-align: center;
+    }
+    .ElevateLeft li {
+        display: inline-block;
+        max-width: 90px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .ElevateLeft li a {
+        float: left;
+        width: 100%;
+        font-size: 10px;
+        line-height: 14px;
+        color: #ffffff;
+    }
+    .ElevateLeft li a span {
+        float: left;
+        width: 100%;
+        margin-top: 10px;
+        height: 44px;
+    }
+    .ElevateLeft .ElevateImgBox {
+        float: none;
+        display: inline-block;
+        margin: 0;
+    }
+    .SeoForm {
+        width: 100%;
+        max-width: 500px;
+    }
+    .SeoFld {
+        width: 100%;
+        padding-left: 0px;
+    }
+    .SeoFld input, .SeoFld.SeoNumber input {
+        max-width: inherit;
+    }
+    .SeoFld .SeoBtn {
+        float: none;
+        display: inline-block;
+    }
+    .B2bB2cBox ul li {
+        width: 50%;
+    }
+    .WhatsappHeaderImg {
+        /* text-align: center; */
+    }
+    .WhatsappHeaderImg img {
+        width: 100%;
+        max-width: 200px;
+    }
+    .isoCertified {
+        bottom: 20px;
+    }
+    .googlePartner {
+        bottom: 20px;
+    }
+    footer .MobileMenuWrap {
+        max-height: inherit !important;
+    }
+    .MobFtrAddress {
+        float: left;
+        width: 100%;
+        border-top: solid 2px #212125;
+        padding-top: 40px;
+    }
+    .MobFtrAddress address p {
+        float: left;
+        width: 100%;
+        font-size: 12px;
+        line-height: 18px;
+        font-weight: 300;
+        color: #FFFFFF99;
+        margin-top: 0;
+        margin-bottom: 15px;
+    }
+    .MobFtrAddress address p strong {
+        float: left;
+        width: 100%;
+        font-size: 20px;
+        line-height: 26px;
+        font-weight: bold;
+        color: #FFFFFF;
+        text-transform: uppercase;
+    }
+    .MobFtrAddress address p a {
+        color: #FFFFFF99;
+        text-decoration: none;
+    }
+    footer .MobileMenuWrap .uk-nav-default {
+        padding-top: 0;
+    }
+    .FtrWABox {
+        max-width: 100%;
+        text-align: center;
+    }
+    .FtrWABox a.googleplayIcon img {
+        width: 107px;
+    }
+    .FtrWABox a.appstoreIcon img {
+        width: 94px;
+        margin: 0;
+    }
+    .FtrWABox a.huaweiIcon img {
+        width: 105px;
+    }
+    .MjunoonStoreBtns a {
+        margin: 10px;
+    }
+    .FtrWABox a {
+        float: none;
+        display: inline-block;
+        color: #ffffff;
+    }
+    .FtrContactUsBtn {
+        float: left;
+        width: calc(100% + 60px);
+        padding: 20px 0;
+        margin-left: -30px;
+        text-align: center;
+        border-top: solid 2px #212125;
+        border-bottom: solid 2px #212125;
+    }
+    .FtrContactUsBtn a {
+        display: inline-block;
+        width: 160px;
+        height: 44px;
+        text-decoration: none;
+        border: 1px solid #ffffff;
+        border-radius: 25px;
+        font-size: 14px;
+        color: #ffffff;
+        text-align: center;
+        line-height: 42px;
+        transition: all 0.3s ease;
+        font-weight: 400;
+    }
+    .FtrContactUsBtn a:hover {
+        color: #18171D;
+        background: #ffffff;
+    }
+    .ftrCDetails {
+        max-width: 100%;
+        text-align: center;
+    }
+    .MobileSocialIcons {
+        float: left;
+        text-align: center;
+        width: 100%;
+    }
+    .MobileSocialIcons ul {
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+    .MobileSocialIcons ul li {
+        float: left;
+        margin: 10px;
+    }
+    .MobileSocialIcons ul li a {
+        float: left;
+        width: 30px;
+        height: 30px;
+        color: #ffffff;
+        line-height: 1;
+    }
+    .FtrBar {
+        padding: 0;
+        text-align: center;
+    }
+    .FtrBar ul {
+        width: 100%;
+        text-align: center;
+    }
+    .FtrBar ul li {
+        float: none;
+        margin: 10px;
+        margin-top: 0;
+        display: inline-block;
+    }
+    .FtrBar p {
+        width: 100%;
+    }
+    .Mobilebacktotop {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        width: 44px;
+        height: 44px;
+        transform: rotate(-90deg);
+        border: solid 1px #ffffff;
+        color: #ffffff;
+        padding: 5px;
+    }
+    .Mobilebacktotop svg {
+        width: 100%;
+    }
+    .AboutPage .contactTxt {
+        max-width: 100%;
+    }
+    .poweredgoalSec {
+        padding-bottom: 0;
+    }
+    .positionbox {
+        position: relative;
+    }
+    .loader-block {
+        height: 250px;
+    }
+    .loader-word {
+        height: 70px;
+    }
+
+    .loader-word-inside {
+        height: 70px;
+    }
+    .gridSec:before {
+        display: none;
+    }
+    .mobilehide {
+        display: none;
+    }
+    .uk-width-1-2.tabfull {
+        width: 100%;
+    }
+    .HomeHeader.homeheaderchange {
+        height: auto !important;
+        padding: 100px 0;
+        text-align: center;
+    }
+    .homeheaderchange .heading span {
+        float: none;
+        display: inline-block;
+    }
+    .homeheaderchange .uk-grid .uk-grid {
+        justify-content: center;
+    }
+    .HomeSliderContainer {
+        position: relative;
+        max-width: 100%;
+        top: inherit;
+        left: inherit;
+        transform: inherit;
+        margin-top: 40px;
+    }
+    .HomeSliderContainer .MobileImgBox {
+        margin-right: 0;
+        width: 220px;
+    }
+    .homeheaderchange .HomeBtm {
+        position: relative;
+        margin-bottom: -40px !important;
+        margin-top: 30px
+    }
+    .homeheaderchange .isoCertified {
+        position: relative;
+        float: left;
+        bottom: inherit;
+    }
+    .homeheaderchange .googlePartner {
+        position: relative;
+        bottom: inherit;
+        float: right;
+        left: inherit;
+    }
+    #facebook [class*=uk-position-center-right], 
+    #instagram [class*=uk-position-center-right], 
+    #paidmedia [class*=uk-position-center-right], 
+    #dvc [class*=uk-position-center-right]
+    {
+        display: none;
+    }
+    #facebook [class*=uk-position-center-left], 
+    #instagram [class*=uk-position-center-left], 
+    #paidmedia [class*=uk-position-center-left], 
+    #dvc [class*=uk-position-center-left] {
+        display: none;
+    }
+    .portfolioTheme ul.portfolioSocial li {
+        padding: 10px;
+    }
+    .portfoliocontent br {
+        display: none;
+    }
+    .portfoliocontent h3 {
+        font-size: 30px;
+    }
+    .ClientSec .OurCoreProductsSlider .portfolio_items li {
+        width: auto;
+        margin: 15px;
+    }
+    .portfolioTheme .HeadingBox img{
+        max-width: 150px;
+    }
+    .WhatsappBusinessCard .WhatsappWithWPImg {
+        padding: 15px;
+        float: left;
+        width: 100%;
+        padding: 0;
+    }
+    section.ClientSec.OurCoreProducts h2 br {
+        display: none;
+    }
+    .WhatsappBusinessCard .WhatsappWithWPImg svg {
+        width: 80px;
+    }
+    .WhatsappBusinessCard .WhatsappWithWPImg img {
+        width: 80px;
+    }
+    .WhatsappBusinessCard .WhatsappWithWPTxt {
+        width: 100%;
+        text-align: center;
+        margin-top: 10px;
+    }
+    .WhatsappBusinessCard .WhatsappWithWPTxt p {
+        transform: translateY(-50%);
+        position: relative;
+        top: 18%;
+    }
+    .whatsappbusinessContactForm .contactTxt.whatsappbussinessTxt p {
+        width: 100%;
+    }
+    .whatsappbusinessContactForm h3.AnimFade br {
+        display: none;
+    }
+    .whatsappbusinessContactForm .ContactSec {
+        padding: 50px 0 0;
+    }
+    .WhatsappBusinessCard .WhatsappWithWPTxt{
+        padding:10px;
+    }
+    .WhatsappBusinessMain h2 br {
+        display: none;
+    }
+
+}
+@media screen and (max-width: 639px){
+    .uk-container {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .howCanHelp p {
+        width: 100%;
+        margin-bottom: 15px;
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .TechCompanySec .sec1heading {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .TechCompanySec .sec2heading {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .TechCompanySec .sec2heading br {
+        display: none;
+    }
+    .toggleBox p strong {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .toggleBox h3 {
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .HomeHeader.whatsapp_bussiness p {
+        padding-right: 0;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .HomeHeader .heading,.HomeHeader.whatsapp_bussiness .heading {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .HomeHeader .heading span {
+        height: 34px;
+    }
+    .HomeHeader .heading br {
+        display: block;
+    }
+    .HomeHeader p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .BtnWithIcon {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .BtnWithArrow {
+        height: 44px;
+        border-radius: 25px;
+        line-height: 40px;
+        font-size: 14px;
+    }
+    .gridTxtContainer h2 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .gridTxtContainer h5 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .gridTxtContainer a {
+        height: 44px;
+        border-radius: 25px;
+        line-height: 42px;
+        font-size: 14px;
+    }
+    .animBoxTxt h3 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .portHover h4 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .portGridQtr .portHover h4 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .contactTxt h3,.contactTxt h2 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .ContactFld .submitBtn {
+        height: 44px;
+    }
+    .OurCoreProducts h2 {
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .portHover p {
+        margin-top: 10px;
+    }
+    .AboutPage .TechCompanySec .sec1heading {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .AboutPage .TechCompanySec .sec2heading {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .AboutGameChangeBox h2 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .AboutGameChangeBox p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .OfferServicesSec p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .OfferServicesSec h2 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .OfferServicesSec h2 br {
+        display: none;
+    }
+    .OfferServicesBox {
+        max-width: inherit;
+        height: 80px;
+    }
+    .OfferServicesImg {
+        width: 80px;
+        height: 80px;
+    }
+    .OfferServicestxt {
+        width: calc(100% - 80px);
+        text-align: left;
+        padding-left: 20px;
+        top: 50%;
+        position: relative;
+        transform: translateY(-50%);
+    }
+    .OfferServicestxt h3 {
+        font-size: 16px;
+        line-height: 20px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+    .ServingtelecomBox h2 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .ServingtelecomBox p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .ServingtelecomBox h3 {
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .ServingtelecomBox p strong {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .ServingtelecomImgs ul li .jazzicon {
+        width: 45px;
+    }
+    .ServingtelecomImgs ul li .zongicon {
+        width: 70px;
+    }
+    .ServingtelecomImgs ul li .telenoricon {
+        width: 70px;
+    }
+    .ServingtelecomImgs ul li .ufoneicon {
+        width: 60px;
+    }
+    .ServingtelecomImgs ul li {
+        margin: 0 5px;
+    }
+    .EntertainmentSec .mjunoonlogo {
+        max-width: 120px;
+    }
+    .EntertainmentSec h3 {
+        font-size: 24px;
+        line-height: 30px;
+        max-width: 230px;
+    }
+    .EntertainmentSec ul li p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .EntertainmentSec ul li p ~ p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .EntertainmentBtn a {
+        margin-bottom: 10px;
+    }
+    .AboutPage .gridSec:before {
+        top: 35%;
+        height: 50%;
+    }
+    .JustStartedTxt h2 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .JustStartedTxt p strong {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .BtnGradiant {
+        height: 44px;
+        border-radius: 25px;
+        line-height: 42px;
+        font-size: 14px;
+    }
+    .NotableWorkSec h2 {
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .NotableWorktxt h3 {
+        font-size: 20px;
+        line-height: 24px;
+        margin-bottom: 10px;
+    }
+    .SplitBoxInner h4 {
+        font-size: 20px;
+        line-height: 24px;
+        margin-bottom: 10px;
+    }
+    .TabsSec h2 {
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .mobTabsBtn {
+        height: 44px;
+    }
+    .mobTabsBtn p {
+        line-height: 24px;
+    }
+    .mobTabsBtn ul li a {
+        line-height: 24px;
+    }
+    .aditionBox h3 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .TabsSec .HelpYouTxtBox {
+        max-width: inherit;
+        width: calc(100% - 58px);
+    }
+    .HowWeHelpYouSec h2 {
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .HelpYouIconBox {
+        width: 58px;
+        height: 58px;
+        padding: 5px;
+    }
+    .HelpYouTxtBox h4,.HelpYouTxtBox h3 {
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 0;
+    }
+    .HelpYouTxtBox {
+        width: calc(100% - 58px);
+        padding-left: 15px;
+        padding-top: 10px;
+    }
+    .ClientSec .OurCoreProductsSlider li {
+        margin: 10px;
+    }
+    .ClientSec .OurCoreProductsSlider li a {
+        width: 65px;
+    }
+    .FAQSec h2 {
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .FAQBox .uk-accordion-title {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .PortfolioHeader h1, .CasestudiesHeader h1 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .PortfolioHeader p, .CasestudiesHeader p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .CasestudiesBox li {
+        width: 100%;
+        margin-top: 30px;
+    }
+    .CasestudiesBox li:nth-child(2) {
+        margin-top: 30px;
+    }
+    .CasestudiesBox li:nth-child(3) {
+        margin-top: 30px;
+    }
+    .WhatsappWithWPCont h2 {
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .WhatsappWithWPImg {
+        padding: 15px;
+        float: left;
+        width: 80px;
+        padding: 0;
+    }
+    .WhatsappWithWPImg svg {
+        width: 100%;
+    }
+    .WhatsappWithWPBox:hover .WhatsappWithWPImg {
+        transform: translate(0);
+    }
+    .WhatsappWithWPTxt {
+        float: left;
+        max-width: inherit;
+        width: calc(100% - 100px);
+        text-align: left;
+        height: 100%;
+        padding-left: 20px;
+    }
+    .WhatsappWithWPTxt p {
+        transform: translateY(-50%);
+        position: relative;
+        top: 50%;
+    }
+    .WhatsappWithWPBox:hover .WhatsappWithWPTxt {
+        transform: translate(0);
+    }
+    .ElevateHead h2 {
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .ElevateHead p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .MadvertiserPage .ServingtelecomBox h3 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .MadvertiserPage .ServingtelecomBox h2 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .MadvertiserPage .ServingtelecomBox p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .ProfileingDHead h2 {
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .ProfileingDHead p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .ProfileingDImg {
+        width: 54px;
+        height: 54px;
+        padding: 10px;
+        margin-left: 3px;
+    }
+    .ProfileingDBox ul li a span {
+        font-size: 10px;
+        line-height: 16px;
+    }
+    .ProfileingDBox ul li a {
+        width: 60px;
+    }
+    .ProfileingDBox ul li {
+        float: none;
+        display: inline-block;
+        margin: 0 6px;
+    }
+    .ProfileingDBox ul li:first-child {
+        margin-left: 6px;
+    }
+    .ProfileingDBox ul li:last-child {
+        margin-right: 6px;
+    }
+    .ServiciesText h3 {
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .ServiciesCLouds ul {
+        text-align: center;
+    }
+    .ServiciesCLouds ul li {
+        float: none;
+        display: inline-block;
+        margin: 5px 3px;
+        font-size: 10px;
+        border-radius: 15px;
+        padding: 5px 10px;
+    }
+    .SeoHeader h1 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .SeoHeader p strong {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .SeoHeader p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .SeoFld input {
+        height: 44px;
+        padding: 10px;
+    }
+    .SeoFld select {
+        height: 44px;
+        padding: 10px;
+        width: 80px;
+    }
+    .SeoFld.SeoNumber input {
+        width: calc(100% - 80px);
+    }
+    .SeoFld .SeoBtn {
+        height: 44px;
+    }
+    .B2bB2cSec h2 {
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .B2bB2cBox ul li {
+        width: 100%;
+    }
+    .WhatsappHeader p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .WhatsappHeader h1 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .CasestudiesInnerHeader h1 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .CasestudiesInnerHeader p {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .CasestudiesInnerHeader a {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .BusinessChallenge h3 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .CSINumber h4 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .loader-block {
+        height: 200px;
+    }
+    .loader-word {
+        height: 50px;
+    }
+
+    .loader-word-inside {
+        height: 50px;
+    }
+    .filterGrid {  
+        /*-webkit-column-count: 1; 
+        -moz-column-count: 1;
+        column-count: 1;
+        -webkit-column-width: 100%;
+        -moz-column-width: 100%;
+        column-width: 100%;*/
+    }
+    .mobFilterBtn {
+        height: 44px;
+    }
+    .mobFilterBtn ul { 
+        float: left;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        position: absolute;
+        z-index: 1;
+        display: none;
+        left: 0;
+        top: 50px;
+        background-color: #F5F5F5;
+    }
+    .PortfolioHeader .mobFilterBtn p {
+        line-height: 24px;
+    }
+    .mobFilterBtn ul li a {
+        line-height: 24px;
+    }
+    .ThankyouModal h2 {
+        font-size: 28px;
+        line-height: 32px;
+    }
+    .ThankyouModal .uk-modal-dialog {
+        padding: 40px 20px 30px;
+    }
+     .ContactCaptchaStyle {
+        transform: scale(1);
+        transform-origin: 0 0;
+    }
+    .CenterTop {
+        width: 50%;
+    }
+    .CenterTop a {
+        white-space: inherit;
+        font-size: 10px;
+    }
+    .LeftTop {
+        width: 50%;
+    }
+    .WAApiSpan { 
+        padding: 8px 16px;
+        font-size: 10px;
+        line-height: 8px;
+    }
+    .slider_cont .SliderHeading {
+        font-size: 22px;
+        line-height: 28px;
+        margin-top: 0;
+    }
+    .slider_cont .SliderHeading span {
+        height: 34px;
+    }
+    .homeSlider .uk-dotnav {
+        display: none;
+    }
+    .PrivacyPolicySec h1 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .Header404 h1 {
+        font-size: 120px;
+    }
+    .ClientSec .OurCoreProductsSlider .portfolio_items li {
+        width: auto;
+        margin: 10px;
+    }
+}
+@media screen and (max-width: 400px){
+    .BtnWithIcon {
+        margin-top: 0;
+        width: 140px;
+    }
+    .BtnWithIcon svg {
+        width: 18px;
+        margin-top: 0px;
+    }
+    .BtnWithIcon:hover svg {
+        width: 18px;
+        margin-top: 0px;
+    }
+    .loader-block {
+        height: 170px;
+    }
+    .loader-word {
+        height: 40px;
+    }
+
+    .loader-word-inside {
+        height: 40px;
+    }
+}
+@media screen and (max-width: 374px){
+    .OurCoreProducts h2,.OurCoreProducts.wbs h2 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+}
+@media screen and (max-width: 359px){
+    .isoCertified {
+        font-size: 12px;
+        max-width: 140px;
+        bottom: 35px;
+    }
+    .googlePartner {
+        width: 120px;
+    }
+     .ContactCaptchaStyle {
+        transform: scale(0.85);
+        transform-origin: 0 0;
+    }
+    .slider_cont .SliderHeading {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .MobileMenuBtn svg{
+        color:#000
+    }
+}
