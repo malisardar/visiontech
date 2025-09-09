@@ -23,12 +23,11 @@ include 'header.php';
 					</h1>
 					<div class="" uk-grid="">
 						<div class="uk-width-auto" uk-scrollspy="cls:uk-animation-fade; delay: 1300">
-							<a class="BtnWithArrow hdranim showcontactformbtn" href="#ContactSec" uk-scroll>Contact an
-								Expert <img src="images/arrow_forward.svg" uk-svg="" /></a>
+							<a class="BtnWithArrow hdranim showcontactformbtn" href="#ContactSec" uk-scroll>Get Started <img src="images/arrow_forward.svg" uk-svg="" /></a>
 						</div>
-						<!-- <div class="uk-width-auto" uk-scrollspy="cls:uk-animation-fade; delay: 1500" uk-lightbox="video-autoplay: true;">
-						<a class="BtnWithIcon hdranim" href="video/showreel_digital.mp4" ><img src="images/playicon.svg" uk-svg="" /> <span>Play Showreel</span></a>
-					</div> -->
+					 <div class="uk-width-auto" uk-scrollspy="cls:uk-animation-fade; delay: 1500" >
+						<a class="BtnWithIcon hdranim" href="portfolio.php" ><img src="images/playicon.svg" uk-svg="" /> <span>Portfolio</span></a>
+					</div>
 					</div>
 					<!-- <div class="HomeBtm" uk-scrollspy="cls:uk-animation-fade; delay: 1500">
 						<div class="partnerlogo">
