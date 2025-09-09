@@ -27,7 +27,7 @@ include 'header.php';
 	<div class="mdl">
 		<div class="mdl_inner">
 			<div class="uk-container ContainerCustom opacitytoggle">
-				<p uk-scrollspy="cls:uk-animation-fade; delay: 500">Creative Design</p>
+				<p uk-scrollspy="cls:uk-animation-fade; delay: 500">Branding</p>
 				<h1 class="heading" uk-scrollspy="cls:uk-animation-fade; delay: 1000">
 					DESIGNS THAT MOVE <br>
 					PEOPLE, UPLIFT BRANDS, <br>

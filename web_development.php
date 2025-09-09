@@ -27,11 +27,9 @@ include 'header.php';
 	<div class="mdl">
 		<div class="mdl_inner">
 			<div class="uk-container ContainerCustom opacitytoggle">
-				<p uk-scrollspy="cls:uk-animation-fade; delay: 500">Creative Design</p>
+				<p uk-scrollspy="cls:uk-animation-fade; delay: 500">Web Development</p>
 				<h1 class="heading" uk-scrollspy="cls:uk-animation-fade; delay: 1000">
-					DESIGNS THAT MOVE <br>
-					PEOPLE, UPLIFT BRANDS, <br>
-					AND DRIVE CONNECTIONS
+					Seamless Web Interfaces <br> for Better Digital Experiences
 				</h1>
 				<div class="" uk-grid="">
 					<div class="uk-width-auto" uk-scrollspy="cls:uk-animation-fade; delay: 1300">
@@ -61,13 +59,14 @@ include 'header.php';
 		<!-- 2nd Section Start -->
 		<section class="TechCompanySec uk-text-center">
 			<div class="uk-container ContainerCustom">
-				<h6 class="sec1heading AnimFade">DESIGNS WE CREATE ARE INSPIRED BY IDEAS THAT RESONATE</h6>
-				<h2 class="sec2heading AnimFade">Under the shadow of excellence, we create creativity</h2>
+				<h6 class="sec1heading AnimFade">Web to Digital Experience — We Build It All</h6>
+				<h2 class="sec2heading AnimFade">Web design that builds amazing digital experiences. </h2>
 				<div class="toggleBtnBox">
 					<button class="toggleBtn"><img src="images/explorermore.svg" uk-svg="" /></button>
 				</div>
 				<div class="toggleBox">
-					<div class="pmdm"><p>We are a creative design & branding agency that works full time to conceptualize the passion and ideas behind brands to create unique products and journeys. </p></div>
+					<div class="pmdm"><p>We build websites that go beyond visuals. Our focus is on creating smooth, intuitive, and engaging user experiences that make your brand stand out. From sleek interfaces to responsive layouts, every detail is carefully designed to make your site both functional and visually appealing.</p></div>
+					<div class="pmdm"><p>We don’t just design websites; we design digital experiences. Whether you’re a startup or an established brand, we ensure your platform tells your story, keeps visitors engaged, and helps you achieve real results.</p></div>
 					
 					
 				</div>
