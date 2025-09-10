@@ -4585,8 +4585,8 @@ body.loaded .loader-block {
 .DigitalMarketingHeader .BtnWithArrow,
 .PaidMediaHeader .BtnWithArrow,
 .TagManagerHeader .BtnWithArrow {
-	background: url(../images/yellowbtn.jpg) -2px -2px no-repeat;
-	background-size: calc(100% + 4px) calc(100% + 4px)
+	    background: linear-gradient(to right, #2e7be5, #a663cc);
+	
 }
 
 .AudioVideoHeader .BtnWithIcon span:before,
@@ -6815,3 +6815,11 @@ padding: 20px;
     z-index: 1000;
     background-image: url(images/logo-whatsapp-png-46044.png);
 }
+  .character {
+      position: absolute;
+    left: 0;
+    top: -130px;
+    width: 262px;
+    transition: transform 0.2s linear;
+    pointer-events: none;
+    }

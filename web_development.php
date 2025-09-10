@@ -79,8 +79,8 @@ include 'header.php';
 			<div class="uk-container ContainerCustom">
 				<span class="borderTop"></span>
 				<div class="AboutGameChangeBox">
-					<h2 class="AnimFade">TIMELESS DESIGNS THAT INSPIRE</h2>
-					<p class="AnimFade">Creating brand identities is essential to set oneself apart from the rest. As a creative design & branding agency, we understand work patterns and ideas that fuel the brand; first, create logos that greet your customers and give your workplace the sparkle it needs.</p>
+					<h2 class="AnimFade">What Sets Us Apart?</h2>
+					<p class="AnimFade">We design with both users and businesses in mind. Our team blends creativity with strategy to create websites that not only impress but also perform. Each design is custom-made to reflect your brand identity while keeping user experience at the core.</p>
 					<div class="vidImgBox AnimSlide">
 						<img src="images/creativedesign/timeless.jpg" />
 					</div>
@@ -92,9 +92,9 @@ include 'header.php';
 		<section class="OfferServicesSec uk-text-center beforeContainer">
 			<img class="before" src="images/clouddev/contactbg.jpg" />
 			<div class="uk-container ContainerCustom">
-				<p class="AnimFade">Designing powerful brand identities</p>
+			
 				<h2 class="AnimFade">
-					A CANVAS OF DESIGNS THAT <br> EDUCATES, CREATES AND SELLS
+					Web Development Services
 				</h2>
 				<div class="uk-flex-center" uk-grid="">
 					<div class="uk-width-1-5@m uk-width-1-3@s uk-width-1-2@s">
@@ -103,7 +103,7 @@ include 'header.php';
 								<img src="images/creativedesign/ic-creative-design01.svg" uk-svg="" />
 							</div>
 							<div class="OfferServicestxt">
-								<h3>Logo <br> design</h3>
+								<h3>Custom Website <br> Design & Development</h3>
 							</div>
 						</div>
 					</div>
@@ -113,7 +113,7 @@ include 'header.php';
 								<img src="images/creativedesign/ic-creative-design02.svg" uk-svg="" />
 							</div>
 							<div class="OfferServicestxt">
-								<h3>Graphic <br> design</h3>
+								<h3>Shopify Store Setup</h3>
 							</div>
 						</div>
 					</div>
@@ -123,7 +123,7 @@ include 'header.php';
 								<img src="images/creativedesign/ic-creative-design03.svg" uk-svg="" />
 							</div>
 							<div class="OfferServicestxt">
-								<h3>Communication <br> design</h3>
+								<h3>WordPress Development</h3>
 							</div>
 						</div>
 					</div>
@@ -133,7 +133,17 @@ include 'header.php';
 								<img src="images/creativedesign/ic-creative-design04.svg" uk-svg="" />
 							</div>
 							<div class="OfferServicestxt">
-								<h3>UI/UX <br> design</h3>
+								<h3>Ecommerce Website Development</h3>
+							</div>
+						</div>
+					</div>
+					<div class="uk-width-1-5@m uk-width-1-3@s uk-width-1-2@s">
+						<div class="OfferServicesBox AnimSlide">
+							<div class="OfferServicesImg">
+								<img src="images/creativedesign/ic-creative-design04.svg" uk-svg="" />
+							</div>
+							<div class="OfferServicestxt">
+								<h3>Website Maintenance & Updates</h3>
 							</div>
 						</div>
 					</div>

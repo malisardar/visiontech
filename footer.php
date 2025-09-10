@@ -1,8 +1,10 @@
 
 
 	<!-- Desktop Footer Start -->
-	<footer class="DesktopFooter">
+	<footer class="DesktopFooter" id="footer">
+		<img src="images/rr.png" alt="Character" class="character" id="character">
 		<div class="uk-container ContainerCustom">
+			
 			<!-- Footer Links Start -->
 			<div class="ftr_grd">
 				<div class="" uk-grid="">
@@ -392,6 +394,28 @@
 	<script src="js/masonry.pkgd.min.js"></script>
 	<script src="js/custom.js"></script>
 	<script src="js/homejs.js"></script>
+	<script>
+    const footer = document.getElementById('footer');
+    const character = document.getElementById('character');
+
+    window.addEventListener('scroll', () => {
+      const footerRect = footer.getBoundingClientRect();
+      const windowHeight = window.innerHeight;
+
+      // visible height of footer
+      const visible = Math.max(0, windowHeight - footerRect.top);
+      const total = Math.min(windowHeight, footerRect.height);
+
+      let scrollFraction = visible / total;
+      scrollFraction = Math.min(Math.max(scrollFraction, 0), 1);
+
+      // 🔑 Slow down movement by reducing distance
+      const maxMovement = (footer.clientWidth - character.clientWidth) * 0.4; 
+      const moveX = scrollFraction * maxMovement;
+
+      character.style.transform = `translateX(${moveX}px)`;
+    });
+  </script>
 </body>
 
 </html>
