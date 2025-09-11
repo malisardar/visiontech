@@ -95,7 +95,7 @@ include 'header.php';
 										<h3 class="subheading">Logo Design</h3>
 										<p>Professional static and animated logos that reflect your gaming identity and make your brand stand out.</p>
 										<a id='linkclick0' href="#!">
-											Read More <img src="images/arrow_forward.svg" uk-svg="" /></a>
+											Get Started <img src="images/arrow_forward.svg" uk-svg="" /></a>
 									</div>
 								</div>
 								<div class="uk-width-1-4@l uk-width-1-3@m uk-width-1-2@s">
@@ -104,7 +104,7 @@ include 'header.php';
 										<h3 class="subheading">Intro & Outro</h3>
 										<p>Engaging intros and outros that create excitement at the start and leave a strong impression at the end of your streams.</p>
 										<a id='linkclick1' href="#!">
-											Read More <img src="images/arrow_forward.svg" uk-svg="" /></a>
+											Get Started <img src="images/arrow_forward.svg" uk-svg="" /></a>
 									</div>
 								</div>
 								<div class="uk-width-1-4@l uk-width-1-3@m uk-width-1-2@s">
@@ -113,7 +113,7 @@ include 'header.php';
 										<h3 class="subheading">Animations (2D & 3D)</h3>
 										<p>High-quality 2D and 3D animations that bring your gaming stories, ideas, and characters to life.</p>
 										<a id='linkclick2' href="#!">
-											Read More <img src="images/arrow_forward.svg" uk-svg="" /></a>
+											Get Started <img src="images/arrow_forward.svg" uk-svg="" /></a>
 									</div>
 								</div>
 								<div class="uk-width-1-4@l uk-width-1-3@m uk-width-1-2@s">
@@ -122,7 +122,7 @@ include 'header.php';
 										<h3 class="subheading">Banner Design</h3>
 										<p>Custom banners for Twitch, YouTube, and social media designed to highlight your gaming style and grab attention.</p>
 										<a id='linkclick3' href="#!">
-											Read More <img src="images/arrow_forward.svg" uk-svg="" /></a>
+											Get Started <img src="images/arrow_forward.svg" uk-svg="" /></a>
 									</div>
 								</div>
 								<div class="uk-width-1-4@l uk-width-1-3@m uk-width-1-2@s">
@@ -131,7 +131,7 @@ include 'header.php';
 										<h3 class="subheading">Digital Marketing</h3>
 										<p>Smart digital marketing with social media, SEO, and ads to increase reach, attract customers, and grow sales.</p>
 										<a id='linkclick4' href="#!">
-											Read More <img src="images/arrow_forward.svg" uk-svg="" /></a>
+											Get Started <img src="images/arrow_forward.svg" uk-svg="" /></a>
 									</div>
 								</div>
 								<div class="uk-width-1-4@l uk-width-1-3@m uk-width-1-2@s">
@@ -140,7 +140,7 @@ include 'header.php';
 										<h3 class="subheading">Stream Overlay</h3>
 										<p>Well-designed overlays that give your streams a professional look and keep your audience focused and engaged.</p>
 										<a id='linkclick5' href="#!">
-											Read More <img src="images/arrow_forward.svg" uk-svg="" /></a>
+											Get Started <img src="images/arrow_forward.svg" uk-svg="" /></a>
 									</div>
 								</div>
 								<div class="uk-width-1-4@l uk-width-1-3@m uk-width-1-2@s HideonMob">
@@ -159,7 +159,7 @@ include 'header.php';
 										<h3 class="subheading">VTuber & Custom Models</h3>
 										<p>Custom VTuber avatars and models that showcase your unique gamer personality and enhance your streaming presence.</p>
 										<a id='linkclick7' href="#!">
-											Read More <img src="images/arrow_forward.svg" uk-svg="" /></a>
+											Get Started <img src="images/arrow_forward.svg" uk-svg="" /></a>
 									</div>
 								</div>
 								<div class="uk-width-1-4@l uk-width-1-3@m uk-width-1-2@s HideonMob">
@@ -168,7 +168,7 @@ include 'header.php';
 										<h3 class="subheading">Video Editing</h3>
 										<p>Professional video editing that transforms raw clips into engaging content with smooth transitions and clear effects.</p>
 										<a id='linkclick8' href="#!">
-											Read More <img src="images/arrow_forward.svg" uk-svg="" /></a>
+											Get Started <img src="images/arrow_forward.svg" uk-svg="" /></a>
 									</div>
 								</div>
 								<div class="uk-width-1-4@l uk-width-1-3@m uk-width-1-2@s HideonMob">
@@ -177,7 +177,7 @@ include 'header.php';
 										<h3 class="subheading">Comic Book</h3>
 										<p>Custom comic book design with unique characters, creative panels, and storytelling tailored to your ideas.</p>
 										<a id='linkclick9' href="#!">
-											Read More <img src="images/arrow_forward.svg" uk-svg="" /></a>
+											Get Started <img src="images/arrow_forward.svg" uk-svg="" /></a>
 									</div>
 								</div>
 								<div class="uk-width-1-4@l uk-width-1-3@m uk-width-1-2@s HideonMob">
@@ -186,7 +186,7 @@ include 'header.php';
 										<h3 class="subheading">Branding</h3>
 										<p>Complete branding solutions including logos, colors, and guidelines to give your business a strong, consistent identity.</p>
 										<a id='linkclick10' href="#!">
-											Read More <img src="images/arrow_forward.svg" uk-svg="" /></a>
+											Get Started <img src="images/arrow_forward.svg" uk-svg="" /></a>
 									</div>
 								</div>
 								<div class="uk-width-1-4@l uk-width-1-3@m uk-width-1-2@s HideonMob">
@@ -195,7 +195,7 @@ include 'header.php';
 										<h3 class="subheading">Web Development</h3>
 										<p>Modern, responsive, and user-friendly websites designed to represent your brand and boost online success.</p>
 										<a id='linkclick11' href="#!">
-											Read More <img src="images/arrow_forward.svg" uk-svg="" /></a>
+											Get Started <img src="images/arrow_forward.svg" uk-svg="" /></a>
 									</div>
 								</div>
 							</div>
