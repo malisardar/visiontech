@@ -8,7 +8,7 @@ include 'header.php';
 	<!-- First Section Start -->
 	<section class="HomeHeader">
 		 <div class="headerimagezoom uk-visible@m" style="background-image: url(images/35.jpg);"></div> 
-		<!-- <div class="headerimagezoom uk-hidden@m" style="background-image: url(images/headerbgmobile.jpg);"></div> -->
+		 <div class="headerimagezoom uk-hidden@m" style="background-image: url(images/35.jpg);"></div>
 		<div class="mdl">
 			<div class="mdl_inner">
 				<div class="uk-container ContainerCustom">
