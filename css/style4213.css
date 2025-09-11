@@ -644,15 +644,12 @@ background: linear-gradient(90deg,rgba(18, 6, 59, 1) 0%, rgba(9, 85, 92, 1) 100%
 
 .HomeHeader {
 	width: 100%;
-	height: 680px !important;
+	height: 100%;
 	background-color: #000;
 	position: relative;
 	min-height: 650px
 }
-.SplitBoxInner img {
-    top: -160px;
-    position: relative;
-}
+
 @keyframes headerZoom {
 
 	0%,
@@ -669,7 +666,6 @@ background: linear-gradient(90deg,rgba(18, 6, 59, 1) 0%, rgba(9, 85, 92, 1) 100%
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	
     top: 50%;
     left: 50%;
     background-size: cover;
@@ -710,7 +706,7 @@ background: linear-gradient(90deg,rgba(18, 6, 59, 1) 0%, rgba(9, 85, 92, 1) 100%
 	width: 100%;
 	margin: 10px 0 20px;
 	color: #fff;
-	font-size: 60px;
+	font-size: 80px;
 	line-height: 95px
 }
 
@@ -1717,7 +1713,7 @@ footer {
 .SplitBoxInner {
 	float: left;
 	width: 100%;
-	max-width: 800px;
+	max-width: 640px;
 	text-align: left;
 	z-index: 1
 }
@@ -1728,11 +1724,9 @@ footer {
 }
 
 .Split2 .SplitBoxInner {
-	padding-left: 15%;
+	padding-left: 15%
 }
-.Split3 .SplitBoxInner3 {
-	padding-left: 0%;
-}
+
 .splitoverlay {
 	background-repeat: no-repeat;
 	background-size: 100% 100%;

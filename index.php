@@ -8,14 +8,13 @@ include 'header.php';
 	<!-- First Section Start -->
 	<section class="HomeHeader">
 
-	<div class="uk-grid-collapse" uk-grid="">
-					<div class="uk-width-1-2@m">
-						<a href="#!" class="SplitBox Split1">
-							<div class="splitoverlay" style="background-image: url(images/bggg.jpg);"></div>
-							<div class="mdl">
-								<div class="mdl_inner">
-									<div class="SplitBoxInner">
-											<p class="hdranim" uk-scrollspy="cls:uk-animation-fade; delay: 500">Top Notch Design Agency</p>
+	
+		 <div class="headerimagezoom uk-visible@m" style="background-image: url(images/35.jpg);"></div> 
+		 <div class="headerimagezoom uk-hidden@m" style="background-image: url(images/35.jpg);"></div>
+		<div class="mdl">
+			<div class="mdl_inner">
+				<div class="uk-container ContainerCustom">
+					<p class="hdranim" uk-scrollspy="cls:uk-animation-fade; delay: 500">Top Notch Design Agency</p>
 					<h1 class="heading hdranim">
 						<span class="TypewriterEffect" data-period="1000"
 							data-type='[ "Next-Gen Streams ", "for Next-Gen Play" ]'
@@ -24,27 +23,41 @@ include 'header.php';
 						</span>
 						<strong uk-scrollspy="cls:uk-animation-fade; delay: 3500">Design Solutions</strong>
 					</h1>
-									</div>
-								</div>
-							</div>
-						</a>
+					<div class="" uk-grid="">
+						<div class="uk-width-auto" uk-scrollspy="cls:uk-animation-fade; delay: 1300">
+							<a class="BtnWithArrow hdranim showcontactformbtn" href="#ContactSec" uk-scroll>Get Started <img src="images/arrow_forward.svg" uk-svg="" /></a>
+						</div>
+					 <div class="uk-width-auto" uk-scrollspy="cls:uk-animation-fade; delay: 1500" >
+						<a class="BtnWithIcon hdranim" href="portfolio.php" ><img src="images/playicon.svg" uk-svg="" /> <span>Portfolio</span></a>
 					</div>
-					<div class="uk-width-1-2@m">
-						<a href="#!" class="SplitBox Split2">
-							<div class="splitoverlay"></div>
-							<div class="mdl">
-								<div class="mdl_inner">
-									<div class="SplitBoxInner">
-										<img src="images/ss.png"/>
-									</div>
-								</div>
-							</div>
-						</a>
 					</div>
+					<!-- <div class="HomeBtm" uk-scrollspy="cls:uk-animation-fade; delay: 1500">
+						<div class="partnerlogo">
+
+							<a href="#!" target="_blank">
+								<img src="images/google-partner.svg" alt="" />
+							</a>
+							<a href="#!" target="_blank">
+								<img src="images/about/metasize.png" alt="" />
+							</a>
+							<a href="#!" target="_blank">
+								<img src="images/about/pashasize.png" alt="" />
+							</a>
+
+							<a href="#!" target="_blank">
+								<img src="images/about/ptasize.png" alt="" />
+							</a>
+							<a href="#!" target="_blank" class="pemra2">
+								<img src="images/about/PEMRANewSize.png" alt="" />
+							</a>
+							<a href="#!" target="_blank" class="">
+								<img src="images/about/AssetNew.png" alt="" />
+							</a>
+						</div>
+					</div> -->
+				</div>
+			</div>
 		</div>
-		 <div class="headerimagezoom uk-visible@m" style="background-image: url(images/35.jpg);"></div> 
-		 <div class="headerimagezoom uk-hidden@m" style="background-image: url(images/35.jpg);"></div>
-	
 		
 	</section>
 	<!-- First Section End -->
