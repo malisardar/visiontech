@@ -100,7 +100,16 @@
 			<!-- Menu Start -->
 
 			<ul class="MainMenu">
+<li>
 
+					<a href="portfolio.php">Home</a>
+
+				</li>
+				<li>
+
+					<a href="portfolio.php">About Us</a>
+
+				</li>
 
 				<li class="SubMenu" uk-scrollspy="cls: uk-animation-fade; target: .AnimFade; delay: 100">
 
