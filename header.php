@@ -102,7 +102,7 @@
 			<ul class="MainMenu">
 <li>
 
-					<a href="portfolio.php">Home</a>
+					<a href="index.php">Home</a>
 
 				</li>
 				<li>

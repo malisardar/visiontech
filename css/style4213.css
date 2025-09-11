@@ -644,7 +644,7 @@ background: linear-gradient(90deg,rgba(18, 6, 59, 1) 0%, rgba(9, 85, 92, 1) 100%
 
 .HomeHeader {
 	width: 100%;
-	height: 100%;
+	height: 680px !important;
 	background-color: #000;
 	position: relative;
 	min-height: 650px
@@ -707,7 +707,7 @@ background: linear-gradient(90deg,rgba(18, 6, 59, 1) 0%, rgba(9, 85, 92, 1) 100%
 	width: 100%;
 	margin: 10px 0 20px;
 	color: #fff;
-	font-size: 80px;
+	font-size: 60px;
 	line-height: 95px
 }
 
@@ -1725,9 +1725,11 @@ footer {
 }
 
 .Split2 .SplitBoxInner {
-	padding-left: 15%
+	padding-left: 15%;
 }
-
+.Split3 .SplitBoxInner3 {
+	padding-left: 0%;
+}
 .splitoverlay {
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
