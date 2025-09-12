@@ -2,7 +2,7 @@
 
 	<!-- Desktop Footer Start -->
 	<footer class="DesktopFooter" id="footer">
-		<img src="images/rr.png" alt="Character" class="character" id="character">
+		<img src="images/mario.png" alt="Character" class="character" id="character">
 		<div class="uk-container ContainerCustom">
 			
 			<!-- Footer Links Start -->
@@ -11,19 +11,28 @@
 					<div class="uk-width-1-3">
 						<div class="ftrCDetails">
 							<img src="images/logowhite.png" />
-							<h5>Innovations begin with collaborations</h5>
+							<h5>Streams that get more viewers</h5>
 							<!-- <p><strong>Do you have a project or a question? Let us know. </strong></p>
                         <p>Innovations begin with collaborations</p> -->
-							<a href="#!">Get in touch <img src="images/arrow_forward.svg" uk-svg="" /></a>
+							<a href="contact-us.php">Get in touch <img src="images/arrow_forward.svg" uk-svg="" /></a>
 						</div>
 					</div>
 					<div class="uk-width-2-3">
 						<div class="" uk-grid="">
 							<div class="uk-width-1-5@m uk-width-1-2@s">
 								<ul class="ftrLink">
-							
 									<li>
-										<a href="portfolio.php">PORTFOLIO</a>
+<a href="javascript:;">Quick Links</a>
+									</li>
+								
+									<li>
+										<a href="portfolio.php">Home</a>
+									</li>
+	<li>
+										<a href="portfolio.php">About Us</a>
+									</li>
+	<li>
+										<a href="contact-us.php">Contact Us</a>
 									</li>
 
 
@@ -31,6 +40,10 @@
 							</div>
 							<div class="uk-width-1-5@m uk-width-1-2@s">
 								<ul class="ftrLink">
+										<li>
+<a href="javascript:;">Services</a>
+									</li>
+								
 									<li>
 										<a href="javascript:;">Branding</a>
 										<div uk-dropdown="pos: right-center">
@@ -122,7 +135,7 @@
 
 							<div class="uk-width-1-5@m uk-width-1-3@s">
 								<address>
-									<p><strong>UK</strong></p>
+									<p><strong>Pakistan</strong></p>
 									<p>Vision Tech</p>
 									<p>IG1 1YLC, Ilford, Seven kings </p>
 									<p><a href="callto:+4451241241241">+44 34327149</a><br>

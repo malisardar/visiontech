@@ -31,30 +31,22 @@ include 'header.php';
 						<a class="BtnWithIcon hdranim" href="portfolio.php" ><img src="images/playicon.svg" uk-svg="" /> <span>Portfolio</span></a>
 					</div>
 					</div>
-					<!-- <div class="HomeBtm" uk-scrollspy="cls:uk-animation-fade; delay: 1500">
+				<div class="HomeBtm" uk-scrollspy="cls:uk-animation-fade; delay: 1500">
 						<div class="partnerlogo">
 
 							<a href="#!" target="_blank">
-								<img src="images/google-partner.svg" alt="" />
+								<img src="images/productslogo/Twitch.png" alt="" />
 							</a>
 							<a href="#!" target="_blank">
-								<img src="images/about/metasize.png" alt="" />
+								<img src="images/productslogo/Discord.png" alt="" />
 							</a>
 							<a href="#!" target="_blank">
-								<img src="images/about/pashasize.png" alt="" />
+								<img src="images/productslogo/Steam.png" alt="" />
 							</a>
 
-							<a href="#!" target="_blank">
-								<img src="images/about/ptasize.png" alt="" />
-							</a>
-							<a href="#!" target="_blank" class="pemra2">
-								<img src="images/about/PEMRANewSize.png" alt="" />
-							</a>
-							<a href="#!" target="_blank" class="">
-								<img src="images/about/AssetNew.png" alt="" />
-							</a>
+							
 						</div>
-					</div> -->
+					</div> 
 				</div>
 			</div>
 		</div>
@@ -68,7 +60,7 @@ include 'header.php';
 				<div class="uk-container ContainerCustom">
 					<div class="howCanHelp">
 						<p class="AnimSlide">How can we help?</p>
-						<a class="AnimFade" href="#!"><img src="images/inventory.svg" uk-svg="" /> Portfolio</a>
+						<a class="AnimFade" href="portfolio.php"><img src="images/inventory.svg" uk-svg="" /> Portfolio</a>
 						
 					</div>
 				</div>
@@ -96,7 +88,7 @@ include 'header.php';
 										uk-toggle="target: .imgNum1; mode: hover; cls: active">
 										<h3 class="subheading">Logo Design</h3>
 										<p>Professional static and animated logos that reflect your gaming identity and make your brand stand out.</p>
-										<a id='linkclick0' href="#!">
+										<a id='linkclick0' href="logo_design.php">
 											Get Started <img src="images/arrow_forward.svg" uk-svg="" /></a>
 									</div>
 								</div>
@@ -105,7 +97,7 @@ include 'header.php';
 										uk-toggle="target: .imgNum2; mode: hover; cls: active">
 										<h3 class="subheading">Intro & Outro</h3>
 										<p>Engaging intros and outros that create excitement at the start and leave a strong impression at the end of your streams.</p>
-										<a id='linkclick1' href="#!">
+										<a id='linkclick1' href="intro_outro.php">
 											Get Started <img src="images/arrow_forward.svg" uk-svg="" /></a>
 									</div>
 								</div>
@@ -114,7 +106,7 @@ include 'header.php';
 										uk-toggle="target: .imgNum3; mode: hover; cls: active">
 										<h3 class="subheading">Animations (2D & 3D)</h3>
 										<p>High-quality 2D and 3D animations that bring your gaming stories, ideas, and characters to life.</p>
-										<a id='linkclick2' href="#!">
+										<a id='linkclick2' href="animations.php">
 											Get Started <img src="images/arrow_forward.svg" uk-svg="" /></a>
 									</div>
 								</div>
@@ -123,7 +115,7 @@ include 'header.php';
 										uk-toggle="target: .imgNum4; mode: hover; cls: active">
 										<h3 class="subheading">Banner Design</h3>
 										<p>Custom banners for Twitch, YouTube, and social media designed to highlight your gaming style and grab attention.</p>
-										<a id='linkclick3' href="#!">
+										<a id='linkclick3' href="banner_design.php">
 											Get Started <img src="images/arrow_forward.svg" uk-svg="" /></a>
 									</div>
 								</div>
@@ -132,7 +124,7 @@ include 'header.php';
 										uk-toggle="target: .imgNum5; mode: hover; cls: active">
 										<h3 class="subheading">Digital Marketing</h3>
 										<p>Smart digital marketing with social media, SEO, and ads to increase reach, attract customers, and grow sales.</p>
-										<a id='linkclick4' href="#!">
+										<a id='linkclick4' href="digital_marketing.php">
 											Get Started <img src="images/arrow_forward.svg" uk-svg="" /></a>
 									</div>
 								</div>
@@ -141,7 +133,7 @@ include 'header.php';
 										uk-toggle="target: .imgNum6; mode: hover; cls: active">
 										<h3 class="subheading">Stream Overlay</h3>
 										<p>Well-designed overlays that give your streams a professional look and keep your audience focused and engaged.</p>
-										<a id='linkclick5' href="#!">
+										<a id='linkclick5' href="stream_overlay.php">
 											Get Started <img src="images/arrow_forward.svg" uk-svg="" /></a>
 									</div>
 								</div>
@@ -151,7 +143,7 @@ include 'header.php';
 										<h3 class="subheading">Emotes & Sub Badges</h3>
 										<p>Creative emotes and subscriber badges that build stronger connections with your fans and reward their support.
 										</p>
-										<a id='linkclick6' href="#!">
+										<a id='linkclick6' href="emotes_sub_badges.php">
 											Ready More<img src="images/arrow_forward.svg" uk-svg="" /></a>
 									</div>
 								</div>
@@ -160,7 +152,7 @@ include 'header.php';
 										uk-toggle="target: .imgNum8; mode: hover; cls: active">
 										<h3 class="subheading">VTuber & Custom Models</h3>
 										<p>Custom VTuber avatars and models that showcase your unique gamer personality and enhance your streaming presence.</p>
-										<a id='linkclick7' href="#!">
+										<a id='linkclick7' href="video_editing.php">
 											Get Started <img src="images/arrow_forward.svg" uk-svg="" /></a>
 									</div>
 								</div>
@@ -169,7 +161,7 @@ include 'header.php';
 										uk-toggle="target: .imgNum9; mode: hover; cls: active">
 										<h3 class="subheading">Video Editing</h3>
 										<p>Professional video editing that transforms raw clips into engaging content with smooth transitions and clear effects.</p>
-										<a id='linkclick8' href="#!">
+										<a id='linkclick8' href="video_editing.php">
 											Get Started <img src="images/arrow_forward.svg" uk-svg="" /></a>
 									</div>
 								</div>
@@ -178,7 +170,7 @@ include 'header.php';
 										uk-toggle="target: .imgNum10; mode: hover; cls: active">
 										<h3 class="subheading">Comic Book</h3>
 										<p>Custom comic book design with unique characters, creative panels, and storytelling tailored to your ideas.</p>
-										<a id='linkclick9' href="#!">
+										<a id='linkclick9' href="animations.php">
 											Get Started <img src="images/arrow_forward.svg" uk-svg="" /></a>
 									</div>
 								</div>
@@ -187,7 +179,7 @@ include 'header.php';
 										uk-toggle="target: .imgNum11; mode: hover; cls: active">
 										<h3 class="subheading">Branding</h3>
 										<p>Complete branding solutions including logos, colors, and guidelines to give your business a strong, consistent identity.</p>
-										<a id='linkclick10' href="#!">
+										<a id='linkclick10' href="branding.php">
 											Get Started <img src="images/arrow_forward.svg" uk-svg="" /></a>
 									</div>
 								</div>
@@ -196,7 +188,7 @@ include 'header.php';
 										uk-toggle="target: .imgNum12; mode: hover; cls: active">
 										<h3 class="subheading">Web Development</h3>
 										<p>Modern, responsive, and user-friendly websites designed to represent your brand and boost online success.</p>
-										<a id='linkclick11' href="#!">
+										<a id='linkclick11' href="web_development.php">
 											Get Started <img src="images/arrow_forward.svg" uk-svg="" /></a>
 									</div>
 								</div>
@@ -252,7 +244,7 @@ include 'header.php';
 								<h5 class="AnimFade">Creatives we made for clients</h5>
 								<p class="AnimFade">We have collaborated with streamers, gamers, creators, youtubers, businesses, and brands across multiple industries to make visuals, websites, and strategies that leave a mark. From gaming overlays to corporate branding, our portfolio reflects the creativity and commitment we bring to every project.</p>
 							
-								<a class="AnimFade" href="#!">See More <img src="images/arrow_forward.svg"
+								<a class="AnimFade" href="portfolio.php">See More <img src="images/arrow_forward.svg"
 										uk-svg="" /></a>
 							</div>
 							<a href="#!" class="animBox">
@@ -368,141 +360,207 @@ include 'header.php';
 			
 
 
-			<section class="OurCoreProducts uk-text-center">
-				<div class="uk-container ContainerCustom">
-					<h2 class="AnimFade">Technologyies</h2>
-					<div class="OurCoreProductsSlider AnimFade" uk-slider="">
-
-						<ul class="uk-slider-items">
-							<li>
-								<a target="_blank" href="#!">
-									<img src="images/productslogo/Blender.png" >
-								</a>
-							</li>
-							<li class="uk-active">
-								<a href="#!">
-									<img src="images/productslogo/Cinema4D.png" >
-								</a>
-							</li>
-							<li>
-								<a target="_blank" href="#!">
-									<img src="images/productslogo/CorelDraw.png">
-								</a>
-							</li>
-							<li>
-								<a target="_blank" href="#!">
-									<img src="images/productslogo/Figma.png">
-								</a>
-							</li>
-							<li>
-								<a href="#!">
-									<img src="images/productslogo/Illustrator.png">
-								</a>
-							</li>
-							<li>
-								<a target="_blank" href="#!">
-									<img src="images/productslogo/Photoshop.png">
-								</a>
-							</li>
-							<li>
-								<a target="_blank" href="#!">
-									<img src="images/productslogo/Shopify.png">
-								</a>
-							</li>
-							
-							<li>
-								<a target="_blank" href="#!">
-									<img src="images/productslogo/Maya.png">
-								</a>
-							</li>
-							<li>
-								<a target="_blank" href="#!">
-									<img src="images/productslogo/Wordpress.png">
-								</a>
-							</li>
-
-						</ul>
-						<a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#"
-							uk-slidenav-previous uk-slider-item="previous"></a>
-						<a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next
-							uk-slider-item="next"></a>
-					</div>
-				</div>
-			</section>
 	
-			
+			<section class="ClientSec OurCoreProducts uk-text-center">
+		<h2 class="AnimFade uk-scrollspy-inview uk-animation-fade" style="">Technologyies</h2>
+		<div class="OurCoreProductsSlider AnimFade uk-slider uk-slider-container uk-scrollspy-inview uk-animation-fade" uk-slider="autoplay: true; autoplay-interval: 500;" style="">
+		    <ul class="uk-slider-items" style="transform: translateX(-174px);">
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Blender.png" alt="Blender">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Cinema4D.png" alt="Cinema4D">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/CorelDraw.png" alt="CorelDraw">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Figma.png" alt="Figma">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Illustrator.png" alt="Illustrator">
+		        	</a>
+		        </li>
+		    
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Maya.png" alt="Maya">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Photoshop.png" alt="Photoshop">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Shopify.png" alt="Shopify">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Wordpress.png" alt="Wordpress">
+		        	</a>
+		        </li>
+		     
+		       <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Blender.png" alt="Blender">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Cinema4D.png" alt="Cinema4D">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/CorelDraw.png" alt="CorelDraw">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Figma.png" alt="Figma">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Illustrator.png" alt="Illustrator">
+		        	</a>
+		        </li>
+		    
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Maya.png" alt="Maya">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Photoshop.png" alt="Photoshop">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Shopify.png" alt="Shopify">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Wordpress.png" alt="Wordpress">
+		        	</a>
+		        </li>
+		        
+		    </ul>
+		    <a class="uk-position-center-left uk-position-small uk-hidden-hover uk-slidenav-previous uk-icon uk-slidenav" href="#" uk-slidenav-previous="" uk-slider-item="previous"><svg width="14" height="24" viewBox="0 0 14 24" xmlns="http://www.w3.org/2000/svg" data-svg="slidenav-previous"><polyline fill="none" stroke="#000" stroke-width="1.4" points="12.775,1 1.225,12 12.775,23 "></polyline></svg></a>
+		    <a class="uk-position-center-right uk-position-small uk-hidden-hover uk-slidenav-next uk-icon uk-slidenav" href="#" uk-slidenav-next="" uk-slider-item="next"><svg width="14" height="24" viewBox="0 0 14 24" xmlns="http://www.w3.org/2000/svg" data-svg="slidenav-next"><polyline fill="none" stroke="#000" stroke-width="1.4" points="1.225,23 12.775,12 1.225,1 "></polyline></svg></a>
+		</div>
+</section>
 				<!-- 7th Section Start -->
 			<?php include 'form.php'; ?>
 			<!-- 7th Section End -->
 
 			<!-- 5th Section Start -->
-			<section class="OurCoreProducts uk-text-center">
-				<div class="uk-container ContainerCustom">
-					<h2 class="AnimFade">Socials</h2>
-					<div class="OurCoreProductsSlider AnimFade" uk-slider="">
-
-						<ul class="uk-slider-items">
-							<li>
-								<a target="_blank" href="#!">
-									<img src="images/productslogo/Facebook.png" >
-								</a>
-							</li>
-							<li class="uk-active">
-								<a href="#!">
-									<img src="images/productslogo/Insta.png" >
-								</a>
-							</li>
-							<li>
-								<a target="_blank" href="#!">
-									<img src="images/productslogo/Discord.png">
-								</a>
-							</li>
-							<li>
-								<a target="_blank" href="#!">
-									<img src="images/productslogo/Kick.png">
-								</a>
-							</li>
-							<li>
-								<a href="#!">
-									<img src="images/productslogo/Youtube.png">
-								</a>
-							</li>
-							
-							
-							<li>
-								<a target="_blank" href="#!">
-									<img src="images/productslogo/Steam.png">
-								</a>
-							</li>
-							<li>
-								<a target="_blank" href="#!">
-									<img src="images/productslogo/Twitch.png">
-								</a>
-							</li>
-							
-
-						</ul>
-						<a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#"
-							uk-slidenav-previous uk-slider-item="previous"></a>
-						<a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next
-							uk-slider-item="next"></a>
-					</div>
-				</div>
-			</section>
+		<section class="ClientSec OurCoreProducts uk-text-center">
+		<h2 class="AnimFade uk-scrollspy-inview uk-animation-fade" style="">Your Channels, Our Creations</h2>
+		<p>From Twitch to Discord and beyond, we create graphics that make your streams unforgettable.</p>
+		<div class="OurCoreProductsSlider AnimFade uk-slider uk-slider-container uk-scrollspy-inview uk-animation-fade" uk-slider="autoplay: true; autoplay-interval: 500;" style="">
+		    <ul class="uk-slider-items" style="transform: translateX(-174px);">
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Discord.png" alt="Discord">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Facebook.png" alt="Facebook">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Insta.png" alt="Insta">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Kick.png" alt="Kick">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Steam.png" alt="Steam">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Twitch.png" alt="Twitch">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Youtube.png" alt="Youtube">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Discord.png" alt="Discord">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Facebook.png" alt="Facebook">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Insta.png" alt="Insta">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Kick.png" alt="Kick">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Steam.png" alt="Steam">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Twitch.png" alt="Twitch">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Youtube.png" alt="Youtube">
+		        	</a>
+		        </li>
+		    </ul>
+		    <a class="uk-position-center-left uk-position-small uk-hidden-hover uk-slidenav-previous uk-icon uk-slidenav" href="#" uk-slidenav-previous="" uk-slider-item="previous"><svg width="14" height="24" viewBox="0 0 14 24" xmlns="http://www.w3.org/2000/svg" data-svg="slidenav-previous"><polyline fill="none" stroke="#000" stroke-width="1.4" points="12.775,1 1.225,12 12.775,23 "></polyline></svg></a>
+		    <a class="uk-position-center-right uk-position-small uk-hidden-hover uk-slidenav-next uk-icon uk-slidenav" href="#" uk-slidenav-next="" uk-slider-item="next"><svg width="14" height="24" viewBox="0 0 14 24" xmlns="http://www.w3.org/2000/svg" data-svg="slidenav-next"><polyline fill="none" stroke="#000" stroke-width="1.4" points="1.225,23 12.775,12 1.225,1 "></polyline></svg></a>
+		</div>
+</section>
 			<!-- 5th Section End -->
 	<!-- 10th Section Start -->
 			<section class="SplitSec">
 				<duv class="uk-grid-collapse" uk-grid="">
 					<div class="uk-width-1-2@m">
-						<a href="#!" class="SplitBox Split1">
+						<a href="branding.php" class="SplitBox Split1">
 							<div class="splitoverlay" style="background-image: url(images/bggg.jpg);"></div>
 							<div class="mdl">
 								<div class="mdl_inner">
 									<div class="SplitBoxInner">
-										<h4 class="AnimFade" style="padding-right: 10px;">SAY HELLO TO THE DIGITAL WORLD
-											WITH US
-											GET IN TOUCH NOW!</h4>
-										<p class="AnimFade">Pick your drink, its on us <img
+										<h4 class="AnimFade" style="padding-right: 10px;">GROW YOUR BRAND ONLINE WITH OUR WEB & MARKETING SOLUTIONS! </h4>
+										<p class="AnimFade">Get Started<img
 												src="images/arrow_forward.svg" uk-svg="" /></p>
 									</div>
 								</div>
@@ -510,14 +568,14 @@ include 'header.php';
 						</a>
 					</div>
 					<div class="uk-width-1-2@m">
-						<a href="#!" class="SplitBox Split2">
+						<a href="gaming_design.php" class="SplitBox Split2">
 							<div class="splitoverlay"></div>
 							<div class="mdl">
 								<div class="mdl_inner">
 									<div class="SplitBoxInner">
-										<h4 class="AnimFade">THE SOLUTION-ORIENTED REVOLUTION AWAITS YOU
+										<h4 class="AnimFade">LEVEL UP YOUR STREAM WITH OUR GAMING DESIGNS START TODAY! 
 										</h4>
-										<p class="AnimFade">Click here to begin <img src="images/arrow_forward.svg"
+										<p class="AnimFade">Get Started <img src="images/arrow_forward.svg"
 												uk-svg="" /></p>
 									</div>
 								</div>

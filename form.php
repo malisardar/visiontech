@@ -112,8 +112,8 @@
 								<div class="uk-grid-small" uk-grid="">
 									<div class="uk-width-1-1">
 										<div class="ContactFld mb">
-											<h3>Talk to an expert</h3>
-											<p>Share you details so that our representative can contact you</p>
+											<h3>Looking for designs that stand out? Let’s collaborate</h3>
+											<p>Drop the details below and let’s create together.</p>
 										</div>
 									</div>
 									<div class="uk-width-1-1">

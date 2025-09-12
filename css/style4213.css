@@ -1,5 +1,115 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&amp;display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&amp;display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.poppins-thin {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.poppins-extralight {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.poppins-light {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.poppins-semibold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.poppins-extrabold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.poppins-black {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.poppins-thin-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.poppins-extralight-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.poppins-light-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.poppins-regular-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.poppins-medium-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.poppins-semibold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.poppins-bold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.poppins-extrabold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.poppins-black-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
 
 .uk-h1,
 .uk-h2,
@@ -163,7 +273,9 @@ p {
 	font-size: 22px;
 	line-height: 32px
 }
-
+p{
+	font-family: 'Poppins' !important;
+}
 .custom-cursor,
 .custom-cursor-dot {
 	position: fixed;
@@ -396,7 +508,7 @@ header.uk-active .MobileMenuBtn {
 .backtotop:hover,
 .ftrLink li a:hover,
 footer .topSocialIcons ul li a:hover {
-	color: #39ff40
+	color: #a663cc
 }
 
 .MainMenu>li:hover>a svg,
@@ -1282,7 +1394,7 @@ footer {
 .gridTxtContainer p {
 	font-size: 22px;
 	line-height: 32px;
-	color: #9c9d9d;
+	color: #686363;
 	margin-top: 0;
 	letter-spacing: -.5px
 }
@@ -1574,7 +1686,7 @@ input[type=number] {
 }
 
 .ContactFld .submitBtn:hover {
-	background-color: #27dc5d
+	background-color: #a663cc;
 }
 
 .ClientSec {
@@ -1900,9 +2012,11 @@ footer:after {
 	width: 22px;
 	margin-left: 5px
 }
-
+.partnerlogo img {
+    width: 80px;
+}
 .ftrCDetails a:hover {
-	color: #39ff40;
+	color: #a663cc;
 	background: 0 0
 }
 
@@ -5404,11 +5518,11 @@ body.loaded .loader-block {
 
 .WAApiSpan:hover {
 	color: #18171d;
-	background: #39ff40
+	background: #a663cc
 }
 
 .WAApiSpan:hover:after {
-	border-color: #39ff40 transparent transparent
+	border-color: #a663cc transparent transparent
 }
 
 .CenterTop a {
@@ -5421,7 +5535,7 @@ body.loaded .loader-block {
 	height: 1px;
 	bottom: -2px;
 	content: '';
-	background: #39ff40;
+	background: #a663cc;
 	transition: .3s;
 	position: absolute;
 	left: 0
