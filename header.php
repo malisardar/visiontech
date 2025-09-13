@@ -107,7 +107,7 @@
 				</li>
 				<li>
 
-					<a href="portfolio.php">About Us</a>
+					<a href="about-us.php">About Us</a>
 
 				</li>
 

@@ -4,16 +4,17 @@ $pageDescription = "Welcome to VisionTech, your trusted partner for innovative w
 $pageKeywords = "web development, IT services, software solutions";
 include 'header.php';
 ?>
-	
-	<!-- First Section Start -->
-	<section class="HomeHeader">
-
-	
+		<section class="HomeHeader">
+		
 		 <div class="headerimagezoom uk-visible@m" style="background-image: url(images/35.jpg);"></div> 
 		 <div class="headerimagezoom uk-hidden@m" style="background-image: url(images/35.jpg);"></div>
-		<div class="mdl">
-			<div class="mdl_inner">
-				<div class="uk-container ContainerCustom">
+			<div class="uk-container ContainerCustom">
+				<div class="">
+					<div uk-grid="">
+						<div class="uk-width-1-2@m">
+							<div class="mdl">
+								<div class="mdl_inner">
+									<div class="uk-container ContainerCustom">
 					<p class="hdranim" uk-scrollspy="cls:uk-animation-fade; delay: 500">Top Notch Design Agency</p>
 					<h1 class="heading hdranim">
 						<span class="TypewriterEffect" data-period="1000"
@@ -48,10 +49,24 @@ include 'header.php';
 						</div>
 					</div> 
 				</div>
+								</div>
+							</div>
+						</div>
+						<div class="uk-width-1-2@m">
+							<div class="mdl">
+								<div class="mdl_inner">
+									<div class="JustStartedimg uk-text-center AnimSlide">
+										<img loading="lazy" src="images/character.png" />
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
 			</div>
-		</div>
-		
-	</section>
+		</section>
+	<!-- First Section Start -->
+	
 	<!-- First Section End -->
 	<div class="FadeContainer" uk-scrollspy="cls: uk-animation-fade; target: .AnimFade; delay: 250">
 		<div class="HomePage" uk-scrollspy="cls: uk-animation-slide-bottom-medium; target: .AnimSlide; delay: 250">
