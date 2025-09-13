@@ -56,7 +56,7 @@ include 'header.php';
 							<div class="mdl">
 								<div class="mdl_inner">
 									<div class="JustStartedimg uk-text-center AnimSlide">
-										<img loading="lazy" src="images/character.png" />
+										<img loading="lazy" src="images/character.webp" />
 									</div>
 								</div>
 							</div>
