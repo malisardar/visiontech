@@ -70,37 +70,7 @@ include 'header.php';
 	</section>
 	<!-- 5th Section End -->
 
-	<!-- 6th Section Start -->
-	<section class="JustStartedSec beforeContainer">
-			<img class="before" src="images/about/aboutbg1.png" />
-			<div class="uk-container ContainerCustom">
-				<div class="JustStartedBox">
-					<div uk-grid="">
-						<div class="uk-width-1-2@m">
-							<div class="mdl">
-								<div class="mdl_inner">
-									<div class="JustStartedTxt">
-										<h2 class="AnimFade">DIGITAL <br/>ENHANCEMENT</h2>
-										<p class="AnimFade">At Convex, we aim to catalyze digital progression.</p>
-										<p>Our social media management, creative design, video production, and SEO expertise ensure that your business is not only catered but also prospers digitally.  </p>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="uk-width-1-2@m">
-							<div class="mdl">
-								<div class="mdl_inner">
-									<div class="JustStartedimg uk-text-center AnimSlide">
-										<img loading="lazy" src="images/about/about2.png" />
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-	
+
 	<section class="ClientSec OurCoreProducts uk-text-center">
 		<h2 class="AnimFade uk-scrollspy-inview uk-animation-fade" style="">Your Channels, Our Creations</h2>
 		<p>From Twitch to Discord and beyond, we create graphics that make your streams unforgettable.</p>
