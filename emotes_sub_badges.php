@@ -9,9 +9,9 @@ include 'header.php';
 
 <!-- First Section Start -->
 <section class="HomeHeader CreativeDesignHeader">
-	<div class="headerimagezoom uk-visible@m" style="background-image: url(images/creativedesign/i.jpg);"></div>
-	<div class="headerimagezoom uk-hidden@m" style="background-image: url(images/creativedesign/e.jpg);"></div>
-	<div class="colageSliderBox">
+	<div class="headerimagezoom uk-visible@m" style="background-image: url(images/Banners/Emotes.jpg);"></div>
+	<div class="headerimagezoom uk-hidden@m" style="background-image: url(images/Banners/Emotes.jpg);"></div>
+	<!-- <div class="colageSliderBox">
 		<div class="colageSlide" style="background-image: url(images/creativedesign/colage/a.jpg);"></div>
 		<div class="colageSlide" style="background-image: url(images/creativedesign/colage/b.jpg);"></div>
 		<div class="colageSlide" style="background-image: url(images/creativedesign/colage/c.jpg);"></div>
@@ -22,7 +22,7 @@ include 'header.php';
 		<div class="colageSlide" style="background-image: url(images/creativedesign/colage/i.jpg);"></div>
 		<div class="colageSlide" style="background-image: url(images/creativedesign/colage/j.jpg);"></div>
 		
-	</div>
+	</div> -->
 	
 	<div class="mdl">
 		<div class="mdl_inner">
@@ -83,7 +83,7 @@ include 'header.php';
 					<h2 class="AnimFade">What Sets Us Apart?</h2>
 					<p class="AnimFade">We're not only visual creators. Beyond that, we create tools that supercharge interaction and build loyalty. They are made to fit your channel's style and vibe, making your brand pop and keeping it consistent.</p>
 					<div class="vidImgBox AnimSlide">
-						<img src="images/creativedesign/timeless.jpg" />
+						<img src="images/small-box/Emotes.jpg" />
 					</div>
 				</div>
 			</div>

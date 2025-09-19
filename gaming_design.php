@@ -9,9 +9,9 @@ include 'header.php';
 
 <!-- First Section Start -->
 <section class="HomeHeader CreativeDesignHeader">
-	<div class="headerimagezoom uk-visible@m" style="background-image: url(images/creativedesign/i.jpg);"></div>
-	<div class="headerimagezoom uk-hidden@m" style="background-image: url(images/creativedesign/e.jpg);"></div>
-	<div class="colageSliderBox">
+	<div class="headerimagezoom uk-visible@m" style="background-image: url(images/Banners/Gaming.jpg);"></div>
+	<div class="headerimagezoom uk-hidden@m" style="background-image: url(images/Banners/Gaming.jpg);"></div>
+	<!-- <div class="colageSliderBox">
 		<div class="colageSlide" style="background-image: url(images/creativedesign/colage/a.jpg);"></div>
 		<div class="colageSlide" style="background-image: url(images/creativedesign/colage/b.jpg);"></div>
 		<div class="colageSlide" style="background-image: url(images/creativedesign/colage/c.jpg);"></div>
@@ -23,7 +23,7 @@ include 'header.php';
 		<div class="colageSlide" style="background-image: url(images/creativedesign/colage/j.jpg);"></div>
 		
 	</div>
-	
+	 -->
 	<div class="mdl">
 		<div class="mdl_inner">
 			<div class="uk-container ContainerCustom opacitytoggle">
@@ -82,10 +82,170 @@ include 'header.php';
 				<div class="AboutGameChangeBox">
 					<h2 class="AnimFade">Why Gamers Trust Our Expertise</h2>
 					<p class="AnimFade">Quality visuals are required to cut through the gaming world's saturation. Our designers know what grabs the audience's attention. From logos that represent your style to overlays and animations that make streams exciting. We design graphics that enhance your gaming experience.</p>
-				
+				<div class="vidImgBox AnimSlide">
+						<img src="images/small-box/Gaming.jpg" />
+					</div>
 				</div>
 			</div>
 		</section>
+
+		<section class="OfferServicesSec uk-text-center beforeContainer">
+			<img class="before" src="" />
+			<div class="uk-container ContainerCustom">
+				<p class="AnimFade">Why Our Gaming Design Work</p>
+				<h2 class="AnimFade">
+					Services
+				</h2>
+				<div class="uk-flex-center" uk-grid="">
+					<div class="uk-width-1-5@m uk-width-1-3@s uk-width-1-2@s">
+						<div class="OfferServicesBox AnimSlide">
+							<div class="OfferServicesImg">
+								<img src="images/creativedesign/ic-creative-design01.svg" uk-svg="" />
+							</div>
+							<div class="OfferServicestxt">
+								<h3>Unity</h3>
+							</div>
+						</div>
+					</div>
+					<div class="uk-width-1-5@m uk-width-1-3@s uk-width-1-2@s">
+						<div class="OfferServicesBox AnimSlide">
+							<div class="OfferServicesImg">
+								<img src="images/creativedesign/ic-creative-design02.svg" uk-svg="" />
+							</div>
+							<div class="OfferServicestxt">
+								<h3>Real Engine</h3>
+							</div>
+						</div>
+					</div>
+					<div class="uk-width-1-5@m uk-width-1-3@s uk-width-1-2@s">
+						<div class="OfferServicesBox AnimSlide">
+							<div class="OfferServicesImg">
+								<img src="images/creativedesign/ic-creative-design03.svg" uk-svg="" />
+							</div>
+							<div class="OfferServicestxt">
+								<h3>3D Maya</h3>
+							</div>
+						</div>
+					</div>
+					<div class="uk-width-1-5@m uk-width-1-3@s uk-width-1-2@s">
+						<div class="OfferServicesBox AnimSlide">
+							<div class="OfferServicesImg">
+								<img src="images/creativedesign/ic-creative-design04.svg" uk-svg="" />
+							</div>
+							<div class="OfferServicestxt">
+								<h3>Blender</h3>
+							</div>
+						</div>
+					</div>
+					
+				
+				</div>
+
+			</div>
+		</section>
+			<section class="ClientSec OurCoreProducts uk-text-center">
+		<h2 class="AnimFade uk-scrollspy-inview uk-animation-fade" style="">Technologyies</h2>
+		<div class="OurCoreProductsSlider AnimFade uk-slider uk-slider-container uk-scrollspy-inview uk-animation-fade" uk-slider="autoplay: true; autoplay-interval: 500;" style="">
+		    <ul class="uk-slider-items" style="transform: translateX(-174px);">
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Blender.png" alt="Blender">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Cinema4D.png" alt="Cinema4D">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/CorelDraw.png" alt="CorelDraw">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Figma.png" alt="Figma">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Illustrator.png" alt="Illustrator">
+		        	</a>
+		        </li>
+		    
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Maya.png" alt="Maya">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Photoshop.png" alt="Photoshop">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Shopify.png" alt="Shopify">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Wordpress.png" alt="Wordpress">
+		        	</a>
+		        </li>
+		     
+		       <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Blender.png" alt="Blender">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Cinema4D.png" alt="Cinema4D">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/CorelDraw.png" alt="CorelDraw">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Figma.png" alt="Figma">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Illustrator.png" alt="Illustrator">
+		        	</a>
+		        </li>
+		    
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Maya.png" alt="Maya">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Photoshop.png" alt="Photoshop">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Shopify.png" alt="Shopify">
+		        	</a>
+		        </li>
+		        <li class="" style="order: 1;">
+		        	<a href="javascript:;">
+		        		<img src="images/productslogo/Wordpress.png" alt="Wordpress">
+		        	</a>
+		        </li>
+		        
+		    </ul>
+		    <a class="uk-position-center-left uk-position-small uk-hidden-hover uk-slidenav-previous uk-icon uk-slidenav" href="#" uk-slidenav-previous="" uk-slider-item="previous"><svg width="14" height="24" viewBox="0 0 14 24" xmlns="http://www.w3.org/2000/svg" data-svg="slidenav-previous"><polyline fill="none" stroke="#000" stroke-width="1.4" points="12.775,1 1.225,12 12.775,23 "></polyline></svg></a>
+		    <a class="uk-position-center-right uk-position-small uk-hidden-hover uk-slidenav-next uk-icon uk-slidenav" href="#" uk-slidenav-next="" uk-slider-item="next"><svg width="14" height="24" viewBox="0 0 14 24" xmlns="http://www.w3.org/2000/svg" data-svg="slidenav-next"><polyline fill="none" stroke="#000" stroke-width="1.4" points="1.225,23 12.775,12 1.225,1 "></polyline></svg></a>
+		</div>
+</section>
 		<!-- 3rd Section End -->
 	<?php include 'form.php'; ?>
 		<!-- 10th Section End -->
