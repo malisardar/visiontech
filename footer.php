@@ -184,28 +184,40 @@
 		<!-- Social Icons  -->
 		<div class="topSocialIcons">
 			<!-- <p>Follow</p> -->
-			<ul>
-				<li>
-					<a target="_blank" href="#!">
-						<span uk-icon="icon: facebook"></span>
-					</a>
-				</li>
-				<li>
-					<a target="_blank" href="#!">
-						<span uk-icon="icon: twitter"></span>
-					</a>
-				</li>
-				<li>
-					<a target="_blank" href="#!">
-						<span uk-icon="icon: instagram"></span>
-					</a>
-				</li>
-				<li>
-					<a target="_blank" href="#!">
-						<span uk-icon="icon: linkedin"></span>
-					</a>
-				</li>
-			</ul>
+		<ul>
+
+			<li>
+
+				<a target="_blank" href="https://www.facebook.com/visiontechservicesandsolutions">
+
+					<span uk-icon="icon: facebook"></span>
+
+				</a>
+
+			</li>
+
+		
+			<li>
+
+				<a target="_blank" href="https://www.instagram.com/visiontechsolutionsvts/">
+
+					<span uk-icon="icon: instagram"></span>
+
+				</a>
+
+			</li>
+
+			<li>
+
+				<a target="_blank" href="https://www.linkedin.com/company/vision-tech-services-solutions/">
+
+					<span uk-icon="icon: linkedin"></span>
+
+				</a>
+
+			</li>
+
+		</ul>
 		</div>
 		<!-- End Social Icons  -->
 		<a class="backtotop" href="#" uk-scroll>BACK TO TOP <img src="images/backtop.svg" uk-svg="" /></a>
@@ -357,28 +369,40 @@
 					<div class="uk-width-1-1">
 						<!-- Social Icons  -->
 						<div class="MobileSocialIcons">
-							<ul>
-								<li>
-									<a target="_blank" href="#!">
-										<span uk-icon="icon: facebook"></span>
-									</a>
-								</li>
-								<li>
-									<a target="_blank" href="">
-										<span uk-icon="icon: twitter"></span>
-									</a>
-								</li>
-								<li>
-									<a target="_blank" href="#!">
-										<span uk-icon="icon: instagram"></span>
-									</a>
-								</li>
-								<li>
-									<a target="_blank" href="#!">
-										<span uk-icon="icon: linkedin"></span>
-									</a>
-								</li>
-							</ul>
+						<ul>
+
+			<li>
+
+				<a target="_blank" href="https://www.facebook.com/visiontechservicesandsolutions">
+
+					<span uk-icon="icon: facebook"></span>
+
+				</a>
+
+			</li>
+
+		
+			<li>
+
+				<a target="_blank" href="https://www.instagram.com/visiontechsolutionsvts/">
+
+					<span uk-icon="icon: instagram"></span>
+
+				</a>
+
+			</li>
+
+			<li>
+
+				<a target="_blank" href="https://www.linkedin.com/company/vision-tech-services-solutions/">
+
+					<span uk-icon="icon: linkedin"></span>
+
+				</a>
+
+			</li>
+
+		</ul>
 						</div>
 						<!-- End Social Icons  -->
 					</div>

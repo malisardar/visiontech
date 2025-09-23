@@ -60,10 +60,13 @@ include 'header.php';
 		<div class="uk-container ContainerCustom">
 			<div class="ServingtelecomBox">
 				<h2 class="AnimFade">WHO WE ARE?</h2>
-				<p class="AnimFade">We Are a Leading Design and Marketing Agency
+				<p class="AnimFade">The Future of Design and Marketing Starts Here
 </p>
 				
-				<p class="AnimFade"><strong>We are a USA-based design and marketing agency headquartered in New Jersey, with a strong production office in Pakistan. Since 2020, we have delivered design, development, and marketing services across multiple domains including gaming, eCommerce, corporate, education, health, and entertainment industries.</strong></p>
+				<p class="AnimFade"><strong>Founded in 2020, We are a USA-based Design and Marketing agency headquartered in New Jersey, with a strong production office in Pakistan. we combine creativity, technology, and strategy to deliver impactful digital solutions for businesses, brands, and creators worldwide.</strong></p>
+				<p class="AnimFade"><strong>Our expertise spans across gaming design, brand identity, digital marketing, video editing, and web development. From stream overlays and VTuber models to complete branding and marketing campaigns, we help our clients stand out in the digital space.</strong></p>
+				<p class="AnimFade"><strong>What makes us different is our ability to combine innovative design with smart marketing strategies. Whether you’re a gamer building your identity or a business aiming to expand online, we provide customized services that ensure results.</strong></p>
+				
 				<div><a class="readmore AnimFade" href="contact-us.php">Contact our experts <img loading="lazy" src="images/arrow_forward.svg" uk-svg="" /></a></div>
 			</div>
 		</div>

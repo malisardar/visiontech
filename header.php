@@ -438,7 +438,7 @@
 
 			<li>
 
-				<a target="_blank" href="#!">
+				<a target="_blank" href="https://www.facebook.com/visiontechservicesandsolutions">
 
 					<span uk-icon="icon: facebook"></span>
 
@@ -446,19 +446,10 @@
 
 			</li>
 
+		
 			<li>
 
-				<a target="_blank" href="#!">
-
-					<span uk-icon="icon: twitter"></span>
-
-				</a>
-
-			</li>
-
-			<li>
-
-				<a target="_blank" href="#!">
+				<a target="_blank" href="https://www.instagram.com/visiontechsolutionsvts/">
 
 					<span uk-icon="icon: instagram"></span>
 
@@ -468,7 +459,7 @@
 
 			<li>
 
-				<a target="_blank" href="#!">
+				<a target="_blank" href="https://www.linkedin.com/company/vision-tech-services-solutions/">
 
 					<span uk-icon="icon: linkedin"></span>
 
