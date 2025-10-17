@@ -244,6 +244,55 @@
 										</ul>
 									</div>
 									<!-- OTT Menu End -->
+									<!-- Technology Menu Start -->
+									<div class="uk-width-1-4">
+										<ul class="MenuList">
+											<li>
+												<h4>Writing</h4>
+											</li>
+											<li>
+												<a href="books-and-ebooks-writing.php">
+													<img src="images/icons/telecom.svg" /> <strong>Books & eBooks Writing </strong>
+													
+												</a>
+											</li>
+											<li>
+												<a href="digital_marketing.php">
+													<img src="images/icons/telecom.svg" /> <strong>Digital Marketing  </strong>
+													
+												</a>
+											</li>
+
+												<li>
+												<a href="web_development.php">
+													<img src="images/icons/telecom.svg" /> <strong>Web Development   </strong>
+													
+												</a>
+											</li>
+										</ul>
+									</div>
+									<!-- Technology Menu End -->
+									<!-- OTT Menu Start -->
+									<div class="uk-width-1-4">
+										<ul class="MenuList">
+											<li>
+												<h4></h4>
+											</li>
+											<li>
+												<a href="logo_design.php">
+													<img src="images/icons/telecom.svg" /> <strong>Logo Design   </strong>
+													
+												</a>
+											</li>
+												<li>
+												<a href="gaming_design.php">
+													<img src="images/icons/telecom.svg" /> <strong>Game Development   </strong>
+													
+												</a>
+											</li>
+										</ul>
+									</div>
+									<!-- OTT Menu End -->
 
 								</div>
 							</div>
@@ -430,7 +479,7 @@
 
 	<!-- Social Icons  -->
 
-	<div class="topSocialIcons">
+	<div class="topSocialIcons" style="display:none;">
 
 		<!-- <p>Follow</p> -->
 

@@ -315,7 +315,7 @@
         line-height: 28px;
     }
     .AboutPage .TechCompanySec .sec2heading {
-        font-size: 28px;
+        font-size: 40px;
         line-height: 38px;
     }
     .AboutGameChangeBox h2 {
@@ -1517,6 +1517,7 @@
         font-size: 26px;
         line-height: 32px;
         margin-bottom: 30px;
+        font-weight: 600;
     }
     .portHover h4 {
         font-size: 38px;
