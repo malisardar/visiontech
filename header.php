@@ -257,8 +257,8 @@
 												</a>
 											</li>
 											<li>
-												<a href="digital_marketing.php">
-													<img src="images/icons/telecom.svg" /> <strong>Digital Marketing  </strong>
+												<a href="creative-and-script-writing.php">
+													<img src="images/icons/telecom.svg" /> <strong>Creative & Script Writing  </strong>
 													
 												</a>
 											</li>

@@ -6025,7 +6025,7 @@ ul.portfolio_items li a img {
 
 
         .services-section_NEW {
-            padding: 80px 0px 100px;
+            padding: 0px 0px 100px;
             /* max-width: 1400px; */
             margin: 0 auto;
             position: relative;
@@ -6155,7 +6155,7 @@ ul.portfolio_items li a img {
     height: 100%;
     background: linear-gradient(135deg, #673AB7, rgb(156 104 247));
     border-radius: 12px;
-    transform: rotate(45deg);
+    transform: rotate(0deg);
     transition: transform 0.4s ease;
 }
 
@@ -6164,8 +6164,8 @@ ul.portfolio_items li a img {
 }
 
 .services-section_NEW .card-icon svg {
-    width: 28px;
-    height: 28px;
+    /* width: 40px;
+    height: 40px; */
     fill: #fff;
     position: relative;
     z-index: 1;
