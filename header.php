@@ -263,12 +263,7 @@
 												</a>
 											</li>
 
-												<li>
-												<a href="web_development.php">
-													<img src="images/icons/telecom.svg" /> <strong>Web Development   </strong>
-													
-												</a>
-											</li>
+												
 										</ul>
 									</div>
 									<!-- Technology Menu End -->
@@ -279,17 +274,23 @@
 												<h4></h4>
 											</li>
 											<li>
-												<a href="logo_design.php">
-													<img src="images/icons/telecom.svg" /> <strong>Logo Design   </strong>
+												<a href="Editing-and-Proofreading.php">
+													<img src="images/icons/telecom.svg" /> <strong>Editing & Proofreading</strong>
 													
 												</a>
 											</li>
-												<li>
+											<li>
+												<a href="professional-writing.php">
+													<img src="images/icons/telecom.svg" /> <strong> Professional Writing  </strong>
+													
+												</a>
+											</li>
+												<!-- <li>
 												<a href="gaming_design.php">
 													<img src="images/icons/telecom.svg" /> <strong>Game Development   </strong>
 													
 												</a>
-											</li>
+											</li> -->
 										</ul>
 									</div>
 									<!-- OTT Menu End -->
@@ -441,11 +442,47 @@
 
 						</li>
 
-						<li>
+						<li class="uk-parent">
 
 
-							<a href="portfolio.php">Portfolio</a>
+							<a href="portfolio.php">Writing</a>
+							<ul class="uk-nav-sub">
 
+							<li>
+												<a href="books-and-ebooks-writing.php">
+													<img src="images/icons/telecom.svg" /> <strong>Books &eBooks Writing </strong>
+													
+												</a>
+											</li>
+											<li>
+												<a href="creative-and-script-writing.php">
+													<img src="images/icons/telecom.svg" /> <strong>Creative & Script Writing  </strong>
+													
+												</a>
+											</li>
+
+												<li>
+												<a href="web_development.php">
+													<img src="images/icons/telecom.svg" /> <strong>Editing & Proofreading   </strong>
+													
+												</a>
+											</li>
+
+			
+											<li>
+												<a href="professional-writing.php">
+													<img src="images/icons/telecom.svg" /> <strong>Professional Writing</strong>
+													
+												</a>
+											</li>
+												<!-- <li>
+												<a href="gaming_design.php">
+													<img src="images/icons/telecom.svg" /> <strong>Game Development   </strong>
+													
+												</a>
+											</li> -->
+
+							</ul>
 						</li>
 
 

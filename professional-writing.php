@@ -29,9 +29,10 @@ include 'header.php';
 			<div class="uk-container ContainerCustom opacitytoggle">
 				<p uk-scrollspy="cls:uk-animation-fade; delay: 500">WRITING</p>
 				<h1 class="heading" uk-scrollspy="cls:uk-animation-fade; delay: 1000">
-					We Write Books <br>
-					That Sell and Make <br>
-					You a Recognized Author
+                      
+					 Stand Out. Get Noticed. <br>
+					Get Hired,  With <br>
+					Expertly Written Content 
 				</h1>
                    
 				<div class="" uk-grid="">
@@ -63,15 +64,14 @@ include 'header.php';
 		<section class="TechCompanySec uk-text-center">
 			<div class="uk-container ContainerCustom">
 				<!-- <h6 class="sec1heading AnimFade">DESIGNS WE CREATE ARE INSPIRED BY IDEAS THAT RESONATE</h6> -->
-				<h2 class="sec2heading AnimFade">You Have a Story We’ll Turn It into a Book Worth Reading </h2>
+				<h2 class="sec2heading AnimFade">We Write Words That Win Clients, Jobs, and Attention </h2>
 				<div class="toggleBtnBox">
 					<button class="toggleBtn"><img src="images/explorermore.svg" uk-svg="" /></button>
 				</div>
 				<div class="toggleBox">
-					<div class="pmdm"><p>From concept to publication, our professional book writers help you turn your concepts into
-                    well-structured, engaging, and marketable manuscripts for print and electronic media.From
-                    ghostwriting to full-scale eBook publishing, we handle every stage with precision and
-                    confidentiality.
+					<div class="pmdm"><p>From resumes to pitches,  our writers help professionals and businesses present their ideas 
+                    with clarity, confidence, and impact. We write to impress and to convert opportunities into 
+                    results. 
                     </p></div>
 					
 					
@@ -86,16 +86,13 @@ include 'header.php';
 			<div class="uk-container ContainerCustom">
 				<span class="borderTop"></span>
 				<div class="AboutGameChangeBox">
-					<h3 class="AnimFade">Your Manuscript Deserves More Than Just Words</h3>
-					<p class="AnimFade">Writing a book is not merely piling pages, it's about expressing your vision with purpose, clarity,
-                    and emotion. Every manuscript at Vision Tech is handled as an investment in your credibility for
-                    the long term. We don't write for you; we write with you, aligning your tone, goals, and message
-                    to produce something that makes a difference.
+					<h3 class="AnimFade">Because Your Words Represent You</h3>
+					<p class="AnimFade">In a world full of competition, the right words can open the right doors. We create resumes, 
+                    cover letters, and business presentations that accurately describe who you are and what you 
+                    have to offer. 
                     </p>
-					<p class="AnimFade">Our approach emphasizes teamwork, research, and storytelling accuracy, where every chapter
-                    contributes value, every word is meaningful, and every page propels your reader. From
-                    ghostwriting through to finishing publishing, we do the creative heavy lifting while you
-                    concentrate on what matters most to your vision.
+					<p class="AnimFade">Our focus is straightforward,  accuracy, professionalism, and persuasion. If you're ascending the 
+                        corporate ladder or pitching your next great idea, we can assist with saying it correctly.
 
                     </p>
 					<div class="services-section_NEW">
@@ -107,16 +104,16 @@ include 'header.php';
 								<div class="card-number">01</div>
 								<div class="card-icon">
 									<lord-icon
-										src="https://cdn.lordicon.com/vwzukuhn.json"
-										trigger="loop"
-										delay="1500"
-										state="in-reveal"
-										colors="primary:#320a5c,secondary:#ffffff,tertiary:#320a5c,quaternary:#e5d1fa"
-										style="width:250px;height:250px">
-									</lord-icon>
+                                    src="https://cdn.lordicon.com/lzsupfwm.json"
+                                    trigger="loop"
+                                    delay="1500"
+                                    state="in-reveal"
+                                    colors="primary:#121331,secondary:#e5d1fa,tertiary:#ffffff"
+                                    style="width:250px;height:250px">
+                                </lord-icon>
 								</div>
 								<div class="card-content">
-									<h5>Ghostwriting Services</h5>
+									<h5>Resume Writing  </h5>
 								</div>
 								<div class="card-decorator"></div>
 							</div>
@@ -125,16 +122,16 @@ include 'header.php';
 								<div class="card-number">02</div>
 								<div class="card-icon">
 									<lord-icon
-										src="https://cdn.lordicon.com/zxqcyyit.json"
-										trigger="loop"
-										delay="2000"
-										state="hover-unroll"
-										colors="primary:#320a5c,secondary:#e5d1fa,tertiary:#8930e8,quaternary:#2ca58d,quinary:#e5d1fa"
-										style="width:250px;height:250px">
-									</lord-icon>
+                                        src="https://cdn.lordicon.com/gtvaxhwv.json"
+                                        trigger="loop"
+                                        delay="1500"
+                                        state="in-unfold"
+                                        colors="primary:#320a5c,secondary:#c69cf4,tertiary:#e5d1fa,quaternary:#8930e8"
+                                        style="width:250px;height:250px">
+                                    </lord-icon>
 								</div>
 								<div class="card-content">
-									<h5>Fiction & Non-fiction Books</h5>
+									<h5>Cover Letters </h5>
 								</div>
 								<div class="card-decorator"></div>
 							</div>
@@ -143,16 +140,16 @@ include 'header.php';
 								<div class="card-number">03</div>
 								<div class="card-icon">
 									<lord-icon
-										src="https://cdn.lordicon.com/tbabdzcy.json"
-										trigger="in"
-										delay="1500"
-										state="in-unfold"
-										colors="primary:#320a5c,secondary:#e5d1fa"
-										style="width:250px;height:250px">
-									</lord-icon>
+                                        src="https://cdn.lordicon.com/xjugsqts.json"
+                                        trigger="loop"
+                                        delay="1500"
+                                        state="in-reveal"
+                                        colors="primary:#8930e8,secondary:#e5d1fa"
+                                        style="width:250px;height:250px">
+                                    </lord-icon>
 								</div>
 								<div class="card-content">
-									<h5>Biographies & Memoirs</h5>
+									<h5>LinkedIn Profile Summaries  </h5>
 								</div>
 								<div class="card-decorator"></div>
 							</div>
@@ -161,21 +158,21 @@ include 'header.php';
 								<div class="card-number">04</div>
 								<div class="card-icon">
 									<lord-icon
-										src="https://cdn.lordicon.com/biuhrytq.json"
-										trigger="loop"
-										delay="1500"
-										state="in-reveal"
-										colors="primary:#320a5c,secondary:#e5d1fa,tertiary:#c69cf4,quaternary:#ffffff,quinary:#c69cf4,senary:#e5d1fa,septenary:#2ca58d,octonary:#e5d1fa"
-										style="width:250px;height:250px">
-									</lord-icon>
+                                        src="https://cdn.lordicon.com/xynedksr.json"
+                                        trigger="in"
+                                        delay="1500"
+                                        state="in-reveal"
+                                        colors="primary:#8930e8,secondary:#c69cf4,tertiary:#e5d1fa"
+                                        style="width:250px;height:250px">
+                                    </lord-icon>
 								</div>
 								<div class="card-content">
-									<h5>Self-help & Motivational Books</h5>
+									<h5>Presentation & Pitch Deck Writing  </h5>
 								</div>
 								<div class="card-decorator"></div>
 							</div>
 
-							<div class="service-card">
+							<!-- <div class="service-card">
 								<div class="card-number">05</div>
 								<div class="card-icon">
 									<lord-icon
@@ -192,9 +189,9 @@ include 'header.php';
 									<h5>Business & Educational Books</h5>
 								</div>
 								<div class="card-decorator"></div>
-							</div>
+							</div> -->
 
-							<div class="service-card">
+							<!-- <div class="service-card">
 								<div class="card-number">06</div>
 								<div class="card-icon">
 									<lord-icon
@@ -210,27 +207,27 @@ include 'header.php';
 									<h5>Children's Book Writing</h5>
 								</div>
 								<div class="card-decorator"></div>
-							</div>
+							</div> -->
 
-							<div class="service-card">
-								<div class="card-number">07</div>
+							<!-- <div class="service-card">
+								<div class="card-number">05</div>
 								<div class="card-icon">
 									<lord-icon
-										src="https://cdn.lordicon.com/rkozjzdh.json"
-										trigger="loop"
-										delay="1500"
-										state="in-reveal"
-										colors="primary:#320a5c,secondary:#e5d1fa,tertiary:#ffffff,quaternary:#e5d1fa"
-										style="width:250px;height:250px">
-									</lord-icon>
+											src="https://cdn.lordicon.com/uihwbzln.json"
+											trigger="loop"
+											delay="1000"
+											state="morph-select"
+											colors="primary:#121331,secondary:#e5d1fa,tertiary:#c69cf4"
+											style="width:250px;height:250px">
+										</lord-icon>   
 								</div>
 								<div class="card-content">
-									<h5>eBook Writing & Publishing</h5>
+									<h5>Author Feedback & Revision Support</h5>
 								</div>
 								<div class="card-decorator"></div>
-							</div>
+							</div> -->
 
-							<div class="service-card">
+							<!-- <div class="service-card">
 								<div class="card-number">08</div>
 								<div class="card-icon">
 									<lord-icon
@@ -246,7 +243,7 @@ include 'header.php';
 									<h5>Amazon Kindle & PDF Formatting</h5>
 								</div>
 								<div class="card-decorator"></div>
-							</div>
+							</div> -->
 						</div>
 					</div>
 					<div class="vidImgBox AnimSlide">
@@ -459,8 +456,8 @@ include 'header.php';
 						<div class="mdl">
 							<div class="mdl_inner">
 								<div class="contactTxt">
-									<h3 class="AnimFade">Ready to Become a Published Author? </h3>
-									<p class="AnimFade">Your ideas deserve more than drafts,  they deserve readers. </p>
+									<h3 class="AnimFade">Ready to Level Up Your Professional Presence?   </h3>
+									<p class="AnimFade">Let’s write words that define your expertise and help you achieve your goals.   </p>
 								</div>
 							</div>
 						</div>
@@ -563,7 +560,7 @@ include 'header.php';
     <div class="uk-grid-small" uk-grid="">
         <div class="uk-width-1-1">
             <div class="ContactFld mb">
-                <h3>Can’t Find the Words?  Let Us Write Your Book and Make It a Bestseller.  </h3>
+                <h3>Get a Professionally Written Profile Today. </h3>
                 <p>Share you details so that our representative can contact you</p>
             </div>
         </div>

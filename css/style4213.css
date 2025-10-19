@@ -1144,7 +1144,8 @@ footer {
 	font-size: 24px;
 	line-height: 28px;
 	color: #fff;
-	transition: .3s
+	transition: .3s;
+	font-weight: 600;
 }
 
 .expertiseBox p {
@@ -1523,7 +1524,8 @@ footer {
 	line-height: 48px;
 	float: left;
 	width: 100%;
-	margin-bottom: 40px
+	margin-bottom: 40px;
+	font-weight: 600;
 }
 
 .OurCoreProductsSlider li {
@@ -1596,7 +1598,9 @@ footer {
 	padding: 120px 0;
 	position: relative
 }
-
+.brandSlideUN  .uk-slider-items .uk-active img {
+	width: 90px;
+}
 .contactTxt {
 	float: left;
 	width: 100%;

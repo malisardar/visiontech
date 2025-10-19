@@ -111,7 +111,7 @@
         line-height: 26px;
     }
     .expertiseBox p {
-        font-size: 14px;
+        font-size: 15px;
         line-height: 20px;
         height: 80px;
     }
@@ -951,8 +951,8 @@
     }
     .SubMenuSec {
         padding: 80px 50px 0;
-        height: 570px;
-        top: -570px;
+        height: auto;
+        top: -680px;
     }
     .MenuList li p {
         line-height: 17px; 
@@ -1703,8 +1703,8 @@
     }
     .SubMenuSec {
         padding: 80px 50px 0;
-        height: 550px;
-        top: -550px;
+        height: auto;
+        top: -645px;
     }
     .MenuList li p {
         line-height: 17px; 
@@ -1751,7 +1751,7 @@
         line-height: 20px;
     }
     .AboutPage .TechCompanySec .sec2heading {
-        font-size: 20px;
+        font-size: 35px;
         line-height: 24px;
     }
     .AboutGameChangeBox h2 {

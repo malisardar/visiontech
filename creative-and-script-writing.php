@@ -10,7 +10,7 @@ include 'header.php';
 <!-- First Section Start -->
 <section class="HomeHeader CreativeDesignHeader">
 	<div class="headerimagezoom uk-visible@m" style="background-image: url(images/Banners/writing_banner.jpg);"></div>
-	<div class="headerimagezoom uk-hidden@m" style="background-image: url(images/Banners/writing_banner2.jpg);"></div>
+	<div class="headerimagezoom uk-hidden@m" style="background-image: url(images/Banners/writing_banner.jpg);"></div>
 	<!-- <div class="colageSliderBox">
 		<div class="colageSlide" style="background-image: url(images/creativedesign/colage/a.jpg);"></div>
 		<div class="colageSlide" style="background-image: url(images/creativedesign/colage/b.jpg);"></div>
