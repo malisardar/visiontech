@@ -111,7 +111,7 @@
         line-height: 26px;
     }
     .expertiseBox p {
-        font-size: 14px;
+        font-size: 15px;
         line-height: 20px;
         height: 80px;
     }
@@ -315,7 +315,7 @@
         line-height: 28px;
     }
     .AboutPage .TechCompanySec .sec2heading {
-        font-size: 28px;
+        font-size: 40px;
         line-height: 38px;
     }
     .AboutGameChangeBox h2 {
@@ -951,8 +951,8 @@
     }
     .SubMenuSec {
         padding: 80px 50px 0;
-        height: 570px;
-        top: -570px;
+        height: auto;
+        top: -680px;
     }
     .MenuList li p {
         line-height: 17px; 
@@ -1517,6 +1517,7 @@
         font-size: 26px;
         line-height: 32px;
         margin-bottom: 30px;
+        font-weight: 600;
     }
     .portHover h4 {
         font-size: 38px;
@@ -1702,8 +1703,8 @@
     }
     .SubMenuSec {
         padding: 80px 50px 0;
-        height: 550px;
-        top: -550px;
+        height: auto;
+        top: -645px;
     }
     .MenuList li p {
         line-height: 17px; 
@@ -1750,7 +1751,7 @@
         line-height: 20px;
     }
     .AboutPage .TechCompanySec .sec2heading {
-        font-size: 20px;
+        font-size: 35px;
         line-height: 24px;
     }
     .AboutGameChangeBox h2 {

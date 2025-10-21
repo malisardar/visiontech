@@ -5,7 +5,7 @@ $pageTitle = "VisionTech | Emotes Sub Badges";
 $pageDescription = "Welcome to VisionTech, your trusted partner for innovative web solutions.";
 $pageKeywords = "web development, IT services, software solutions";
 include 'header.php';
-?>
+?>    
 
 <!-- First Section Start -->
 <section class="HomeHeader CreativeDesignHeader">

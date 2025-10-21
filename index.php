@@ -487,7 +487,7 @@ include 'header.php';
 		<section class="ClientSec OurCoreProducts uk-text-center">
 		<h2 class="AnimFade uk-scrollspy-inview uk-animation-fade" style="">Your Channels, Our Creations</h2>
 		<p>From Twitch to Discord and beyond, we create graphics that make your streams unforgettable.</p>
-		<div class="OurCoreProductsSlider AnimFade uk-slider uk-slider-container uk-scrollspy-inview uk-animation-fade" uk-slider="autoplay: true; autoplay-interval: 500;" style="">
+		<div class="OurCoreProductsSlider brandSlideUN AnimFade uk-slider uk-slider-container uk-scrollspy-inview uk-animation-fade" uk-slider="autoplay: true; autoplay-interval: 500;" style="">
 		    <ul class="uk-slider-items" style="transform: translateX(-174px);">
 		        <li class="" style="order: 1;">
 		        	<a href="javascript:;">
